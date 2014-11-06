@@ -22,7 +22,6 @@ pulling out the "vertices" from the spatial.ConvexHull object - this gives the i
 
 This is all integrated into a single function:
 
-
 	import os
 	import sys
 	import numpy as np
@@ -84,7 +83,6 @@ to the below function which writes out the xy positions of hull_indices from xy_
 			f.write("%f %f\n" %(value_y, value_x))
 
 		f.close()
-
 
 This should give something similar to the following:
 
