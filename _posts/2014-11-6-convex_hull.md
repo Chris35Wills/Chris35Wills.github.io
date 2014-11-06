@@ -10,8 +10,8 @@ This is predominantly facilitated using scipy spatial's [ConvexHull](http://docs
 
 Using a resampled xy point file I managed to get the following:
 
-#IMAGE OF ORIGINAL INPUT POINTS#
-#IMAGE OF HULL POINTS#
+####IMAGE OF ORIGINAL INPUT POINTS#
+####IMAGE OF HULL POINTS#
 
 For my application I required the hull points to be printed out into a txt/csv in order of position (i.e. going clockwise around the hull). This is enabled by simply 
 pulling out the "vertices" from the spatial.ConvexHull object - this gives the indicies of the convex hull points within the original xy input file:
@@ -24,7 +24,7 @@ hull_indices = hull.vertices
 
 This is all integrated into a single function:
 
-```python
+```
 import os
 import sys
 import numpy as np
@@ -72,7 +72,7 @@ array([17218337,    48757,     3476,     1517,      649,       73,
 The hull vertex indices (hull_indices) can then be passed in with the main xy point file (xy_file) (along with an output path (opath) and output file name (file_name)
 to the below function which writes out the xy positions of hull_indices from xy_file (in the format I required):
 
-```python
+```
 def write_convex_hull_xy(xy_file, hull_indices, opath, file_name):
 	'''
 	Takes the convex hull verticies (an array of indicies) and
