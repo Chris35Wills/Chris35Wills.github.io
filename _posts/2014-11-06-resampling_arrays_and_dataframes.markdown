@@ -24,4 +24,4 @@ Nth.row <- function(dataframe, n) dataframe[(seq (n, to=nrow(dataframe), by=n)),
 resampled_df <- Nth.row(df, 10)
 ```
 
-Tags: python, R, resample, skip rows, array, dataframe
+
