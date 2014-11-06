@@ -11,6 +11,7 @@ This is predominantly facilitated using scipy spatial's [ConvexHull](http://docs
 Using a resampled xy point file I managed to get the following:
 
 ####IMAGE OF ORIGINAL INPUT POINTS
+
 ####IMAGE OF HULL POINTS
 
 For my application I required the hull points to be printed out into a txt/csv in order of position (i.e. going clockwise around the hull). This is enabled by simply 
