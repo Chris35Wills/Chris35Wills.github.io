@@ -1,16 +1,18 @@
-<!DOCTYPE HTML>
-<html>
+---
+layout: default
+---
 
-<body>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">    
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<h1> Research, code, pictures and maybe even some maps</h1>
-
-<p>Here are the dirty html beginnings to a webpage that will be updated far more frequently than all other previous attempts I have endeavoured upon as regard establishing some sort of web presence.</p>
-
-
-<p>I'll be adding a lot more here and posting stuff blogstyle via Jekyll</p>
-
-<p>Some topics I'll hopefully cover: Python/Java/GIS/Geostats/Glaciology(codewise)</p>
-
-</body>
-</html>
+      <div class="entry">
+        {{ post.content | truncatewords:40}}
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
