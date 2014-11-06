@@ -6,8 +6,8 @@ tags: python, R, resample, skip rows, array, dataframe
 ---
 
 I've been experimenting with various different tools recently and for speed required 
-smaller but representative data from my current project. Here are two ways of getting 
-every nth line of an array (python) or dataframe (R):
+smaller but representative data from my current project. Here are two ways of resampling 
+an array by using only every nth line of the original array (python) or dataframe (R):
 
 Python: 
 
