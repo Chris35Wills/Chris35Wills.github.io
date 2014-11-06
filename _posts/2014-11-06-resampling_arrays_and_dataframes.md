@@ -11,17 +11,13 @@ an array by using only every nth line of the original array (python) or datafram
 
 Python: 
 
-```python
-# assume n = 10
-resampled_array = array[0::10]
-```
+	# assume n = 10
+	resampled_array = array[0::10]
 
 R: 
 
-```r
-# assume n = 10
-Nth.row <- function(dataframe, n) dataframe[(seq (n, to=nrow(dataframe), by=n)),]
-resampled_df <- Nth.row(df, 10)
-```
+	# assume n = 10
+	Nth.row <- function(dataframe, n) dataframe[(seq (n, to=nrow(dataframe), by=n)),]
+	resampled_df <- Nth.row(df, 10)
 
 
