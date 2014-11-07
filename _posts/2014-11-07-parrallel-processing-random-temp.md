@@ -2,7 +2,7 @@
 layout: post
 title: Problems of parallel processing - shared file names
 categories: general
-tags: csh parallel processing random
+tags: csh, parallel processing, random
 ---
 
 Ensure any temp files that may be written to don't run the risk of being accessed by scripts 
