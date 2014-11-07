@@ -13,7 +13,7 @@ I found a handy fix in csh (easily replicated in any other language) was to get 
 of doing the following at the beginning of a script and then for different temporary files as 
 required:
 
-{% hightlight csh %}
+{% highlight csh %}
 	#! /bin/csh
 
 	% Create random number for temp file to avoid messing up when running script in parallel
