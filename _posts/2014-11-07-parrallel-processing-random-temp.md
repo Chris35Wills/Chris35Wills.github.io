@@ -26,4 +26,4 @@ required:
 	# Do what you need with temp_$random_number and then get rid of it		
 
 	rm -f temp_$random_number
-{% endhighlight %}
+{% endhighlight %}  
