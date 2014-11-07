@@ -10,15 +10,15 @@ smaller but representative data from my current project. Here are two ways of re
 an array by using only every nth line of the original array (python) or dataframe (R):
 
 Python: 
-{{ "{% highlight python " }}%} 
+{% highlight python %} 
 /* assume n = 10 */
 resampled_array = array[0::10]
-{{ "{% endhighlight " }}%}  
+{% endhighlight %}  
 
 R: 
-{{ "{% highlight r " }}%} 
+{% highlight r %} 
 /* assume n = 10 */
 Nth.row <- function(dataframe, n) dataframe[(seq (n, to=nrow(dataframe), by=n)),]
 resampled_df <- Nth.row(df, 10)
-{{ "{% endhighlight " }}%}  
+{% endhighlight %}  
 
