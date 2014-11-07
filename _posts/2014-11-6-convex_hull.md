@@ -8,14 +8,6 @@ tags: python scipy convex hull lidar
 Working with LiDAR point data it was necessary for me to polygonize the point cloud extent. A first approach was to calculate the convex hull of the points.
 This is predominantly facilitated using scipy spatial's [ConvexHull](http://docs.scipy.org/doc/scipy-dev/reference/generated/scipy.spatial.ConvexHull.html) function.
 
-From this xy point dataset:
-
-![Original point image]({{ site.baseurl }}/images/HELHEIM_04_POINTS.png "Original points")
-
-I managed to get the following:
-
-![Convex hull point verticies]({{ site.baseurl }}/images/HELHEIM_04.png "Convex hull point vertices")
-
 For my application I required the hull points to be printed out into a txt/csv in order of position (i.e. going clockwise around the hull). This is enabled by simply 
 pulling out the "vertices" from the spatial.ConvexHull object - this gives the indicies of the convex hull points within the original xy input file:
 
@@ -104,6 +96,14 @@ This should give something similar to the following:
 540478.750000 7362163.000000
 	            ... etc.
 {% endhighlight %}
+
+Ultimately, from this xy point dataset:
+
+![Original point image]({{ site.baseurl }}/images/HELHEIM_04_POINTS.png "Original points")
+
+I managed to get the following:
+
+![Convex hull point verticies]({{ site.baseurl }}/images/HELHEIM_04.png "Convex hull point vertices")
 
 
 
