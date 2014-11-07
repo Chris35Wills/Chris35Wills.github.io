@@ -14,16 +14,16 @@ of doing the following at the beginning of a script and then for different tempo
 required:
 
 {% hightlight csh %}
-#! /bin/csh
+	#! /bin/csh
 
-# Create random number for temp file to avoid messing up when running script in parallel
-set random_number = `awk 'BEGIN {srand(); print int(rand()*3000)}'`
+	% Create random number for temp file to avoid messing up when running script in parallel
+	set random_number = `awk 'BEGIN {srand(); print int(rand()*3000)}'`
 
-# Make use of your temp file (here just appending variables to it)
-echo $variable_1 $variable_2 >> temp_$random_number
-echo $variable_3 $variable_4 >> temp_$random_number
+	# Make use of your temp file (here just appending variables to it)
+	echo $variable_1 $variable_2 >> temp_$random_number
+	echo $variable_3 $variable_4 >> temp_$random_number
 
-# Do what you need with temp_$random_number and then get rid of it		
+	# Do what you need with temp_$random_number and then get rid of it		
 
-rm -f temp_$random_number
+	rm -f temp_$random_number
 {% endhightlight %}
