@@ -10,7 +10,7 @@ because of the "across the hall and up the stairs" phrase I remember from school
 geography lessons. 
 
 When dealing with arrays and looking at their shape, python will always report the 
-rows first and then the columns. You can think of this howver you like (i,j) or 
+rows first and then the columns. You can think of this however you like (i,j) or 
 (x,y) or (rows,cols). Whatever your preference, j, y or rows come first followed 
 by j or x or cols.
 
@@ -22,6 +22,6 @@ Out[113]: (11000, 6000)
 {% endhighlight %}
 
 Python goes down the stairs and across the hall - perhaps this is the result of 
-the serpentine link to snakes and ladders - the snake wantsa you to slip back down 
+the serpentine link to snakes and ladders - the snake wants you to slip back down 
 to the beginning as opposed to going across and up a ladder... alas, I digress.
 
