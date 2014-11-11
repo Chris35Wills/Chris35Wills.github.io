@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snakes and ladders - rows and cols in Python
+title: Snakes and ladders - rows and columns in Python
 categories: Python
 tags: python, image, array
 ---
