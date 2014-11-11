@@ -11,8 +11,8 @@ geography lessons.
 
 When dealing with arrays and looking at their shape, python will always report the 
 rows first and then the columns. You can think of this howver you like (i,j) or 
-(x,y) or (rows,cols). Whatever your preference, j, y or cols come first followed 
-by j or x or rows.
+(x,y) or (rows,cols). Whatever your preference, j, y or rows come first followed 
+by j or x or cols.
 
 {% highlight python %}
 In [113]: image_array.shape
