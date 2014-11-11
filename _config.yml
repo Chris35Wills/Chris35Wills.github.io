@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: users/3407179/chriswills
 
 # Your disqus shortname, entering this will enable commenting on posts
-# disqus: 
+disqus: disqus_8jF8OTw1FD
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
@@ -49,7 +49,7 @@ footer-links:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-#markdown: kramdown
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
