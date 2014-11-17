@@ -86,7 +86,7 @@ def ENVI_raster_binary_to_2d_array(file_name):
 # must change the returns to suit
 {% endhighlight %}  
 
-There is a lot more you can retrun from the above function as you can see - adjust to taste. To import files of different types, have a look [here](http://www.gdal.org/formats_list.html)
+There is a lot more you can return from the above function as you can see - adjust to taste. To import files of different types, have a look [here](http://www.gdal.org/formats_list.html)
 and alter the line:
 
 {% highlight python %} 
