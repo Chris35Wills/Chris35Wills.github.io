@@ -7,7 +7,7 @@ tags: python, gdal, numpy, envi, raster
 
 Most of my work currently revolves around raster processing of one kind or another. Being able to take advantage of the extensive libraries within Python (e.g. Numpy) is extremely helpful when carrying out such tasks. This [blog](http://geoinformaticstutorial.blogspot.co.uk/2012/09/reading-raster-data-with-python-and-gdal.html) really got me onto this.
 
-Before trying to make use of the below functions, make sure you have access to the osgeo libraries - if you don't see [here](http://trac.osgeo.org/gdal/wiki/GdalOgrInPython).
+Before trying to make use of the below functions, make sure you have access to the osgeo libraries - if you don't, see [here](http://trac.osgeo.org/gdal/wiki/GdalOgrInPython).
 
 Below is a Python function that you can take that will get any given ENVI type binary file (so long as it has a .hdr file) into a numpy array. 
 
