@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux - bits and pieces
-permalink: /linux bits/
+permalink: /linux_bits/
 ---
 
 ### Bits and pieces 
