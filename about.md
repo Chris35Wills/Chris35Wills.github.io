@@ -14,8 +14,6 @@ I'm a cryospheric researcher with a keen interest in geospatial problems and env
 
 This site is really a way of me getting my notes and findings out there rather than keeping what I work out hidden away inside my computer - someone else might find this stuff useful too. 
 
-So many things are duplicated - especially in science - and this all boils down to a lack of sharing.
-
 ## Contact me
 
 [chris.williams@bristol.ac.uk](mailto:chris.williams@bristol.ac.uk)
