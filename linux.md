@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux terminal
-permalink: /linux_bits/
+permalink: /linuxbits/
 ---
 
 Notes I made from reading and searching when I got started with linux. A good place to visit for a proper "how to course" in terminal can be found [here](http://learnpythonthehardway.org/book/appendixa.html).
