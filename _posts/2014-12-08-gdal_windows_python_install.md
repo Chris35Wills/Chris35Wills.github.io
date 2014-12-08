@@ -9,13 +9,13 @@ The [gdal](http://www.gdal.org/) library is an excellent source of tools that he
 
 Some particularly useful tools I've found are:
 
->gdal_translate		convert between raster formats
+>gdal_translate		
+>gdalinfo		
+>gdal_warp		
 
->gdalinfo		list info relating to a given raster 
+which let you: convert between raster formats, list info relating to a given raster and reproject raster data respectively.
 
->gdal_warp		reproject raster data
-
-To use it with Python - assuming that python is already installed and you know which version you have - you require the gdal bindings which can be downloaded [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal).
+To use it with Python - assuming that python is already installed and you know which version you have - you require the gdal bindings which can be downloaded [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal). If you have windows 7 and Python version 2.7, then you want to scroll down to the GDAL list and run GDAL-1.11.1.win-amd64-py2.7.exe
 
 Importing the gdal library into your python environment is then possible using:
 
