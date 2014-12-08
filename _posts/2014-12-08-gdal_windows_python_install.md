@@ -9,8 +9,10 @@ The [gdal](http://www.gdal.org/) library is an excellent source of tools that he
 
 Some particularly useful tools I've found are:
 
->gdal_translate		
+>gdal_translate	
+	
 >gdalinfo		
+
 >gdal_warp		
 
 which let you: convert between raster formats, list info relating to a given raster and reproject raster data respectively.
