@@ -42,6 +42,6 @@ See all folders in dir:
 
 `Get-ChildItem -Path .\ -Directory`
 
-Search for file in dir recursively
+Search for file in dir recursively:
 
 `ls *.sh -recurse`
