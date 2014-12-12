@@ -21,8 +21,7 @@ yy <- points[[2]]
 
 # Calculate kernel density function
 dens <- kde2d(xx, yy)
-densdf <- data.frame(expand.grid(easting = dens$x, northing = dens$y), 
-												density = as.vector(dens$z))
+densdf <- data.frame(expand.grid(easting = dens$x, northing = dens$y), density = as.vector(dens$z))
 
 write.table(densdf, "YOUR_output_table", sep="\t")
 {% endhighlight %}
@@ -90,8 +89,7 @@ The logged density grid is then smoothed using a gaussian filter and the extent 
 
 {% highlight python %}
 def smooth_density_surface_points(Z_log, x, y, density_to_nan_limit=-40):
-	smooth = ndimage.filters.gaussian_filter(Z_log, sigma=1.0, 
-												order=0, mode='reflect')
+	smooth = ndimage.filters.gaussian_filter(Z_log, sigma=1.0, order=0, mode='reflect')
 	smooth[smooth<=density_to_nan_limit] = np.nan
 	extent = (x.min(), x.max(), y.min(), y.max())
 
@@ -102,8 +100,7 @@ The smoothed density grid is then contoured - the "level" variable is user set a
 
 {% highlight python %}	
 def grid_contour(surface, extent, density_boundary):
-	cs = plt.contour(surface, levels=[density_boundary], 
-								linewidth = 5, extent=extent)
+	cs = plt.contour(surface, levels=[density_boundary], linewidth = 5, extent=extent)
 
 	return cs
 {% endhighlight %}
