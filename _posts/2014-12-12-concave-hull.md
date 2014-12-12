@@ -107,11 +107,11 @@ def grid_contour(surface, extent, density_boundary):
 
 Such an image could look like this:
 
-!["Concave hull" boundary - ideal]({{ site.baseurl }}/images/GOOD_concave_density_contour "Convex hull point vertices - ideal")
+!["Concave hull" boundary - ideal]({{ site.baseurl }}/images/GOOD_concave_density_contour.png "Convex hull point vertices - ideal")
 
 Equally, you WOULDN'T want it to look like this:
 
-!["Concave hull" boundary - not ideal]({{ site.baseurl }}/images/BAD_concave_density_contour "Convex hull point vertices - not ideal")
+!["Concave hull" boundary - not ideal]({{ site.baseurl }}/images/BAD_concave_density_contour.png "Convex hull point vertices - not ideal")
 
 Now you have a contour that you have hopefully checked! The next thing to do is to get the vertices of the contour line - these form the xy coordinates of your "concave" mask:
 
