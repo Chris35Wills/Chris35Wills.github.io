@@ -43,6 +43,7 @@ def density_hull_approximator(density_xyz_file):
 	## get x, y and density values from the R output into variables
 	x,y,z = get_density_xyz(density_xyz_file)	
 	
+	## grid and log the density xyz data
 	Z_log = grid_log_density(x,y,z) 
 
 	## create smooth density surface and calculate plot extent
@@ -96,7 +97,7 @@ def smooth_density_surface_points(Z_log, x, y, density_to_nan_limit=-40):
 	return smooth, extent
 {% endhighlight %}
 
-The smoothed density grid is then contoured - the "level" variable is user set and must be specific to YOUR data and YOUR areas of interest. It would be wise to actually view this plot and maybe cycle a number of density contour levels to know exactly what hull you are mapping:
+The smoothed density grid is then contoured - the "level" variable is user set and must be specific to YOUR data and YOUR area/density contour of interest. It would be wise to actually view this plot and maybe cycle a number of density contour levels to know exactly what hull you are mapping:
 
 {% highlight python %}	
 def grid_contour(surface, extent, density_boundary):
@@ -105,7 +106,7 @@ def grid_contour(surface, extent, density_boundary):
 	return cs
 {% endhighlight %}
 
-Such an image could look like this:
+Such a plot could look like this:
 
 !["Concave hull" boundary - ideal]({{ site.baseurl }}/images/GOOD_concave_density_contour.png "Convex hull point vertices - ideal")
 
