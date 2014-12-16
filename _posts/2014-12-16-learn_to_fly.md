@@ -9,3 +9,5 @@ If ever you find yourself stuck with something, just think - you could probably 
 
 
 !["Learn to fly" boundary - ideal]({{ site.baseurl }}http://imgs.xkcd.com/comics/python.png "Learn to fly")
+
+[Here](http://learnpythonthehardway.org/) is a great place to start your wonderful journey to enlightenment.
