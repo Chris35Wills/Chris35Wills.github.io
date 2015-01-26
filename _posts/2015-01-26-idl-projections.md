@@ -18,7 +18,8 @@ The projections are represented by a series of codes that can be found here: htt
 
 Syntax: 
 
-	Result = MAP_PROJ_INIT( Projection [, ELLIPSOID=value] [, /GCTP] [, LIMIT=vector] [, /RADIANS] [, /RELAXED] ) ... + numerous keywords
+	Result = MAP_PROJ_INIT( Projection [, ELLIPSOID=value] [, /GCTP] 
+			[, LIMIT=vector] [, /RADIANS] [, /RELAXED] ) ... + numerous keywords
 
 Example: 
 
@@ -31,7 +32,8 @@ Returns Cartesian coordinates RELATIVE to the projection details. Where as the L
 
 Syntax: 
 
-	Result = MAP_PROJ_FORWARD(Longitude [, Latitude] [, CONNECTIVITY=vector] [, /FILL] [, MAP_STRUCTURE=variable] [, POLYGONS=variable] [, POLYLINES=variable] [,  /RADIANS] )
+	Result = MAP_PROJ_FORWARD(Longitude [, Latitude] [, CONNECTIVITY=vector] 
+			[, /FILL] [, MAP_STRUCTURE=variable] [, POLYGONS=variable] [, POLYLINES=variable] [,  /RADIANS] )
 
 Example: 
 
