@@ -33,7 +33,8 @@ Returns Cartesian coordinates RELATIVE to the projection details. Where as the L
 Syntax: 
 
 	Result = MAP_PROJ_FORWARD(Longitude [, Latitude] [, CONNECTIVITY=vector] 
-			[, /FILL] [, MAP_STRUCTURE=variable] [, POLYGONS=variable] [, POLYLINES=variable] [,  /RADIANS] )
+			[, /FILL] [, MAP_STRUCTURE=variable] [, POLYGONS=variable] 
+				[, POLYLINES=variable] [,  /RADIANS] )
 
 Example: 
 
