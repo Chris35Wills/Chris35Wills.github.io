@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Co-ordinate systems: Projecting data in IDL
+title: Co-ordinate systems - Projecting data in IDL
 categories: IDL, MapProjections, CoordinateSystems
 tags: IDL MapProjections CoordinateSystems
 ---
+
 There are three key commands you need to know about in IDL for projecting data
 
 1. map_proj_init
