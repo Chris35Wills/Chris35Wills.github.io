@@ -102,12 +102,12 @@ As we have the projection info it would be useful to ensure the geotiff also con
 
 Lets assume our projection info is as follows:
 
-> projection system = Polar Stereographic
-central latitude = 71.
-central longitude = -39 
-false easting = 0. 
-false northing = 0. 
-ellipsoid = WGS1984
+- projection system = Polar Stereographic
+- central latitude = 71.
+- central longitude = -39 
+- false easting = 0. 
+- false northing = 0. 
+- ellipsoid = WGS1984
 
 We can now create our raster (ras) - containing all of the required projection information - by formatting our raster function and defining the CRS variable using the correct proj4 syntax as follows:
 
