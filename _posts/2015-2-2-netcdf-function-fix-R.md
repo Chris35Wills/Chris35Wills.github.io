@@ -27,5 +27,4 @@ The fix for this was found [here](http://thr3ads.net/r-help/2010/10/1040427-non-
 [5] Replace each with: mv = -1.000000e+30
 [6] Run the new function: "data1 <- getx.var.ncdf( nc, v1 )" will retrieve the data.
 
-If you want to just copy and paste the "fixed function - now called getx.var.ncdf - you can get a copy [here](https://gist.github.com/27b3ed192b7b38c564d4.git).
-
+If you want to just copy and paste the "fixed function - now called getx.var.ncdf - you can get a copy [here](https://gist.github.com/Chris35Wills/27b3ed192b7b38c564d4).
