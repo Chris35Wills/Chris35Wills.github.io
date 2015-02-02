@@ -18,7 +18,7 @@ I was receiving the error:
 "Error in mv * 1e-05 : non-numeric argument to binary operator"
 ```
 
-The fix for this was found [here]() followed by [here() and requires a re-definition of the ncdf package function "get.var.ncdf". As per the original post I found fixing this, follow this protocol so get rid of the error:
+The fix for this was found [here](http://thr3ads.net/r-help/2010/10/1040427-non-numeric-argument-to-binary-operator-error-while-reading-ncdf-file) followed by [here](http://climateaudit.org/2009/10/10/unthreaded-23/) and requires a re-definition of the ncdf package function "get.var.ncdf". As per the original post I found fixing this, follow this protocol so get rid of the error:
 
 [1] Print out the function get.var.ncdf by typing exactly that in the console
 [2] Copy the results to a new script window
