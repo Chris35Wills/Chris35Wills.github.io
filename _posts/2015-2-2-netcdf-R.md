@@ -64,7 +64,7 @@ If you receive an error message when trying to allocate some of this data to any
 "Error in mv * 1e-05 : non-numeric argument to binary operator"
 ```
 
-then a fix can be found described [here]().
+then a fix can be found described [here](http://chris35wills.github.io/netcdf-function-fix-R/).
 
 To get the attribute info:
 
