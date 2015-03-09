@@ -8,12 +8,24 @@ Position: Cryospheric researcher
 
 Research interests: Remote sensing, GIS, Glaciers, Geostatistics, Python development, Open source
 
-## More Information
+## Overview
 
-I'm a cryospheric researcher with a keen interest in geospatial problems and environmental spatio-temporal relationships. Working with a variety of data - mainly of a remote sensing/GIS nature - I've a keen interest in different analytical tools and approaches and their associated development. My workhorse language is predominantly python althrough I'm also dipping in and out of Java and C as well as R. 
+A glaciologist working in Arctic regions on mountain glaciers as well as the outlet glaciers of the Greenland ice sheet. My current position involves the redevelopment of the bedrock underlying the greenland ice sheet extending out to include coastal bathymetry. The aim of this current project is to get a better understanding of the topography especially around coastal Greenland which is important for enabling further process understanding around fast and dynamic tidewater outlet glaciers. 
 
-This site is really a way of me getting my notes and findings out there rather than keeping what I work out hidden away inside my computer - someone else might find this stuff useful too. 
+I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [Python](https://www.python.org/). Check out the [posts](http://chris35wills.github.io/) section for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
+
+## Past projects
+
+Past projects include:
+
+- glacier reconstruction through the compilation of old (topographic map compilation) and new datasets (contemporary field surveys)
+- grid based spatially distributed mass balance modelling
+- development of tools for mapping crevasse patterns and assessing crevasse evolution
+- hypersepctral image analysis over tidewater glaciers to identify presence of water 
+- glacier surface velocity mapping using elevation data
 
 ## Contact me
+
+Feel free to get in touch - I'm always interested in collaborating or if you have any questions about my work.
 
 [chris.williams@bristol.ac.uk](mailto:chris.williams@bristol.ac.uk)
