@@ -12,6 +12,10 @@ permalink: /publications/
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
 
+## Published code (feel free to download and try it out!)
+
+- [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
+
 ## Published
 
 - Carrivick, J.L., Berry, K., Geilhausen, M., James, M.H.M., Williams, C., Brown, L.E., Rippin, D.M. and Carver, S.J., (2015). Decadal-scale changes of the Odenwinkelkees, central Austria, suggest increasing control of topography and evolution towards steady state. Geografiska Annaler: Series A, Physical Geography. xx, 1–20. DOI:10.1111/geoa.12100
