@@ -18,8 +18,8 @@ I've a keen interest in geospatial problem solving and environmental spatio-temp
 
 Past projects include:
 
-- glacier reconstruction through the compilation of old (topographic map compilation) and new datasets (contemporary field surveys)
-- grid based spatially distributed mass balance modelling
+- glacier reconstruction through the compilation of old (topographic maps) and new datasets (contemporary field surveys)
+- spatially distributed grid based mass balance modelling
 - development of tools for mapping crevasse patterns and assessing crevasse evolution
 - hypersepctral image analysis over tidewater glaciers to identify presence of water 
 - glacier surface velocity mapping using elevation data
