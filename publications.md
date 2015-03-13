@@ -27,7 +27,7 @@ permalink: /publications/
 - Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.
 
 
-## Presentations
+## Spoken and poster presentations
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Surface observations and crevasse evolution at high resolution: Greenland tidewater glaciers (International Glaciological Society British Branch meeting, Bristol, September 2014).
 
