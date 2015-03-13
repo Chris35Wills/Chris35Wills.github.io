@@ -24,6 +24,9 @@ permalink: /publications/
 
 - Swindles, G., Reczuga, M., Lamentowicz, M., Raby, C., Turner, T., Charman, D., Gallego-Sala, A.,Valderrama, E., Williams, C., Draper, F., Coronado, E., Roucoux, K., Baker, T. & Mullan, D., (2014). Ecology of Testate Amoebae in an Amazonian Peatland and Development of a Transfer Function for Palaeohydrological Reconstruction. Microbial Ecology doi:10.1007/s00248-014-0378-5
 
+- Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.
+
+
 ## Presentations
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Surface observations and crevasse evolution at high resolution: Greenland tidewater glaciers (International Glaciological Society British Branch meeting, Bristol, September 2014).
