@@ -14,6 +14,8 @@ I keep coming back to needing this function, each time forgetting where to find 
 # Example
 
 {% highlight python %}
+import numpy as np
+
 # You have two arrays:
 
 a = np.asarray([0,1,1,0,1,1,1,0])
