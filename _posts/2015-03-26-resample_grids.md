@@ -75,7 +75,7 @@ def get_index(array, select_array):
 	return y_indx, x_indx
 {% endhighlight %}
 
-However, with a arr_src of 19665 x 31573 pixels, the search in the main loop was taking ages - a result of my implemented exhasutive search approach.
+However, with an arr_src of 19665 x 31573 pixels, the search in the main loop was taking ages - a result of my implemented exhasutive search approach.
 
 Alas, I then found [this post](http://stackoverflow.com/questions/10454316/how-to-project-and-resample-a-grid-to-match-another-grid-with-gdal-python) and was able to get my code to compile and complete in seconds - thanks [gdal](http://www.gdal.org/).
 
