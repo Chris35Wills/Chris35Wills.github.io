@@ -59,7 +59,7 @@ for (y,x), value in np.ndenumerate(x2):
 
 {% endhighlight %}
 
-I was able to calculate my index positions using this function (with a bit of [help]()):
+I was able to calculate my index positions using this function (with a bit of [help](http://stackoverflow.com/questions/29238782/numpy-unravel-index-not-returning-expected-row-indices)):
 
 {% highlight python %}
 def get_index(array, select_array):
