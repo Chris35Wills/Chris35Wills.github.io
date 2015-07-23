@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## In preparation
 
-- Williams, C., Carrivick, J.L., (in prep). Evaluating mountain glacier change and mass balance sensitivity in Northern Sweden 1926-2010 (target journal: Journal of Glaciology).
+- Williams, C., Carrivick, J.L., Evans, A.J. and Rippin, D.M. (submitted). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, arctic Sweden.
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Crevasse evolution at Helheim glacier at high resolution: Implications for the calving process (target journal: Journal of Glaciology).
 
