@@ -8,6 +8,8 @@ Some notes on bits and pieces worth remembering, reconsidering and reviewing whe
 
 Full sets of notes and examples in R are available [here](http://www.css.cornell.edu/faculty/dgr2/teach/degeostats.html) and [here](http://www.math.umt.edu/graham/stat544/) and are well worth working through if you have the time.
 
+An excellent guide to geostatistical mapping of environmental variables is available [here](http://eusoils.jrc.ec.europa.eu/esdb_archive/eusoils_docs/other/eur22904en.pdf). The FAQs are particularly insightful.
+
 ## Some *basic* definitions
 
 **Variance** The average of the squared differences from the Mean
@@ -32,7 +34,7 @@ The second type of stationarity is **second-order stationarity** for *covariance
 
 Second-order and intrinsic stationarity are assumptions necessary to get the replication to estimate the dependence rules, which allows you to make predictions and assess uncertainty in the predictions. Notice that it is the spatial information (similar distance between any two points) that provides the replication."
 
-##  The variogram
+## The variogram
 
 **Range** Distance from the origin at which the sill is reached - should essentially form the "rising limb" of a variogram model
 
@@ -44,11 +46,15 @@ Second-order and intrinsic stationarity are assumptions necessary to get the rep
 
 Variogram plots variance against point pairs classified according to spacing (lag)
 
-Semi-variogram plots semi-variance (square root of variance) against point pairs classified according to spacing (lag)
+Semi-variogram plots semi-variance (square root of variance) against point pairs classified according to spacing (lag) - without classification (or averaging and binning) one would only have a **variogram cloud** as opposed to a **standard experimental variogram**.
 
 ### Residual variogram: 
 
 Same as the experimental except based on data that has had an underlying trend removed from it
+
+### Setting the initial variogram ([taken from here](http://eusoils.jrc.ec.europa.eu/esdb_archive/eusoils_docs/other/eur22904en.pdf))
+
+"One possibility is to use: nugget parameter = measurement error, sill parameter = sampled variance, and range parameter = 10% of the spatial extent of the data (or two times the mean distance to the nearest neighbour). This is only an empirical formula.
 
 ### Zonal anisotropy (see [here](http://www.math.umt.edu/graham/stat544/anisofit.pdf)): 
 
