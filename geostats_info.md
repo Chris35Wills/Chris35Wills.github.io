@@ -18,15 +18,11 @@ An excellent guide to geostatistical mapping of environmental variables is avail
 
 Covariance relates to semivariance as such:
 
-semivariance(si, sj) = sill - covariance(si,sj)
+semivariance(si, sj) = sill - covariance(si,sj) (or covariance(si, sj) = sill - semivariance(si,sj))
 
+# This was made possible by using this website (http://www.sciweavers.org/free-online-latex-equation-editor) to create the equation and then taking the embed url and inserting it as below
+# This info was found here: http://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cgamma%20%28s_%7Bi%7D%2Cs_%7Bj%7D%29%20%3D%20sill%20-%20C%28s_%7Bi%7D%2Cs_%7Bj%7D%29&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
-
-or
-
-covariance(si, sj) = sill - semivariance(si,sj)
-
-![equation](http://www.sciweavers.org/tex2img.php?eq=C%28s_%7Bi%7D%2Cs_%7Bj%7D%29%20%3D%20sill%20-%20%20%5Cgamma%28s_%7Bi%7D%2Cs_%7Bj%7D%29&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
 **Standard deviation** The square root of variance
 
