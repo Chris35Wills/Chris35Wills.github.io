@@ -14,7 +14,19 @@ An excellent guide to geostatistical mapping of environmental variables is avail
 
 **Variance** The average of the squared differences from the Mean
 
-**Covariance** The mean value of the product of the deviations of two variates from their respective means. Covariance and assocaiated covariograms are discussed and explained [here](http://www.math.umt.edu/graham/stat544/variog.pdf).
+**Covariance** The mean value of the product of the deviations of two variates from their respective means. Covariance and assocaiated covariograms are discussed and explained [here](http://www.math.umt.edu/graham/stat544/variog.pdf). Covariance is a scaled version of correlation - where a point pair is separated by a small distance, variance (or semi-variance) would be expected to be small and consequently the covariance would be large.
+
+Covariance relates to semivariance as such:
+
+semivariance(si, sj) = sill - covariance(si,sj)
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cgamma%20%28s_%7Bi%7D%2Cs_%7Bj%7D%29%20%3D%20sill%20-%20C%28s_%7Bi%7D%2Cs_%7Bj%7D%29&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+
+or
+
+covariance(si, sj) = sill - semivariance(si,sj)
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=C%28s_%7Bi%7D%2Cs_%7Bj%7D%29%20%3D%20sill%20-%20%20%5Cgamma%28s_%7Bi%7D%2Cs_%7Bj%7D%29&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
 **Standard deviation** The square root of variance
 
@@ -36,7 +48,7 @@ Second-order and intrinsic stationarity are assumptions necessary to get the rep
 
 ## The variogram
 
-**Range** Distance from the origin at which the sill is reached - should essentially form the "rising limb" of a variogram model
+**Range** Distance from the origin to where the sill is reached - should essentially form the "rising limb" of a variogram model
 
 **Sill** Level at which variance is no longer related to variance - this is the point where the variogram "plateaus" at the end of the range
 
