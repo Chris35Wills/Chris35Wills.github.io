@@ -2,7 +2,7 @@
 layout: post
 title: Calling gdal utilities from within python using subprocess
 categories: Python, gdal
-tags: python gdal geospatial raster
+tags: python gdal geospatial raster osgeo4w
 ---
 
 I am always using [gdal commands in python](https://pcjericks.github.io/py-gdalogr-cookbook/). Sometimes though there are things that just happen faster though using the OSgeo4W Shell (I'm using windows at the moment) such as gdal_translate. It is still possible to use these commands within a given python script - it just requires use of the subprocess package, and in the case of using commands specific to the OSGeo4W shell, a python call to a given script from inside the OSGeo4W shell.
