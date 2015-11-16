@@ -5,8 +5,6 @@ categories: Python Algebra
 tags: python
 ---
 
-# A bit of help! https://www.youtube.com/watch?v=7KC8KqljahE
-
 I was looking for a quick fix for calculating values along a parabola given three known points. Scouting around I found a nice symbolic C function doing exactly what I wanted (see [here](http://stackoverflow.com/questions/717762/how-to-calculate-the-vertex-of-a-parabola-given-three-points)). The function doing the work of finding your unknowns is:
 
 {% highlight python %} 
