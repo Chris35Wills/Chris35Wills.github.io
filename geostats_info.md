@@ -56,7 +56,7 @@ Second-order and intrinsic stationarity are assumptions necessary to get the rep
 
 Variogram plots variance against point pairs classified according to spacing (lag)
 
-Semi-variogram plots semi-variance (square root of variance) against point pairs classified according to spacing (lag) - without classification (or averaging and binning) one would only have a **variogram cloud** as opposed to a **standard experimental variogram**.
+Semi-variogram plots semi-variance (half of variance) against point pairs classified according to spacing (lag) - without classification (or averaging and binning) one would only have a **variogram cloud** as opposed to a **standard experimental variogram**.
 
 ### Residual variogram: 
 
@@ -104,9 +104,11 @@ If the empirical semivariogram continues climbing steadily beyond the global var
 
 ## Useful resources
 
+[The confusion between variance:semi-variance and variograms:semi-variograms](http://link.springer.com/article/10.1007%2Fs11119-008-9056-2)
+
 [Spatial autocorrelation](http://userwww.sfsu.edu/efc/classes/biol710/spatial/spat-auto.htm)
 
 [8.5 deadly sins of spatial analysis](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02637.x/pdf)
 
-
+[General geostats (also using Arc)](http://maps.unomaha.edu/Peterson/gisII/ESRImanuals/Ch3_Principles.pdf)
 

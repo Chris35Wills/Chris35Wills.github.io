@@ -29,6 +29,8 @@ permalink: /publications/
 
 ## Spoken and poster presentations
 
+- Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Hurkmans, R., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K., Paden, J., A novel approach to improving the reconstruction of bed elevation with special consideration of bathymetry at the ice/ocean interface of the Greenland ice sheet (AGU, San Francisco 2015 ([see abstract](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/69688)))  
+
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Surface observations and crevasse evolution at high resolution: Greenland tidewater glaciers (International Glaciological Society British Branch meeting, Bristol, September 2014).
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Calving observations at high resolution from a Greenland tidewater glacier (International Glaciological Society Symposium, Chamonix, May 2014).
