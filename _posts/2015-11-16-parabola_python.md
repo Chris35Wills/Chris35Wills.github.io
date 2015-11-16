@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calculate parabola from three known points
+title: Calculate a parabola from three known points
 categories: Python Algebra
 tags: python
 ---
