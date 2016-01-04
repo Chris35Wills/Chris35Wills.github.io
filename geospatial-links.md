@@ -27,6 +27,7 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 ## Q&A
 
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
+
 [Plotting elevation maps and shaded relief images from latitude, longitude, and elevation pairs (PYTHON)](http://gis.stackexchange.com/questions/116319/plotting-elevation-maps-and-shaded-relief-images-from-latitude-longitude-and-e)
 
 ## Rasters (general)
