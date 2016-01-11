@@ -5,7 +5,7 @@ categories: Python, sci-kit
 tags: python image 
 ---
 
-I've been looking to do some [skeletonisation](https://en.wikipedia.org/wiki/Topological_skeleton) using python libraries and found something that did precisely that using the third party python package [skikit-image](http://scikit-image.org/). It was so quick to implement (after having spent a while trying to roll my own version) I thought I'd share it with everyone.
+I've been looking to do some [skeletonisation](https://en.wikipedia.org/wiki/Topological_skeleton) using python libraries and found something that did precisely that using the third party python package [scikit-image](http://scikit-image.org/). It was so quick to implement (after having spent a while trying to roll my own version) I thought I'd share it with everyone.
 
 Let's first make some toy data to play with called _arr_.
 
@@ -19,7 +19,7 @@ arr[50:70, 50:90]=1
 
 ![Toy data]({{ site.baseurl }}/images/skeletonise/toy_data.png "Toy data")
 
-Now, import the medial_axis function from skimage.morphology which comes as part of the [sci-kit package](http://scikit-image.org/). If you are using a canopy distribution with an academic license, this is available in the [package manager](http://docs.enthought.com/canopy/quick-start/package_manager.html).
+Now, import the medial_axis function from skimage.morphology which comes as part of the [scikit-image package](http://scikit-image.org/). If you are using a canopy distribution with an academic license, this is available in the [package manager](http://docs.enthought.com/canopy/quick-start/package_manager.html).
 
 {% highlight python %}
 from skimage.morphology import medial_axis
