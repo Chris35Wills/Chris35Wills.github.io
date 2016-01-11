@@ -42,3 +42,5 @@ We now have a boolean _skeleton_ array, _distance_ array and clipped distance ar
 ![Final output arrays]({{ site.baseurl }}/images/skeletonise/data_skel_dist.png "Final output arrays")
 
 Essentialy what we have done is calculate the distance transform (_distance_) of the initial input array (_arr_) which has then been used to create a boolean array (_skeleton_) based on local maximum distance values. For the red cells extending out of the block to the left of the original image, this local maximum falls expectedly along the centre of this stretch of pixels. The skeleton can then be seen to continue up the left hand side of the red region to the left - the area furthest from the blue cells on the right of _arr_.
+
+More info [here](http://scikit-image.org/docs/dev/auto_examples/edges/plot_medial_transform.html).
