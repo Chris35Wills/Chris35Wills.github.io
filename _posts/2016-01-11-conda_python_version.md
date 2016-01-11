@@ -13,9 +13,7 @@ Downgrading between versions is easy if you are using an Anaconda Python distrib
 
 # Step-by-step downgrade/upgrade
 
-**************************
 FOR MORE OFFICIAL INFO READ [HERE](http://conda.pydata.org/docs/py2or3.html) 
-**************************
 
 1. Open up your terminal
 2. Search for available versions - can search for what you want, but we'll look for "python"
