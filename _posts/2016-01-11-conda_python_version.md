@@ -5,7 +5,7 @@ categories: Python
 tags: python version anaconda
 ---
 
-Python 3 is the future and the future is now. Considering best practise, the way forwards is to move with the times and upgrade. HOWEVER, when all of your scripts are written in a Python 2.x way, maybe now isn't the time to move on... having a load of v2.x / v3.x errors can be inconvenient to say the least. 
+Python 3 is the future and the future is now. Considering best practise, the way forwards is to move with the times and upgrade. To make the change over easier, [here's a cheat sheet for writing python 2/3 compatible code](http://python-future.org/compatible_idioms.html). HOWEVER, when all of your scripts are written in a Python 2.x way, maybe now isn't the time to move on... having a load of v2.x / v3.x errors can be inconvenient to say the least. 
 
 I'm not saying that you should, I'm simply showing how you could downgrade your python version if using [Anaconda](https://www.continuum.io/downloads).
 
