@@ -24,6 +24,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [GIS with Python, Shapely, and Fiona](http://www.macwright.org/2012/10/31/gis-with-python-shapely-fiona.html)
 
+[NumPy Basics: Arrays and Vectorized Computation](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html) < Data processing using arrays section is very useful
+
 ## Q&A
 
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
