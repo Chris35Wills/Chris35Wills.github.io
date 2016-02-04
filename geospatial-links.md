@@ -36,6 +36,14 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [GEOTIFF reference](http://www.remotesensing.org/geotiff/spec/geotiff2.5.html)
 
+## Other - Geostats
+
+[A Practical Guide To Geospatial Mapping](http://spatial-analyst.net/book/system/files/Hengl_2009_GEOSTATe2c1w.pdf)
+
+[A Practical Guide to Geostatistical Mapping of Environmental Variables](http://eusoils.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/other/EUR22904en.pdf)
+
+[Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
+
 ## Other - GIS
 
 [Mosaic (Hermite) function application in ARC](http://resources.esri.com/help/9.3/ArcGISengine/java/gp_toolref/spatial_analyst_tools/how_mosaic_works.htm)
