@@ -16,19 +16,19 @@ Python with Perl, then please click the [Compare with Perl](../beginning_perl/RE
 
 ***
 
-* [Python Basics](basics.md)
-* [Loops](loops.md)
-* [Arguments](arguments.md)
-* [Conditions](conditions.md)
-* [Files](files.md)
-* [Writing Files](writing.md)
-* [Splitting Lines](splitting.md)
-* [Searching Files](searching.md)
-* [Search and Replace](replacing.md)
-* [Running Programs](running.md)
-* [Job Scripts](jobs.md)
-* [What Next?](whatnext.md)
+* [Python Basics](basics)
+* [Loops](loops)
+* [Arguments](arguments)
+* [Conditions](conditions)
+* [Files](files)
+* [Writing Files](writing)
+* [Splitting Lines](splitting)
+* [Searching Files](searching)
+* [Search and Replace](replacing)
+* [Running Programs](running)
+* [Job Scripts](jobs)
+* [What Next?](whatnext)
 
 ***
 
-# [Previous](../README.md) [Up](../main/courses.md) [Next](basics.md) 
+# [Previous](../programming_courses) [Next](basics) 
