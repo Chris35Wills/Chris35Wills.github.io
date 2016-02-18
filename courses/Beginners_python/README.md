@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beginning Python
-permalink: /Beginners_python/README
+permalink: /courses/Beginners_python/README
 ---
 
 Python is a well-established language, with the current version (version 3) released in 2008. Version 2 is currently the most widely used version of the language, and it is installed by default on nearly all modern UNIX systems. Python is also available for OS X and Windows. While there are differences between versions 2 and 3, these differences are minor, and everything you will learn in this workshop is valid for both Python 2 and Python 3.

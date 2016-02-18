@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intermediate Python
-permalink: /Intermediate_python/README
+permalink: /courses/Intermediate_python/README
 ---
 
 Welcome to a short course that will teach you more about the Python language, and also some things
