@@ -1,20 +1,21 @@
 ---
-layout: page
+layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">    
+<div class="page">
+  {% for page in site.pages %}
+    <article class="p">    
       
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
 
       <div class="entry">
-        {{ post.content }}
+        {{ page.content}}
       </div>
-          
+      
     </article>
   {% endfor %}
 </div>
+
 
 
 
