@@ -20,7 +20,7 @@ Below you can find links to various course materials - please feel free to make 
 
 ## Github
 
-[Introduction to version control using Github\*](./_courses/Intro_github/README_numnpy.md)
+[Introduction to version control using Github\*](./_courses/Intro_github/README.md)
 
 
 
