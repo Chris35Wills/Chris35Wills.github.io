@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Programming courses
 permalink: /courses/
 ---
 
@@ -10,17 +10,17 @@ Below you can find links to various course materials - please feel free to make 
 
 ## Python
 
-[Beginning Python\*](./courses/Beginners_python/README.md)
+[Beginning Python\*](./Beginners_python/README.md)
 
-[Intermediate Python\*](./courses/Intermediate_python/README.md)
+[Intermediate Python\*](./Intermediate_python/README.md)
 
-[Packages - Matplotlib: an introduction](./courses/PythonPackages_matplotlib/README.md)
+[Packages - Matplotlib: an introduction](./PythonPackages_matplotlib/README.md)
 
-[Packages - Numpy: an introduction](./courses/PythonPackages_numpy/README_matplotlib.md)
+[Packages - Numpy: an introduction](./PythonPackages_numpy/README_matplotlib.md)
 
 ## Github
 
-[Introduction to version control using Github\*](./courses/Intro_github/README.md)
+[Introduction to version control using Github\*](./Intro_github/README.md)
 
 
 
