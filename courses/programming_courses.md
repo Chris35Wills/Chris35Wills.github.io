@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Programming courses
+permalink: /courses/
 ---
 
 Below you can find links to various course materials - please feel free to make use of them.
