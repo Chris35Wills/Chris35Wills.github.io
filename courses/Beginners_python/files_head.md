@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Files Answer to exercise 1
-permalink: /courses/Beginners_python/files_answr_ex1
+permalink: /courses/Beginners_python/files_head
 ---
 
 ```python
