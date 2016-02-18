@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beginning Python
+permalink: /course_materials/Beginners_python/
 ---
 
 # Beginning Python
