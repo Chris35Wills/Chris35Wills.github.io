@@ -1,4 +1,8 @@
-# Files
+---
+layout: page
+title: Files
+permalink: /courses/Beginners_python/files
+---
 
 Python is great at processing text and reading and writing files. Open a new Python script `nano files.py` and type the following lines.
 

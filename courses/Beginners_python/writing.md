@@ -1,4 +1,8 @@
-# Writing Files
+---
+layout: page
+title: Writing Files
+permalink: /courses/Beginners_python/writing
+---
 
 Python is equally good at writing to files as it is at reading them. Open a new Python script `nano write_times_table.py` and type;
 

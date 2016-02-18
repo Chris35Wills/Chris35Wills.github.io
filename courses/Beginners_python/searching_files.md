@@ -1,4 +1,8 @@
-# Searching Files
+---
+layout: page
+title: Searching Files
+permalink: /courses/Beginners_python/searching_files
+---
 
 Python is an excellent language to use when searching within files. Searching is very useful, for example you could imagine using Python to search an output file to find the results of a calculation. Searching in Python is straight-forward. Open a new Python script `nano search.py` and type the following;
 

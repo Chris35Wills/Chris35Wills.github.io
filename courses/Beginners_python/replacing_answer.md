@@ -1,4 +1,8 @@
-#Search and Replace Answer to exercise 1
+---
+layout: page
+title: Search and Replace Answer to exercise 1
+permalink: /courses/Beginners_python/replacing_answr_ex1
+---
 
 ```python
 import sys

@@ -1,4 +1,8 @@
-# Python Basics
+---
+layout: page
+title: Python Basics
+permalink: /courses/Beginners_python/python_basics
+---
 
 You write Python using a simple text editor, like nano. Log on to a UNIX computer and use a text editor to open a file called script.py, e.g.
 

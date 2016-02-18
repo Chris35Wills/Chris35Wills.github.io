@@ -1,4 +1,8 @@
-# Conditions
+---
+layout: page
+title: Conditions
+permalink: /courses/Beginners_python/conditions
+---
 
 Loops provide a means to execute part of the script multiple times. Conditions provide the route to choose whether or not to execute part of a script. Open a new Python script `nano conditions.py` and type the following;
 

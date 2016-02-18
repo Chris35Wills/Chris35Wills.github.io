@@ -1,4 +1,8 @@
-# Running Programs
+---
+layout: page
+title: Running Programs
+permalink: /courses/Beginners_python/running
+---
 
 So far you've seen how you can use Python to process your output files. However, what makes Python a good glue language is its ability to actually run programs as well. There are several ways to run a program from your Python script. I'll only present a couple of ways here. Open a new Python script (`nano system_run.py`) and copy the following;
 

@@ -1,4 +1,8 @@
-#Running Programs Answer to exercise 1
+---
+layout: page
+title: Running Programs Answer to exercise 1
+permalink: /courses/Beginners_python/running_answr_ex1
+---
 
 ```python
 import sys

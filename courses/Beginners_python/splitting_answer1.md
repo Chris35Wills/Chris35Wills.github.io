@@ -1,4 +1,8 @@
-#Splitting Lines Answer to exercise 1
+---
+layout: page
+title: Splitting Lines Answer to exercise 1
+permalink: /courses/Beginners_python/splitting_answer1
+---
 
 ```python
 import sys

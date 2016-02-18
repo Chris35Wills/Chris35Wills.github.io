@@ -1,4 +1,8 @@
-#Arguments! Answer to exercise 1
+---
+layout: page
+title: Arguments! Answer to exercise 1
+permalink: /courses/Beginners_python/Arguments_answr_1
+---
 
 ```python
 import sys

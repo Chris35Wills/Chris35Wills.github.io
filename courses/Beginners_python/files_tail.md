@@ -1,4 +1,8 @@
-#Files Answer to exercise 2
+---
+layout: page
+title: Files Answer to exercise 2
+permalink: /courses/Beginners_python/files_answr_ex2
+---
 
 ```python
 from __future__ import print_function
