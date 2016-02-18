@@ -10,17 +10,17 @@ Below you can find links to various course materials - please feel free to make 
 
 ## Python
 
-[Beginning Python\*](_courses/Beginners_python/README.md)
+[Beginning Python\*](./courses/Beginners_python/README.md)
 
-[Intermediate Python\*](./_courses/Intermediate_python/README.md)
+[Intermediate Python\*](./courses/Intermediate_python/README.md)
 
-[Packages - Matplotlib: an introduction](./_courses/PythonPackages_matplotlib/README.md)
+[Packages - Matplotlib: an introduction](./courses/PythonPackages_matplotlib/README.md)
 
-[Packages - Numpy: an introduction](./_courses/PythonPackages_numpy/README_matplotlib.md)
+[Packages - Numpy: an introduction](./courses/PythonPackages_numpy/README_matplotlib.md)
 
 ## Github
 
-[Introduction to version control using Github\*](./_courses/Intro_github/README.md)
+[Introduction to version control using Github\*](./courses/Intro_github/README.md)
 
 
 
