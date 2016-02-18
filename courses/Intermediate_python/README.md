@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Intermediate Python
+permalink: /Intermediate_python/README
 ---
-
-# Intermediate Python
 
 Welcome to a short course that will teach you more about the Python language, and also some things
 about the tools of good programming practice and software design. While this course teaches 
