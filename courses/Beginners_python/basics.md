@@ -84,4 +84,4 @@ Play with this script by changing the placeholders and see how that affects the 
 
 ***
 
-# [Previous](README.md) [Up](README.md) [Next](loops.md) 
+# [Previous](README) [Next](loops) 
