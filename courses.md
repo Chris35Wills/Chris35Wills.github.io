@@ -10,7 +10,7 @@ Below you can find links to various course materials - please feel free to make 
 
 ## Python
 
-[Beginning Python\*](../README.md)
+[Beginning Python\*](../_courseMaterials/beginners_python/README.md)
 
 [Intermediate Python\*](../_courseMaterials/Intermediate_python/README.md)
 
