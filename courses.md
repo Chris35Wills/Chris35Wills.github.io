@@ -6,7 +6,7 @@ permalink: /courses/
 
 Below you can find links to various course materials - please feel free to make use of them.
 
-*NB/ Where indicated with a "*" materials have been modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) specifically for the original materials*
+*NB/ Where indicated with a "\*"" materials have been modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) specifically for the original materials*
 
 ## Python
 
