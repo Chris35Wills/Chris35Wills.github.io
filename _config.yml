@@ -95,3 +95,15 @@ defaults:
       type: "page"
     values:
       layout: "page"
+  -
+    scope:
+      path: "courses/PythonPackages_matplotlib"
+      type: "page"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "courses/PythonPackages_numpy"
+      type: "page"
+    values:
+      layout: "page"            
