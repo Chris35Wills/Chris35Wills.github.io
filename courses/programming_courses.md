@@ -14,9 +14,9 @@ Below you can find links to various course materials - please feel free to make 
 
 [Intermediate Python\*](Intermediate_python/README)
 
-[Packages - Matplotlib: an introduction](PythonPackages_matplotlib/README)
+[Packages - Matplotlib: an introduction](PythonPackages_matplotlib/README_matplotlib)
 
-[Packages - Numpy: an introduction](PythonPackages_numpy/README_matplotlib)
+[Packages - Numpy: an introduction](PythonPackages_numpy/README_numpy)
 
 ## Github
 
