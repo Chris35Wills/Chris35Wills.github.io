@@ -82,11 +82,16 @@ defaults:
       path: "courses/Intermediate_python"
       type: "page"
     values:
-      layout: "page"
+      layout: "post"
   -
     scope:
       path: "courses/Intro_github"
       type: "page"
     values:
       layout: "page"
-  
+  -
+    scope:
+      path: "courses/Beginners_python"
+      type: "page"
+    values:
+      layout: "page"
