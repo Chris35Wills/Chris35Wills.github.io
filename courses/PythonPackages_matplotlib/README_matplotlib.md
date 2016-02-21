@@ -9,7 +9,7 @@
 
 ## Why should I use it?
 
-Plotting with [Matplotlib](http://matplotlib.org/) is fast, relatively easy and results in figures which are of publication quality
+Plotting with [Matplotlib](http://matplotlib.org/) is fast, relatively easy and results in figures which are of publication quality - have a look at the [gallery](http://matplotlib.org/gallery.html).
 
 ## Quick start
 
