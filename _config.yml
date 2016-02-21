@@ -79,12 +79,12 @@ exclude:
 defaults:
   -
     scope:
-      path: "/courses/"
+      path: "site/courses/*.md"
     values:
       layout: "page"
   -
     scope:
-      path: "/courses/Intermediate_python/"
+      path: "site/courses/Intermediate_python/*.md"
     values:
       layout: "page"
   
