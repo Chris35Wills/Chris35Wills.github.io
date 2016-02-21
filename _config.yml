@@ -80,9 +80,9 @@ defaults:
   -
     scope:
       path: "courses/Intermediate_python"
-      type: "post"
+      type: "page"
     values:
-      layout: "post"
+      layout: "page"
   -
     scope:
       path: "courses/Intro_github"
