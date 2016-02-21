@@ -79,12 +79,12 @@ exclude:
 defaults:
   -
     scope:
-      path: "courses"
+      path: "/courses/"
     values:
       layout: "page"
   -
     scope:
-      path: "courses/Intermediate_python"
+      path: "/courses/Intermediate_python/"
     values:
       layout: "page"
   
