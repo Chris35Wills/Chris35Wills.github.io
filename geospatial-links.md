@@ -26,17 +26,15 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [NumPy Basics: Arrays and Vectorized Computation](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html) < Data processing using arrays section is very useful
 
-## Q&A
-
-[Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
+[Python image analysis tutorial](http://pythonvision.org/basic-tutorial/)
 
 [Plotting elevation maps and shaded relief images from latitude, longitude, and elevation pairs (PYTHON)](http://gis.stackexchange.com/questions/116319/plotting-elevation-maps-and-shaded-relief-images-from-latitude-longitude-and-e)
 
-## Rasters (general)
+## Rasters
 
 [GEOTIFF reference](http://www.remotesensing.org/geotiff/spec/geotiff2.5.html)
 
-## Other - Geostats
+## Geostats
 
 [A Practical Guide To Geospatial Mapping](http://spatial-analyst.net/book/system/files/Hengl_2009_GEOSTATe2c1w.pdf)
 
@@ -44,10 +42,20 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
 
-## Other - GIS
+## GIS
+
+[Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
 
 [Mosaic (Hermite) function application in ARC](http://resources.esri.com/help/9.3/ArcGISengine/java/gp_toolref/spatial_analyst_tools/how_mosaic_works.htm)
 
-## Other - Image Processing
+## Related to this website
 
-[Python image analysis tutorial](http://pythonvision.org/basic-tutorial/)
+[Github pages](https://pages.github.com/)
+
+[Jekyll introduction](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
+
+[Jekyll home](http://jekyllrb.com/)
+
+[Jekyll cheat sheet](http://cheat.jekyll.tips/)
+
+[Creating a github website with jekyll](http://jmcglone.com/guides/github-pages/)]
