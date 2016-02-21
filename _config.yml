@@ -80,7 +80,7 @@ defaults:
   -
     scope:
       path: "courses/Intermediate_python"
-      type: "page"
+      type: "post"
     values:
       layout: "post"
   -
