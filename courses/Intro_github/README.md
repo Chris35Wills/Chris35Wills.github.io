@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Version Control using Git
-permalink: /courses/Intro_github/README
 ---
 
 Git is a version control system that allows you to save multiple versions
