@@ -1,7 +1,7 @@
 ---
 ---
 
-# A brief introduction to matplolib
+# A brief introduction to matplotlib
 
 ## What is it?
 
