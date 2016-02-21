@@ -74,3 +74,12 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+# Set default jekyll front matter - for more info: http://jekyllrb.com/docs/configuration/#front-matter-defaults
+defaults:
+  -
+    scope:
+      path: "courses"
+      type: "pages"
+    values:
+      layout: "default"
