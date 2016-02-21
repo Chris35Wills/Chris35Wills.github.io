@@ -20,4 +20,4 @@ Below you can find links to various course materials - please feel free to make 
 
 ## Github
 
-[Introduction to version control using Github\*](Intro_github/README.md)
+[Introduction to version control using Github\*](Intro_github/README)
