@@ -85,7 +85,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "courses/*"
+      path: "courses/Intermediate_python"
       type: "pages"
     values:
       layout: "default"
