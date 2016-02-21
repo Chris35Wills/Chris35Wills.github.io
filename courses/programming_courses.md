@@ -12,7 +12,7 @@ Below you can find links to various course materials - please feel free to make 
 
 [Beginning Python\*](Beginners_python/README)
 
-[Intermediate Python\*](Intermediate_python/README.md)
+[Intermediate Python\*](Intermediate_python/README)
 
 [Packages - Matplotlib: an introduction](PythonPackages_matplotlib/README)
 
