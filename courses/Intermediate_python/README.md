@@ -1,3 +1,4 @@
+
 # Intermediate Python
 
 Welcome to a short course that will teach you more about the Python language, and also some things
