@@ -80,13 +80,13 @@ defaults:
   -
     scope:
       path: "courses"
-      type: "pages"
+      type: "page"
     values:
       layout: "default"
   -
     scope:
       path: "courses/Intermediate_python"
-      type: "pages"
+      type: "page"
     values:
       layout: "default"
   
