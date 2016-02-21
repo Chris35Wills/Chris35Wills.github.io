@@ -79,13 +79,13 @@ exclude:
 defaults:
   -
     scope:
-      path: "courses"
+      path: "courses/Intermediate_python"
       type: "page"
     values:
       layout: "page"
   -
     scope:
-      path: "courses/Intermediate_python"
+      path: "courses/Intro_github"
       type: "page"
     values:
       layout: "page"
