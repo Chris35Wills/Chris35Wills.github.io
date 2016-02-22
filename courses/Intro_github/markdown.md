@@ -12,8 +12,8 @@ and allows plain text to be easily converted to a richly formatted webpage.
 
 Believe it or not, this entire course and website are written in markdown!
 And all hosted on GitHub! To see, you can see the raw text for this page
-[here](https://raw.githubusercontent.com/chryswoods/siremol.org/master/chryswoods.com/beginning_git/markdown.MD),
-and the GitHub-rendered version of this page [here](https://github.com/chryswoods/siremol.org/blob/master/chryswoods.com/beginning_git/markdown.MD).
+[here](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Intro_github/markdown.md),
+and the GitHub-rendered version of this page [here](https://github.com/Chris35Wills/Chris35Wills.github.io/blob/master/courses/Intro_github/markdown.md).
 
 The combination of GitHub and Markdown allows you to easily build wiki-like
 websites and documentation, and it is now becoming common best practice for 
