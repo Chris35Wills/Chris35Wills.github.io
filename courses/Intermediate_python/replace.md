@@ -1,3 +1,6 @@
+---
+---
+
 # greetings.py
 
 ```python
@@ -11,4 +14,4 @@ for line in lines:
     print(line,end="")
 ```
 
-# [Previous](regexp.md) [Up](README.md) [Next](regexp.md)
+# [Previous](../regexp) [Next](../regexp)

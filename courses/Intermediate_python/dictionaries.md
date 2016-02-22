@@ -1,3 +1,5 @@
+---
+---
 
 # Dictionaries
 
@@ -222,7 +224,7 @@ Copy this script into a text file called `encode.py`, e.g. by copying and pastin
 
 Use what you have learned about lists and dictionaries to loop through each letter in the message, look-up the corresponding Morse code for that letter, and join the result together to create a string that contains the Morse code that will be transmitted to save the ship. Note that the dictionary contains only lowercase letters, so you will need to use `TAB` and `help` to find a function to convert uppercase letters to lowercase.
 
-If you are really stuck, then there is an example completed script available to read [here](1a_encode.md).
+If you are really stuck, then there is an example completed script available to read [here](../1a_encode).
 
 ### Exercise - Decoding
 
@@ -242,8 +244,8 @@ message = "... --- ... / .-- . / .... .- ...- . / .... .. - / .- -. / .. -.-. . 
 
 Copy and paste the above script into a text file called `decode.py`.
 
-Use what you have learned about lists and dictionaries to loop through Morse letters in the Morse code message, and convert them back to English. Note that "letter_to_morse" is a dictionary that goes from letters to Morse code. You will need to first invert this dictionary to let you look up the letter from the Morse code (if you need help, look [here](1b_invert.md)). Morse code letters are separated by spaces. Use ipython `TAB` and `help` to find a function that will split the message into letters.
+Use what you have learned about lists and dictionaries to loop through Morse letters in the Morse code message, and convert them back to English. Note that "letter_to_morse" is a dictionary that goes from letters to Morse code. You will need to first invert this dictionary to let you look up the letter from the Morse code (if you need help, look [here](../1b_invert)). Morse code letters are separated by spaces. Use ipython `TAB` and `help` to find a function that will split the message into letters.
 
-If you are really stuck, then there is an example completed script available to read [here](1b_decode.md).
+If you are really stuck, then there is an example completed script available to read [here](../1b_decode).
 
-# [Previous](lists.md) [Up](README.md) [Next](functions.md)
+# [Previous](../lists) [Next](../functions)

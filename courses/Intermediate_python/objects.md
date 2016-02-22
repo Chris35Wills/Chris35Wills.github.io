@@ -1,9 +1,11 @@
+---
+---
 
 # Objects and Classes
 
 You have now learned how to package up your code into re-usable, documented functions, and how to then package up those functions into re-usable, documented modules (libraries). It is great to package up your code so that it is easy for other people to understand and re-use. However, one problem is that other people have a habit of re-using your code in the wrong, or in unexpected ways...
 
-As an example, lets pretend to be someone who is using your [morse.py](2c_morse.md) module in the wrong way... Start a new `ipython` session and type;
+As an example, lets pretend to be someone who is using your [morse.py](../2c_morse) module in the wrong way... Start a new `ipython` session and type;
 
 ```python
 import morse
@@ -233,6 +235,6 @@ print( translator.decode( translator.encode(message) ) == message )
 
 This should print `True`, showing that your `MorseTranslator` class can encode and decode the message.
 
-If you want, you can take a look at this [completed example](2d_morse.md).
+If you want, you can take a look at this [completed example](../2d_morse).
 
-# [Previous](documenting.md) [Up](README.md) [Next](testing.md) 
+# [Previous](../documenting) [Next](../testing) 

@@ -1,3 +1,6 @@
+---
+---
+
 # checkmain.py
 
 ```python
@@ -20,5 +23,5 @@ if __name__ == "__main__":
     print( c )
 ```
 
-# [Previous](documenting.md) [Up](README.md) [Next](documenting.md)
+# [Previous](../documenting) [Next](../documenting)
 
