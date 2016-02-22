@@ -22,10 +22,4 @@ for jpeg_file in jpeg_files:
     os.system( command )
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/running_answer.md)
-
-***
-
-# [Previous](running.md) [Up](README.md) [Next](running.md)
+# [Previous](../running.md) [Next](../running.md)

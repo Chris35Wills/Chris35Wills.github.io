@@ -60,12 +60,6 @@ all of the JPEG files in a directory into PNG files.
 
 (the command to convert `file.jpg` to `file.png` is `convert file.jpg file.png`)
 
-[Here's a possible answer](running_answer.md).
+[Here's a possible answer](../running_answer).
 
-***
-
-[Compare with Perl](../beginning_perl/running.md)
-
-***
-
-# [Previous](replacing.md) [Up](README.md) [Next](jobs.md)
+# [Previous](../replacing) [Next](../jobs)

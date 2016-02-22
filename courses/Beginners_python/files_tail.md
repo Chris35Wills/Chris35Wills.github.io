@@ -18,10 +18,4 @@ for i in range(nlines - n, nlines):
     print(lines[i], end="")
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/files_tail.md)
-
-***
-
-# [Previous](files.md) [Up](README.md) [Next](files.md)
+# [Previous](../files) [Next](../files)

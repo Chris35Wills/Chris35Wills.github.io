@@ -18,10 +18,4 @@ for i in range(0, nlines):
         print(words[0])
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/splitting_answer1.md)
-
-***
-
-# [Previous](splitting.md) [Up](README.md) [Next](splitting.md)
+# [Previous](../splitting) [Next](../splitting)

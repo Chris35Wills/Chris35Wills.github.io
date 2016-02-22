@@ -89,12 +89,6 @@ Use search and replace to update your `grep.py` script so that it not only print
 
 (note, you can capitalise a string by writing `line = line.upper()`. Similarly, you can lower-case a string by writing `line = line.lower()`)
 
-Here a possible [answer](replacing_answer.md).
+Here a possible [answer](../replacing_answer).
 
-***
-
-[Compare with Perl](../beginning_perl/replacing.md)
-
-***
-
-# [Previous](searching.md) [Up](README.md) [Next](running.md)
+# [Previous](../searching) [Next](../running)

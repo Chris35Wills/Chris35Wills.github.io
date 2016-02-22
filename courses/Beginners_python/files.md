@@ -74,7 +74,7 @@ should print out the first five lines of a file, and
     python tail.py 10 filename
 
 should print out the last ten lines of a file.
-Answer [head.py](files_head.md) and [tail.py](files_tail.md). (don't peek unless you are stuck or until you have finished!)
+Answer [head.py](../files_head) and [tail.py](../files_tail). (don't peek unless you are stuck or until you have finished!)
 
 Can you go one better and write a body command, that prints the middle of a file? For example
 
@@ -86,12 +86,6 @@ prints lines 20 to 25 of a file. Can you write the code so that
 
 would print lines 25 to 20 (so reversing the file)? (Hint - you can access the line at index `i` in the array of lines using `line = lines[i]`)
 
-[Answer](files_body.md). (again, don't peek until you have finished!)
+[Answer](../files_body). (again, don't peek until you have finished!)
 
-***
-
-[Compare with Perl](../beginning_perl/files.md)
-
-***
-
-# [Previous](conditions.md) [Up](README.md) [Next](writing.md)
+# [Previous](../conditions) [Next](../writing)
