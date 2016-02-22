@@ -93,4 +93,4 @@ which has been added to this directory?
 
 ***
 
-# [Previous](../basics) [Next](../committing) 
+# [Previous](../basics) [Up](../README) [Next](../committing) 
