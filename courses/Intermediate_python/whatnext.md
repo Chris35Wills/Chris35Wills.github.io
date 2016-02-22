@@ -13,6 +13,8 @@ Pacakges useful for most scientists include (but are by no means limited to):
 * [Pandas](http://pandas.pydata.org/) : 
 * [rpy2](http://rpy2.bitbucket.org/) : 
 * [MDAnalysis](http://mdanalysis.org) : A python toolkit to analyse molecular dynamics trajectories
+* [H5py](http://www.h5py.org/) : Library for dealing with HDF5 data 
+* [Python-HDF4](http://fhs.github.io/python-hdf4/) : Library of wrappers for dealing with HDF4 data
 
 Geospatial specific packages include:
 
