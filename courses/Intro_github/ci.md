@@ -26,7 +26,7 @@ repositories and run tests. To use Travis CI, sign up for a
 Travis account and then next to the "My Repositories" link,
 click the "+" sign, e.g.
 
-![Image of plus sign on Travis CI](ci_1.jpg)
+![Image of plus sign on Travis CI](../ci_1.jpg)
 
 Travis CI links to your GitHub account, so knows all about your
 repositories. Click the toggle switch to switch on CI testing
@@ -96,7 +96,7 @@ Now, take a look at your Travis CI page, at
 where `USERNAME` is your GitHub/Travis username. For example,
 my page is shown below.
 
-![Image showing build on Travis](ci_2.jpg)
+![Image showing build on Travis](../ci_2.jpg)
 
 You should see, as above, that Travis has seen the commit, has downloaded
 and install Python, cloned your repository, and then run the `test.py` script.
@@ -158,7 +158,7 @@ to replace `USERNAME` with your Github/Travis username, e.g. for me, I have
 Now go to your Github project page, and you should see a Travis icon
 in your rendered `README.MD`, e.g.
 
-![Image of Github with Travis build icon](ci_3.jpg)
+![Image of Github with Travis build icon](../ci_3.jpg)
 
 ## Skipping CI for some commits
 
