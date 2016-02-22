@@ -18,9 +18,10 @@ Geospatial specific packages include:
 * [Rtree](http://toblerity.org/rtree/) : Numerous options for instigating spatial indexing and querying (nearest neighbour searches etc.)
 * [Shapely](https://pypi.python.org/pypi/Shapely) : for reading in, manipulating and analysing geometric objects
 
-... and if you are using ArcGIS, it has it's own (licensed) package:
+... and if you are using GIS programs:
 
-* [arcpy](http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm)
+* [arcpy](http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm) : (licensed) package for working with ArcGIS
+* [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/intro.html) : development package for working with QGIS
 
 Python also comes with a large standard library of modules that you can [view here](https://docs.python.org/2/library/).
 
