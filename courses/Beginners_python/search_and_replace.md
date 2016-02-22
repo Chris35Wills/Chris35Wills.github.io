@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Search and Replace
-permalink: /courses/Beginners_python/search_and_replace
 ---
+
+# Search and Replace
 
 As well as being excellent for search, Python is also great at doing search and replace. Create a new Python script (`nano replace.py`) and copy the following;
 

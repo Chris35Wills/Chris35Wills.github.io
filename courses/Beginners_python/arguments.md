@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Arguments!
-permalink: /courses/Beginners_python/arguments
 ---
+
+# Arguments!
 
 Arguments are important for all programs. Arguments for programs have nothing to do with shouting, but are additional bits of information supplied to the program when it is run. Open a new Python script `nano arguments.py` and type this;
 

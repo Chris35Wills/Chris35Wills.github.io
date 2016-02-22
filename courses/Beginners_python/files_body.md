@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Files Answer to exercise 3
-permalink: /courses/Beginners_python/files_body
 ---
 
 ```python

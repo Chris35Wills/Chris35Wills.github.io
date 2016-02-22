@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Search and Replace Answer to exercise 1
-permalink: /courses/Beginners_python/replacing_answer
 ---
 
 ```python

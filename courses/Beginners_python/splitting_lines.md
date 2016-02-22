@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Splitting Lines
-permalink: /courses/Beginners_python/splitting_lines
 ---
+
+# Splitting Lines
 
 Most files are arranged into words. It is very easy to split a line of text using Python into an array of words. Create a new Python script `nano words.py` and type the following;
 

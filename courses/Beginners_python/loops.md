@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Loops
-permalink: /courses/Beginners_python/loops
 ---
+
+# Loops
 
 A Python script is a file that contains instructions to the python interpreter, with one instruction per line, that are read one at a time from the top of the script to the bottom. You can, however, divert this flow using a loop. Open a new Python script loop.py and write this;
 

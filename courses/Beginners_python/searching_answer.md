@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Searching Files Answer to exercise 1
-permalink: /courses/Beginners_python/searching_answer
 ---
 
 ```python

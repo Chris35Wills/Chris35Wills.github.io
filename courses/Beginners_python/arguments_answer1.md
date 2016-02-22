@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Arguments! Answer to exercise 1
-permalink: /courses/Beginners_python/arguments_answer1
 ---
 
 ```python
