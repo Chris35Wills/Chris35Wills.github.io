@@ -26,4 +26,4 @@ This is a short course that will provide you with a quick taste of Python. Pleas
 
 ***
 
-# [Previous](../../courses) [Next](../basics) 
+# [Previous](../courses) [Next](../basics) 
