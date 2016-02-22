@@ -11,19 +11,19 @@ This is a short course that will provide you with a quick taste of Python. Pleas
 
 ***
 
-* [Python Basics](basics)
-* [Loops](loops)
-* [Arguments](arguments)
-* [Conditions](conditions)
-* [Files](files)
-* [Writing Files](writing)
-* [Splitting Lines](splitting)
-* [Searching Files](searching)
-* [Search and Replace](replacing)
-* [Running Programs](running)
-* [Job Scripts](jobs)
-* [What Next?](whatnext)
+* [Python Basics](./basics)
+* [Loops](./loops)
+* [Arguments](./arguments)
+* [Conditions](./conditions)
+* [Files](./files)
+* [Writing Files](./writing)
+* [Splitting Lines](./splitting)
+* [Searching Files](./searching)
+* [Search and Replace](./replacing)
+* [Running Programs](./running)
+* [Job Scripts](./jobs)
+* [What Next?](./whatnext)
 
 ***
 
-# [Previous](../) [Next](basics) 
+# [Previous](../) [Next](./basics) 
