@@ -1,9 +1,9 @@
 ---
 ---
 
-#Git Basics
+# Git Basics
 
-##Initial Setup
+## Initial Setup
 
 The first thing you have to do when using Git for the first time on
 a computer is to tell Git who you are. This will allow Git to keep
