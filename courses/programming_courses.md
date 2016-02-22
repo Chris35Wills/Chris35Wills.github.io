@@ -21,3 +21,9 @@ Below you can find links to various course materials - please feel free to make 
 ## Github
 
 [Introduction to version control using Github\*](Intro_github/README)
+
+## Setting up your machine
+
+To get you started with minimal hassle, check out the setup guide below...
+
+[SETUP](Setup/setup)
