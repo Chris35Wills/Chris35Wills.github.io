@@ -107,3 +107,9 @@ defaults:
       type: "page"
     values:
       layout: "page"            
+  -
+    scope:
+      path: "courses/Setup"
+      type: "page"
+    values:
+      layout: "page"            
