@@ -107,11 +107,11 @@ Register [here](https://github.com/) and don't forget your password. Your accoun
 
 ## Help
 
-### Get started with the terminal
+### Getting started with the terminal
 
-If you are new to using the terminal, please have a run through [this excellent crash course](http://learnpythonthehardway.org/book/appendixa.html) to get familiar with things.
+If you are new to using the terminal, please have a run through [this excellent crash course](http://learnpythonthehardway.org/book/appendixa.html) to get familiar with things - this if from the [Learn Python The Hard Way](http://learnpythonthehardway.org/) site which is also worth a look through.
 
-### Getting stuck in a terminal...
+### Getting out of a terminal...
 
 If you are new to the terminal, you may occasionally ask yourself where you have ended up and in some cases, how to leave a certain location. [This page](http://hpcarcher.github.io/2015-04-16-imperial/novice/ref/05-prompts-exits.html) offers some useful tips and advice - **please have a look through this before attending the course**.
 
