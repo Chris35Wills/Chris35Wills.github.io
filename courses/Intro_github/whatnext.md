@@ -1,3 +1,6 @@
+---
+---
+
 # What Next?
 
 Now that you have begun using Git I hope that you can see
@@ -21,4 +24,4 @@ will save you from losing some work if your computer hard disk fails.
 
 ***
 
-# [Previous](ci.md) [Up](README.md) [Next](README.md)
+# [Previous](../ci) [Up](../README) [Next](../README)

@@ -1,3 +1,6 @@
+---
+---
+
 #Committing Changes
 
 Let's take a look again at the output of `git status`.
@@ -119,4 +122,4 @@ is clean.
 
 ***
 
-# [Previous](adding.md) [Up](README.md) [Next](diffing.md)
+# [Previous](../adding) [Up](../README) [Next](../diffing)

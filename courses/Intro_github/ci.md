@@ -1,3 +1,6 @@
+---
+---
+
 # Continuous Integration (CI)
 
 How can you know that changes to your files won't break anything? Particularly
@@ -182,4 +185,4 @@ What does a build fail look like?
 
 ***
 
-# [Previous](pull.md) [Up](README.md) [Next](whatnext.md)
+# [Previous](../pull) [Up](../README) [Next](../whatnext)

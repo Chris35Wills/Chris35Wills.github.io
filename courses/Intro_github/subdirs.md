@@ -1,3 +1,6 @@
+---
+---
+
 # Subdirectories and Ignoring Files
 
 Git can version control all files and subdirectorires within 
@@ -260,5 +263,5 @@ that your working directory is clean after the commit.
 
 ***
 
-# [Previous](renaming.md) [Up](README.md) [Next](github.md)
+# [Previous](../renaming) [Up](../README) [Next](../github)
 

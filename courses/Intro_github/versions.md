@@ -1,3 +1,6 @@
+---
+---
+
 #Changing Versions
 
 The point of a version control system such as Git is that you can move 
@@ -189,4 +192,4 @@ Use `git status` to double-check that your working directory is now clean.
 
 ***
 
-# [Previous](diffing.md) [Up](README.md) [Next](branching.md)
+# [Previous](../diffing) [Up](../README) [Next](../branching)

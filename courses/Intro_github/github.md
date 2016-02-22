@@ -1,3 +1,6 @@
+---
+---
+
 # Git in the Cloud
 
 So far, your working directory is only stored on your computer.
@@ -66,14 +69,14 @@ Both provide completely free online Git hosting, and I use both regularly.
 For this workshop I am recommending GitHub, although don't take this
 as any indication that GitHub is better than BitBucket.
 
-If you haven't already, please [go here](github_register.md) for instructions
+If you haven't already, please [go here](../github_register) for instructions
 on how to create and login to your GitHub account.
 
 Now, open a browser window to [https://github.com](https://github.com) and 
 log into your GitHub account. Once logged in you should see something
 like this
 
-![Image showing GitHub logged in home page](github_home.jpg)
+![Image showing GitHub logged in home page](../github_home.jpg)
 
 This shows your GitHub username (in my case, chryswoods), together with
 the set of repositories to which you contribute (in your case, probably 
@@ -92,12 +95,12 @@ Let us now create a new repository on GitHub. To do this, click on the
 "+" sign at the top of the screen and select "New Repository", as in the
 picture below.
 
-![Image showing GitHub new repository button](github_newrepo.jpg)
+![Image showing GitHub new repository button](../github_newrepo.jpg)
 
 Now fill in the information required in the form as in the picture below.
 Note that "Owner" will be your GitHub user name, and not "chryswoods".
 
-![Image showing how to create a new repository](github_createrepo.jpg)
+![Image showing how to create a new repository](../github_createrepo.jpg)
 
 This tells GitHub to create a new repository called `versioned_dir`, 
 and supplies a useful description. The repository is "public", meaning
@@ -109,4 +112,4 @@ Click "Create Repository" to create your new repository.
 
 ***
 
-# [Previous](subdirs.md) [Up](README.md) [Next](push.md)
+# [Previous](../subdirs) [Up](../README) [Next](../push)

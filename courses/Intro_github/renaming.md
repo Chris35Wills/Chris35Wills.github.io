@@ -1,3 +1,6 @@
+---
+---
+
 # Renaming and Removing Files
 
 So far we have only added and changed files in our version controlled
@@ -131,4 +134,4 @@ clean after the commit.
 
 ***
 
-# [Previous](branching.md) [Up](README.md) [Next](subdirs.md)
+# [Previous](../branching) [Up](../README) [Next](../subdirs)

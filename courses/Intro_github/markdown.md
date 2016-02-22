@@ -1,3 +1,6 @@
+---
+---
+
 # Markdown
 
 In the last page we saw that GitHub had automatically rendered `README.MD` into
@@ -44,4 +47,4 @@ Using your web browser, take a look at your `markdown.MD` rendered in GitHub.
 
 ***
 
-# [Previous](push.md) [Up](README.md) [Next](cloning.md)
+# [Previous](../push) [Up](../README) [Next](../cloning)

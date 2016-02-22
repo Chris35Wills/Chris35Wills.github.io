@@ -1,7 +1,7 @@
 ---
 ---
 
-#Version Control using Git
+# Version Control using Git
 
 Git is a version control system that allows you to save multiple versions
 of a file or directory. This is useful to allow you to keep a record of 
@@ -60,4 +60,4 @@ so please copy out and play with the examples provided, and also have a go at th
 
 ***
 
-# [Previous](../../) [Next](basics) 
+# [Previous](../../) [Next](../basics) 

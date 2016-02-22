@@ -1,3 +1,6 @@
+---
+---
+
 #Git Basics
 
 ##Initial Setup
@@ -95,4 +98,4 @@ will track all files and all changes that occur within this directory.
 
 ***
 
-# [Previous](README.md) [Up](README.md) [Next](adding.md) 
+# [Previous](../README) [Up](../README) [Next](../adding) 

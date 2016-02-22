@@ -1,3 +1,6 @@
+---
+---
+
 # Cloning (downloading) a Repository
 
 You've now learned how to push (upload) a copy of your local repository
@@ -201,7 +204,7 @@ to the "original" `versioned_dir` have been copied to the
 
 ***
 
-# [Previous](markdown.md) [Up](README.md) [Next](merging.md)
+# [Previous](../markdown) [Up](../README) [Next](../merging)
 
 
 
