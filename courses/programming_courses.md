@@ -8,6 +8,12 @@ Below you can find links to various course materials - please feel free to make 
 
 *NB/ Where indicated with a \* materials have been modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) specifically for the original materials*
 
+## Setting up your machine
+
+To get you started with minimal hassle, check out the setup guide below...
+
+[SETUP](Setup/setup)
+
 ## Python
 
 [Beginning Python\*](Beginners_python/README)
@@ -22,8 +28,6 @@ Below you can find links to various course materials - please feel free to make 
 
 [Introduction to version control using Github\*](Intro_github/README)
 
-## Setting up your machine
+## Miscellaneous
 
-To get you started with minimal hassle, check out the setup guide below...
-
-[SETUP](Setup/setup)
+[Nano basics](nano_basics/nano_basics)

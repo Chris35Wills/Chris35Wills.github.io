@@ -113,3 +113,9 @@ defaults:
       type: "page"
     values:
       layout: "page"            
+  -
+    scope:
+      path: "courses/nano_basics"
+      type: "page"
+    values:
+      layout: "page" 
