@@ -24,7 +24,7 @@ Once you have typed in some text and are ready to leave nano, use the <kbd>Ctrl<
 
 **Full list of commands**: <kbd>Ctrl</kbd> + <kbd>G</kbd> (and then <kbd>Ctrl</kbd> + <kbd>X</kbd> to exit the menu). 
 
-Anywhere you see a *^* that means <kbd>Ctrl</kbd>. You'll also see use of *M* - this is the <kbd>META</kbd> key. If you don't have a *META* key, this may be mapped to the <kbd>Esc</kbd> key. So for example, *Meta + S* will be Esc then S. Another example - *Meta + ^* might for you be <kbd>Esc</kbd> followed by <kbd>Shift</kbd> + <kbd>6</kbd> (where <kbd>6</kbd> has a function of <kbd>^</kbd>). Stick with it - it makes sense eventually!
+Anywhere you see a *^* before another letter, that means <kbd>Ctrl</kbd>. You'll also see use of *M* - this is the <kbd>META</kbd> key. If you don't have a *META* key, this may be mapped to the <kbd>Esc</kbd> key. So for example, *Meta + S* will be <kbd>Esc</kbd> then <kbd>S</kbd>. Another example - *Meta + ^* (note that ^ in this case does not preceed a letter so if used in its own right) might for you be <kbd>Esc</kbd> followed by <kbd>Shift</kbd> + <kbd>6</kbd> (where <kbd>6</kbd> has a function of <kbd>^</kbd>). Stick with it - it makes sense eventually!
 
 **Cut a line in a document**: move the cursor to the beginning of the line and press <kbd>Ctrl</kbd> + <kbd>K</kbd>. 
 
