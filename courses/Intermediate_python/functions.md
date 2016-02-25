@@ -1,7 +1,9 @@
+---
+---
 
 # Functions
 
-In the [last session](1_lists_and_dictionaries.md), you wrote a couple of scripts that could encode and decode messages from Morse code. The scripts are good, but are not very easy to use or reusable. For someone to make use of the scripts, they will have to edit them and copy and paste your code every time they want to encode or decode a message.
+In the [last session](../1_lists_and_dictionaries), you wrote a couple of scripts that could encode and decode messages from Morse code. The scripts are good, but are not very easy to use or reusable. For someone to make use of the scripts, they will have to edit them and copy and paste your code every time they want to encode or decode a message.
 
 Functions provide a way of packaging code into reusable and easy-to-use components. Lets imagine we have some code to add together two arrays. Open a new `ipython` session and type the below;
 
@@ -153,8 +155,8 @@ while True:
         print( "Cannot understand '%s'. Instruction should be 'encode', 'decode' or 'quit'." % line )
 ```
 
-In the last session you wrote two python scripts, [encode.py](1a_encode.md) and [decode.py](1b_decode.md) that encoded and decoded from English to Morse code and vice versa. Copy and paste the above script into a file called `morse.py`. Using the code you wrote for [encode.py](1a_encode.md) and [decode.py](1b_decode.md), edit `morse.py` and add in the missing `encodeToMorse` and `decodeFromMorse` functions.
+In the last session you wrote two python scripts, [encode.py](../1a_encode) and [decode.py](../1b_decode) that encoded and decoded from English to Morse code and vice versa. Copy and paste the above script into a file called `morse.py`. Using the code you wrote for [encode.py](../1a_encode) and [decode.py](../1b_decode), edit `morse.py` and add in the missing `encodeToMorse` and `decodeFromMorse` functions.
 
-If you are really stuck, there is an example completed script [here](2a_morse.md).
+If you are really stuck, there is an example completed script [here](../2a_morse).
 
-# [Previous](dictionaries.md) [Up](README.md) [Next](modules.md) 
+# [Previous](../dictionaries) [Next](../modules) 

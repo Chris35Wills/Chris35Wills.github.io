@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Splitting Lines
-permalink: /courses/Beginners_python/splitting
 ---
+
+# Splitting Lines
 
 Most files are arranged into words. It is very easy to split a line of text using Python into an array of words. Create a new Python script `nano words.py` and type the following;
 
@@ -56,7 +55,7 @@ print("%s contains %d lines, %d words and %d letters." % \
 
 ## Exercises
 
-Write a Python script that prints out the first word of the first five lines of an arbitrary file ([Here is the answer](splitting_answer1.md)).
+Write a Python script that prints out the first word of the first five lines of an arbitrary file ([Here is the answer](../splitting_answer1)).
 
 Here is a comma-separated table of values;
 
@@ -69,16 +68,10 @@ Here is a comma-separated table of values;
 
 Copy this into a text file using `nano`.
 
-Write a Python script that turns this from a comma separated file with headings `Make,Insurance Class, Premium ($),Age (years)` into a space separated file with headings `Make Premium($) Insurance_Class` ([answer](splitting_answer2.md)).
+Write a Python script that turns this from a comma separated file with headings `Make,Insurance Class, Premium ($),Age (years)` into a space separated file with headings `Make Premium($) Insurance_Class` ([answer](../splitting_answer2)).
 
 (Hint. You may want to strip the newline characters from the end of each line of the file. You can do this by using the `rstrip` command, e.g. `line.rstrip()` which removes any extra spaces or newline characters from the end of line).
 
-Write a Python script that will print out the mean average premium, the make of the oldest car in the list, and the makes of the car in the highest and lowest insurance groups ([answer](splitting_answer3.md)).
+Write a Python script that will print out the mean average premium, the make of the oldest car in the list, and the makes of the car in the highest and lowest insurance groups ([answer](../splitting_answer3)).
 
-***
-
-[Compare with Perl](../beginning_perl/splitting.md)
-
-***
-
-# [Previous](writing.md) [Up](README.md) [Next](searching.md)
+# [Previous](../writing) [Next](../searching)

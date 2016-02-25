@@ -1,3 +1,6 @@
+---
+---
+
 # Testing
 
 Testing is extremely important. Without testing, you cannot be sure that your code is doing what you think.
@@ -393,6 +396,6 @@ Also add in tests for floating point addition, using assert_almost_equal. Note t
 
 Run your tests with `nosetests`. 
 
-If you get stuck, an example test script is [here](test_addarrays.md)
+If you get stuck, an example test script is [here](../test_addarrays)
 
-# [Previous](objects.md) [Up](README.md) [Next](regexp.md)
+# [Previous](../objects) [Next](../regexp)

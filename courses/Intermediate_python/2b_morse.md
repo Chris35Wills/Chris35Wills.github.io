@@ -1,3 +1,7 @@
+---
+---
+
+
 # morse.py
 
 ```python
@@ -71,4 +75,4 @@ if __name__ == "__main__":
             print( "Cannot understand '%s'. Instruction should be 'encode', 'decode' or 'quit'." % line )
 ```
 
-# [Previous](modules.md) [Up](README.md) [Next](modules.md)
+# [Previous](../modules) [Next](../modules)

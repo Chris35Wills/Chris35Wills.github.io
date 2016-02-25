@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Arguments! Answer to exercise 1
-permalink: /courses/Beginners_python/arguments_answer1
 ---
 
 ```python
@@ -19,10 +16,4 @@ for i in range(1, n+1):
     print("%d times %d equals %d" % (i, t, t_times_i))
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/arguments_answer1.md)
-
-***
-
-# [Previous](arguments.md) [Up](README.md) [Next](arguments.md)
+# [Previous](../arguments) [Next](../arguments)

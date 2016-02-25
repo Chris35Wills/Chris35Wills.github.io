@@ -1,3 +1,7 @@
+---
+---
+
+
 # decode.py
 
 ```python
@@ -32,5 +36,5 @@ for letter in morse_letters:
 print( "".join(english) )
 ```
 
-# [Previous](dictionaries.md) [Up](README.md) [Next](dictionaries.md)
+# [Previous](../dictionaries) [Next](../dictionaries)
 

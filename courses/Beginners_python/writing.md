@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Writing Files
-permalink: /courses/Beginners_python/writing
 ---
+
+# Writing Files
 
 Python is equally good at writing to files as it is at reading them. Open a new Python script `nano write_times_table.py` and type;
 
@@ -63,10 +62,4 @@ WFILE.close()
 
 (note that `numbered_filename = "%s_numbered" % filename` uses the same syntax as print, except now the output is returned to a new string variable, rather than printed to the screen. So if `filename` contained the string `file.txt`, then `numbered_filename` would be set equal to `file.txt_numbered`)
 
-***
-
-[Compare with Perl](../beginning_perl/writing.md)
-
-***
-
-# [Previous](files.md) [Up](README.md) [Next](splitting.md)
+# [Previous](../files) [Next](../splitting)

@@ -1,3 +1,6 @@
+---
+---
+
 #Diffing (seeing what has changed)
 
 Git is always looking to see what has changed in your working directory.
@@ -148,5 +151,5 @@ Does `git status` now show that your working directory is clean?
 
 ***
 
-# [Previous](committing.md) [Up](README.md) [Next](versions.md)
+# [Previous](../committing) [Up](../README) [Next](../versions)
 

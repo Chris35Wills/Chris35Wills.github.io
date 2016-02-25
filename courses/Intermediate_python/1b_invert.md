@@ -1,3 +1,6 @@
+---
+---
+
 # decode.py (incomplete)
 
 ```python
@@ -20,4 +23,4 @@ for letter in letter_to_morse:
 message = "... --- ... / .-- . / .... .- ...- . / .... .. - / .- -. / .. -.-. . -... . .-. --. / .- -. -.. / -. . . -.. / .... . .-.. .--. / --.- ..- .. -.-. -.- .-.. -.--"
 ```
 
-# [Previous](dictionaries.md) [Up](README.md) [Next](dictionaries.md)
+# [Previous](../dictionaries) [Next](../dictionaries)

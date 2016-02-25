@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Version Control using Git
 ---
+
+# Version Control using Git
 
 Git is a version control system that allows you to save multiple versions
 of a file or directory. This is useful to allow you to keep a record of 
@@ -41,23 +41,23 @@ so please copy out and play with the examples provided, and also have a go at th
 
 ***
 
-* [Git Basics](basics.md)
-* [Adding Files](adding.md)
-* [Committing Changes](committing.md)
-* [Diffing Files](diffing.md)
-* [Changing Versions](versions.md)
-* [Branching](branching.md)
-* [Renaming and Removing](renaming.md)
-* [Subdirectories](subdirs.md)
-* [Git in the Cloud](github.md)
-* [Pushing to the Cloud](push.md)
-* [Markdown](markdown.md)
-* [Cloning a Repository](cloning.md)
-* [Merging](merging.md)
-* [Pull Requests](pull.md)
-* [Continuous Integration](ci.md)
-* [What Next?](whatnext.md)
+* [Git Basics](../basics)
+* [Adding Files](../adding)
+* [Committing Changes](../committing)
+* [Diffing Files](../diffing)
+* [Changing Versions](../versions)
+* [Branching](../branching)
+* [Renaming and Removing](../renaming)
+* [Subdirectories](../subdirs)
+* [Git in the Cloud](../github)
+* [Pushing to the Cloud](../push)
+* [Markdown](../markdown)
+* [Cloning a Repository](../cloning)
+* [Merging](../merging)
+* [Pull Requests](../pull)
+* [Continuous Integration](../ci)
+* [What Next?](../whatnext)
 
 ***
 
-# [Previous](README.md) [Up](../main/courses.md) [Next](basics.md) 
+# [Previous](../../) [Next](../basics) 

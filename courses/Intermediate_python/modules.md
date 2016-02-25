@@ -1,12 +1,15 @@
+---
+---
+
 # Modules
 
-Functions are great for organising your software into self-contained, reusable blocks of code. However, as it stands, you have to copy and paste your function into every script or program in which it is used. Modules (also called libraries) provide a way of packaging up a collection of functions into a single, reusable package. In python, creating a module is very easy. Indeed, you have already done it! The python scripts you have written are actually already python modules. You can import all of the functions defined in a script by using the `import` command. Ensure that you are in the same directory as your completed [morse.py](2a_morse.md) script and then start a new `ipython` session by typing;
+Functions are great for organising your software into self-contained, reusable blocks of code. However, as it stands, you have to copy and paste your function into every script or program in which it is used. Modules (also called libraries) provide a way of packaging up a collection of functions into a single, reusable package. In python, creating a module is very easy. Indeed, you have already done it! The python scripts you have written are actually already python modules. You can import all of the functions defined in a script by using the `import` command. Ensure that you are in the same directory as your completed [morse.py](../2a_morse) script and then start a new `ipython` session by typing;
 
 ```
 ipython
 ```
 
-Now, in `ipython` you can import all of the functions in your [morse.py](2a_morse.md) script by typing;
+Now, in `ipython` you can import all of the functions in your [morse.py](../2a_morse) script by typing;
 
 ```python
 import morse
@@ -20,7 +23,7 @@ Instruction (encode, decode, quit) :->
 
 Type `quit` now to exit this prompt.
 
-Now in `ipython`, you have access to all of the functions and variables contained in [morse.py](2a_morse.md). These functions are prefixed with the name `morse.`, e.g. type;
+Now in `ipython`, you have access to all of the functions and variables contained in [morse.py](../2a_morse). These functions are prefixed with the name `morse.`, e.g. type;
 
 ```python
 morse.[TAB]
@@ -53,7 +56,7 @@ print( morse.decodeFromMorse(".... . .-.. .-.. --- / .-- --- .-. .-.. -..") )
 
 This should print the string `hello world`.
 
-While this is great, it was quite annoying that the actual code in [morse.py](2a_morse.md) was run when we imported the function (i.e. that we have to type `quit` to exit the `while` loop). We can stop this from happening by using a python hidden variable. Hidden
+While this is great, it was quite annoying that the actual code in [morse.py](../2a_morse) was run when we imported the function (i.e. that we have to type `quit` to exit the `while` loop). We can stop this from happening by using a python hidden variable. Hidden
 variables begin with one or two underscores, and we can list them all using ipython TAB. Type underscore followed by hitting the TAB key, e.g.
 
 ```python
@@ -76,7 +79,7 @@ The hidden variable that we are interested in is called `__name__`. Type;
 print( __name__ )
 ```
 
-You should see the word `__main__` printed to the screen. The value of `__name__` is the name of the current function or module. The top level function is called `__main__`. To stop code in our [morse.py](2a_morse.md) script from running, we just need to make sure that it is only run if the value of "__name__" is "__main__". For example, the below script does exactly that;
+You should see the word `__main__` printed to the screen. The value of `__name__` is the name of the current function or module. The top level function is called `__main__`. To stop code in our [morse.py](../2a_morse) script from running, we just need to make sure that it is only run if the value of "__name__" is "__main__". For example, the below script does exactly that;
 
 ```python
 def addArrays(x, y):
@@ -127,9 +130,9 @@ It is extremely good programming practice to write all of your scripts as if the
 
 ## Exercise
 
-Edit your [morse.py](2a_morse.md) script so that it can be re-used as a module. Do this by adding in an `if __name__ == "__main__":` check.
+Edit your [morse.py](../2a_morse) script so that it can be re-used as a module. Do this by adding in an `if __name__ == "__main__":` check.
 
-If you are really stuck, [here is an example answer](2b_morse.md).
+If you are really stuck, [here is an example answer](../2b_morse).
 
 Make sure you test your script by using `import` to import it into a new `ipython` session, and try encoding and decoding the same strings, e.g. try typing;
 
@@ -143,4 +146,4 @@ print( message == decode )
 
 This should print `True` if the decoded form of the encoded message equals the original message (which you would hope it would!).
 
-# [Previous](functions.md) [Up](python_and_good_programming_practice.md) [Next](documenting.md) 
+# [Previous](../functions) [Next](../documenting) 

@@ -1,16 +1,21 @@
+---
+---
 
 # Regular Expressions in Python
 
 You may already know how to read files and search for text by line number, word number, column
-number or by using `find` to search for specific text (if not, take a look [here](../beginning_python/searching.md)). 
+number or by using `find` to search for specific text (if not, take a look [here](../../Beginners_python/searching)). 
 This is all great, but it is not very flexible.
 
 For example, imagine searching for all surnames and titles from the below text…
 
     Dear Mr. Johnson, 
-      Dear Miss. Jameson,    Dear   Ms.   Jackson, 
+      Dear Miss. Jameson,
+    Dear   Ms.   Jackson, 
     Dear Mrs.    Peterson, 
-      Dear    Mr. Sampson    Dear Dr.Johanson,    Dear Rev Richardson,
+      Dear    Mr. Sampson
+    Dear Dr.Johanson,
+    Dear Rev Richardson,
 
 How would you go about trying to write a program that can do this?
 
@@ -515,9 +520,12 @@ surnames into a file called `greetings.txt`.
 
 ```
 Dear Mr. Johnson, 
-  Dear Miss. Jameson,Dear   Ms.   Jackson, 
+  Dear Miss. Jameson,
+Dear   Ms.   Jackson, 
 Dear Mrs.    Peterson, 
-  Dear    Mr. SampsonDear Dr.Johanson,Dear Rev Richardson,
+  Dear    Mr. Sampson
+Dear Dr.Johanson,
+Dear Rev Richardson,
 ```
 
 Can you write a regular expression that will
@@ -525,13 +533,13 @@ match each line, extracting the title and surname for each person?
 
 Note that you can match the `.` character using `\\.`, e.g. to match `Dr.` use `re.search(r"Dr\\.", line)`
 
-If you get stuck, an example output is [here](greetings.md)
+If you get stuck, an example output is [here](../greetings)
 
 ### Replacing
 
 Find all words that follow "the" in "textfile" (the Hamlet soliloquy) and replace them with "banana".
 
-If you get stuck, take a look at the example output [here](replace.md)
+If you get stuck, take a look at the example output [here](../replace)
 
-# [Previous](testing.md) [Up](README.md) [Next](whatnext.md)
+# [Previous](../testing) [Next](../whatnext)
 

@@ -1,3 +1,6 @@
+---
+---
+
 #Branching
 
 In the last page you saw how to move back to a read-only view of an
@@ -224,5 +227,5 @@ are changing as you would expect.
 
 ***
 
-# [Previous](versions.md) [Up](README.md) [Next](renaming.md)
+# [Previous](.../versions) [Up](../README) [Next](../renaming)
 

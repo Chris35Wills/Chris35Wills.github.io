@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Searching Files Answer to exercise 1
-permalink: /courses/Beginners_python/searching_answer
 ---
 
 ```python
@@ -18,10 +15,4 @@ for line in lines:
         print(line, end="")
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/searching_answer.md)
-
-***
-
-# [Previous](searching.md) [Up](README.md) [Next](searching.md)
+# [Previous](../searching) [Next](../searching)

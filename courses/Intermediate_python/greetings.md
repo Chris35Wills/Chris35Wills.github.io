@@ -1,3 +1,6 @@
+---
+---
+
 # greetings.py
 
 ```python
@@ -22,4 +25,4 @@ for line in lines:
 # the surname. Phew!!!
 ```
 
-# [Previous](regexp.md) [Up](README.md) [Next](regexp.md)
+# [Previous](../regexp) [Next](../regexp)

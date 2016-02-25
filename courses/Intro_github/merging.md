@@ -1,3 +1,6 @@
+---
+---
+
 # Merging
 
 One use-case for cloning a repository is so that you can work
@@ -273,7 +276,7 @@ on GitHub (visiting [https://github.com/USERNAME/versioned_dir/commits/master](h
 where `USERNAME` is your GitHub username). For my repository, this 
 looks like
 
-![Image of commits from a merge](github_merge.jpg)
+![Image of commits from a merge](../github_merge.jpg)
 
 ## Workflow (multi-user)
 
@@ -308,4 +311,4 @@ file back up to the cloud.
 
 ***
 
-# [Previous](cloning.md) [Up](README.md) [Next](pull.md)
+# [Previous](../cloning) [Up](../README) [Next](../pull)

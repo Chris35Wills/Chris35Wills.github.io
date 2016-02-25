@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Python Basics
-permalink: /courses/Beginners_python/basics
 ---
 
-You write Python using a simple text editor, like nano. Log on to a UNIX computer and use a text editor to open a file called script.py, e.g.
+# Python Basics
+
+You write Python using a simple text editor, like nano. Open up a terminal and use a text editor to open a file called script.py, e.g.
 
     nano script.py
 
@@ -78,10 +77,4 @@ What do you think will be printed to the screen when you run this script?
 Run this script using `python variables2.py. Did you see what you expected?
 Play with this script by changing the placeholders and see how that affects the output.
 
-***
-
-[Compare with Perl](../beginning_perl/basics.md)
-
-***
-
-# [Previous](README) [Next](loops) 
+# [Previous](../README) [Next](../loops) 

@@ -1,3 +1,5 @@
+---
+---
 
 # Lists
 
@@ -320,4 +322,4 @@ would print
 h e l l o
 ```
 
-# [Previous](README.md) [Up](README.md) [Next](dictionaries.md)
+# [Previous](../README) [Next](../dictionaries)

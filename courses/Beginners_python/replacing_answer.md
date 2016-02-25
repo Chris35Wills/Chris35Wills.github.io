@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Search and Replace Answer to exercise 1
-permalink: /courses/Beginners_python/replacing_answer
 ---
 
 ```python
@@ -18,10 +15,4 @@ for line in lines:
     print( re.sub( search_string, replace_string, line ) )
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/replacing_answer.md)
-
-***
-
-# [Previous](replacing.md) [Up](README.md) [Next](replacing.md)
+# [Previous](../replacing) [Next](../replacing)

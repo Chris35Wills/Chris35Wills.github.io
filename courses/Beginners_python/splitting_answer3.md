@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Splitting Lines Answer to exercise 3
-permalink: /courses/Beginners_python/splitting_answer3
 ---
 
 ```python
@@ -50,10 +47,4 @@ print("The make in the lowest class is %s." % lowest_make)
 print("The make in the highest class is %s." % highest_make)
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/splitting_answer3.md)
-
-***
-
-# [Previous](splitting.md) [Up](README.md) [Next](splitting.md)
+# [Previous](../splitting) [Next](../splitting)

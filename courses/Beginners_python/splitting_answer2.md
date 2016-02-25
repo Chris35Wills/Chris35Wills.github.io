@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Splitting Lines Answer to exercise 2
-permalink: /courses/Beginners_python/splitting_answer2
 ---
 
 ```python
@@ -21,10 +18,4 @@ for i in range( 1, len(lines) ):
         print("%s  %s  %s" % (words[0], words[2], words[3]))
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/splitting_answer2.md)
-
-***
-
-# [Previous](splitting.md) [Up](README.md) [Next](splitting.md)
+# [Previous](../splitting) [Next](../splitting)

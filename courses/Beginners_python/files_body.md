@@ -1,7 +1,4 @@
 ---
-layout: page
-title: Files Answer to exercise 3
-permalink: /courses/Beginners_python/files_body
 ---
 
 ```python
@@ -33,10 +30,4 @@ else:
         print(lines[i], end="")
 ```
 
-***
-
-[Compare with Perl](../beginning_perl/files_body.md)
-
-***
-
-# [Previous](files.md) [Up](README.md) [Next](files.md)
+# [Previous](../files) [Next](../files)

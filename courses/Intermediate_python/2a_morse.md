@@ -1,3 +1,6 @@
+---
+---
+
 # morse.py
 
 ```python
@@ -70,4 +73,4 @@ while True:
         print( "Cannot understand '%s'. Instruction should be 'encode', 'decode' or 'quit'." % line )
 ```
 
-# [Previous](functions.md) [Up](README.md) [Next](functions.md)
+# [Previous](../functions) [Next](../functions)

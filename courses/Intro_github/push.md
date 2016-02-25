@@ -1,3 +1,6 @@
+---
+---
+
 # Pushing to the Cloud
 
 Now that you have created a new repository you have to supply
@@ -8,7 +11,7 @@ We are going to use the third of these options, which is to
 push the version data from our local `versioned_dir` directory
 into our cloud `versioned_dir` GitHub repository.
 
-![Image of the post-creation page of GitHub](github_created.jpg)
+![Image of the post-creation page of GitHub](../github_created)
 
 To do this, we need to tell Git running on our local machine, 
 that it needs to use our GitHub cloud repository as a remote
@@ -88,7 +91,7 @@ So, what does this mean in practice? Open your web browser and navigate
 to [https://github.com/USERNAME/versioned_dir](https://github.com/USERNAME/versioned_dir),
 where `USERNAME` is your GitHub username. You should see something like this
 
-![Image of the GitHub versioned_dir repository](github_repo.jpg)
+![Image of the GitHub versioned_dir repository](../github_repo.jpg)
 
 You should be able to see that all of your files are available on GitHub.
 By default, if your repository contains a file called `README.MD`, then this
@@ -102,13 +105,13 @@ number - just look for "N commits", next to the icon that says "1 branch").
 This will take you to a page where you can see all of the commits that were
 made to the `master` branch, e.g. as here
 
-![Image of the GitHub commits page](github_commits.jpg)
+![Image of the GitHub commits page](../github_commits.jpg)
 
 Feel free to click on any of the commits. You should see a nice page that
 shows exactly what changed in the commit. For example, clicking on the commit
 in which we corrected the "cat goes woof" to the "cat goes mieow" shows
 
-![Image of the GitHub diff](github_diff.jpg)
+![Image of the GitHub diff](../github_diff.jpg)
 
 Pretty cool right?
 
@@ -167,13 +170,13 @@ where `USERNAME` is your GitHub username).
 You should see that the number of commits has increased, and that
 the new `README.MD` file is being shown, e.g. as in here
 
-![Image of GitHub, post-commit](github_post1.jpg)
+![Image of GitHub, post-commit](../github_post1.jpg)
 
 If you navigate to the commit page for this latest commit, then 
 you should be able to find the information for the latest commit,
 e.g. as here
 
-![Image of commit info](github_post2.jpg)
+![Image of commit info](../github_post2.jpg)
 
 To ensure that your local and cloud repositories are kept in sync,
 always ensure that you use `git push` after you `git commit -a`.
@@ -258,4 +261,4 @@ Everything up-to-date
 
 ***
 
-# [Previous](github.md) [Up](README.md) [Next](markdown.md)
+# [Previous](../github) [Up](../README) [Next](../markdown)

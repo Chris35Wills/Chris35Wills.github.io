@@ -1,3 +1,6 @@
+---
+---
+
 # encode.py
 
 ```python
@@ -21,5 +24,5 @@ for letter in message:
 print( " ".join(morse) )
 ```
 
-# [Previous](dictionaries.md) [Up](README.md) [Next](dictionaries.md)
+# [Previous](../dictionaries) [Next](../dictionaries)
 

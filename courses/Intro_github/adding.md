@@ -1,4 +1,7 @@
-#Adding Files to be Versioned
+---
+---
+
+# Adding Files to be Versioned
 
 Ensure that you are still in the `versioned_dir` directory, and then create
 a new file called `README.MD`, e.g.
@@ -90,4 +93,4 @@ which has been added to this directory?
 
 ***
 
-# [Previous](basics.md) [Up](README.md) [Next](committing.md) 
+# [Previous](../basics) [Up](../README) [Next](../committing) 

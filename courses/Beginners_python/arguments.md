@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Arguments!
-permalink: /courses/Beginners_python/arguments
 ---
+
+# Arguments!
 
 Arguments are important for all programs. Arguments for programs have nothing to do with shouting, but are additional bits of information supplied to the program when it is run. Open a new Python script `nano arguments.py` and type this;
 
@@ -77,7 +76,7 @@ Note that the arguments are loaded into Python as strings. You will need to conv
 n = int( sys.argv[1] )
 ```
 
-[Answer](arguments_answer1.md) (don't peek at this unless you are stuck or until you have finished!)
+[Answer](../arguments_answer1) (don't peek at this unless you are stuck or until you have finished!)
 
 As an extension, can you think of a way to use arrays to print out the times table using words rather than using numbers? To do this you will need to know that you can assign values to an array using the following syntax;
 
@@ -87,12 +86,6 @@ b = [ "cat", "dog", "fish", "bird" ]
 c = [ "zero", "one", "two", "three" ]
 ```
 
-[Answer](arguments_answer2.md) (don't peek at this unless you are stuck or until you have finished!)
+[Answer](../arguments_answer2) (don't peek at this unless you are stuck or until you have finished!)
 
-***
-
-[Compare with Perl](../beginning_perl/arguments.md)
-
-***
-
-# [Previous](loops.md) [Up](README.md) [Next](conditions.md)
+# [Previous](../loops) [Next](../conditions)

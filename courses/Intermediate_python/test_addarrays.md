@@ -1,3 +1,6 @@
+---
+---
+
 # test_addarrays.py
 
 ```python
@@ -51,4 +54,4 @@ def test_addfloats():
         assert_almost_equal( expect[i], c[i], 10 )
 ```
 
-# [Previous](testing.md) [Up](README.md) [Next](testing.md)
+# [Previous](../testing) [Next](../testing)

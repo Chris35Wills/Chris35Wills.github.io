@@ -1,3 +1,5 @@
+---
+---
 
 # Documenting Code
 
@@ -37,7 +39,7 @@ DESCRIPTION
 
 (type `q` to exit the help)
 
-Now, assuming that you have a copy of [checkmain.py](checkmain_nodoc.md) in your current directory, you can compare this documentation to the documentation for the `checkmain` script that we wrote in the last session. Type;
+Now, assuming that you have a copy of [checkmain.py](../checkmain_nodoc) in your current directory, you can compare this documentation to the documentation for the `checkmain` script that we wrote in the last session. Type;
 
 ```python
 import checkmain
@@ -78,7 +80,7 @@ documentedFunction(a)
     Here is the documentation string for this function
 ````
 
-We can do the same thing for the [checkmain.py](checkmain_nodoc.md) script. Exit `ipython` and use `nano` to edit your copy of the  [checkmain.py](checkmain_nodoc.md) script. Add documentation strings as follows;
+We can do the same thing for the [checkmain.py](../checkmain_nodoc) script. Exit `ipython` and use `nano` to edit your copy of the  [checkmain.py](../checkmain_nodoc) script. Add documentation strings as follows;
 
 ```
 """checkmain is a simple python script to demonstrate
@@ -140,8 +142,8 @@ The documentation strings that were enclosed in three pairs of double quotes, e.
 
 ## Exercise
 
-Edit your [morse.py](2b_morse.md) script and add documentation strings for the module and also for all of the functions.
+Edit your [morse.py](../2b_morse) script and add documentation strings for the module and also for all of the functions.
 
-If you are really stuck then [here is an example](2c_morse.md)
+If you are really stuck then [here is an example](../2c_morse)
 
-# [Previous](modules.md) [Up](README.md) [Next](objects.md) 
+# [Previous](../modules) [Next](../objects) 

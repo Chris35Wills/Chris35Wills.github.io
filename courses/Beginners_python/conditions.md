@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Conditions
-permalink: /courses/Beginners_python/conditions
 ---
+
+# Conditions
 
 Loops provide a means to execute part of the script multiple times. Conditions provide the route to choose whether or not to execute part of a script. Open a new Python script `nano conditions.py` and type the following;
 
@@ -66,10 +65,4 @@ else:
 
 Can you work out what it does before you run it? Run it with some different arguments. Does it do what you expect?
 
-***
-
-[Compare with Perl](../beginning_perl/conditions.md)
-
-***
-
-# [Previous](arguments.md) [Up](README.md) [Next](files.md)
+# [Previous](../arguments) [Next](../files)

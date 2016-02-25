@@ -1,6 +1,9 @@
-#Git Basics
+---
+---
 
-##Initial Setup
+# Git Basics
+
+## Initial Setup
 
 The first thing you have to do when using Git for the first time on
 a computer is to tell Git who you are. This will allow Git to keep
@@ -95,4 +98,4 @@ will track all files and all changes that occur within this directory.
 
 ***
 
-# [Previous](README.md) [Up](README.md) [Next](adding.md) 
+# [Previous](../README) [Up](../README) [Next](../adding) 

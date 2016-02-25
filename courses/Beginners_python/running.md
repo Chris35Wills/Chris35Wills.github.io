@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Running Programs
-permalink: /courses/Beginners_python/running
 ---
+
+# Running Programs
 
 So far you've seen how you can use Python to process your output files. However, what makes Python a good glue language is its ability to actually run programs as well. There are several ways to run a program from your Python script. I'll only present a couple of ways here. Open a new Python script (`nano system_run.py`) and copy the following;
 
@@ -61,12 +60,6 @@ all of the JPEG files in a directory into PNG files.
 
 (the command to convert `file.jpg` to `file.png` is `convert file.jpg file.png`)
 
-[Here's a possible answer](running_answer.md).
+[Here's a possible answer](../running_answer).
 
-***
-
-[Compare with Perl](../beginning_perl/running.md)
-
-***
-
-# [Previous](replacing.md) [Up](README.md) [Next](jobs.md)
+# [Previous](../replacing) [Next](../jobs)

@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Searching Files
-permalink: /courses/Beginners_python/searching
 ---
+
+# Searching Files
 
 Python is an excellent language to use when searching within files. Searching is very useful, for example you could imagine using Python to search an output file to find the results of a calculation. Searching in Python is straight-forward. Open a new Python script `nano search.py` and type the following;
 
@@ -100,12 +99,6 @@ grep is a useful UNIX program that lets you print out lines in a file that match
 
 will print out all of the lines that contain the word `the`.
 
-Write a Python script (`grep.py`) that acts like grep. ([Answer](searching_answer.md))
+Write a Python script (`grep.py`) that acts like grep. ([Answer](../searching_answer))
 
-***
-
-[Compare with Perl](../beginning_perl/searching.md)
-
-***
-
-# [Previous](splitting.md) [Up](README.md) [Next](replacing.md)
+# [Previous](../splitting) [Next](../replacing)
