@@ -18,19 +18,19 @@ This will open up the nano editor. You can just type as normal now, moving up an
 
 NB/ You will see at the bottom of the editor a number of options e.g. *^X Exit*. The *^* symbol represents the <kbd>Ctrl</kbd> key.
 
-Once you have typed in some text and are ready to leave nano, use the Ctrl + x keys. This will bring up an option at the bottom saying *Save modified buffer?*. Now press the Y key - you will now have an option of modifying what to call the saved output. Change or keep this and just press enter. To cancel and go back to editing the file, just press Ctrl + C.
+Once you have typed in some text and are ready to leave nano, use the <kbd>Ctrl</kbd> + <kbd>x</kbd> keys. This will bring up an option at the bottom saying *Save modified buffer?*. Now press the <kbd>Y</kbd> key - you will now have an option of modifying what to call the saved output. Change or keep this and just press <kbd>enter</kbd>. To cancel and go back to editing the file, just press <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 ## Some useful commands (by no means exhaustive!)
 
-**Full list of commands**: Ctrl + G (and then Ctrl + X to exit the menu). 
+**Full list of commands**: <kbd>Ctrl</kbd> + <kbd>G</kbd> (and then <kbd>Ctrl</kbd> + <kbd>X</kbd> to exit the menu). 
 
-Anywhere you see a *^* that means Ctrl. You'll also see use of *M* - this is the META key. If you don't have a *META* key, this may be mapped to the Esc key. So for example, *Meta + S* will be Esc then S. Another example - *Meta + ^* might for you be Esc followed by Shift + 6 (where 6 has a function of ^). Stick with it - it makes sense eventually!
+Anywhere you see a *^* that means <kbd>Ctrl</kbd>. You'll also see use of *M* - this is the <kbd>META</kbd> key. If you don't have a *META* key, this may be mapped to the <kbd>Esc</kbd> key. So for example, *Meta + S* will be Esc then S. Another example - *Meta + ^* might for you be <kbd>Esc</kbd> followed by <kbd>Shift</kbd> + <kbd>6</kbd> (where <kbd>6</kbd> has a function of <kbd>^</kbd>). Stick with it - it makes sense eventually!
 
-**Cut a line in a document**: move the cursor to the beginning of the line and press Ctrl + K. 
+**Cut a line in a document**: move the cursor to the beginning of the line and press <kbd>Ctrl</kbd> + <kbd>K</kbd>. 
 
-**Copy a block of text**: move the cursor to the beginning of the section and type Ctrl + ^ (this may be Ctrl + shift + 6 for you). Now, move the cursor to the end of the section to copy - you'll see the text get highlighted. To *copy* it, set another mark using *META + ^* (see above about META keys - also look [here](https://en.wikipedia.org/wiki/GNU_nano)) - this may be Esc followed by Shift + 6 for you.
+**Copy a block of text**: move the cursor to the beginning of the section and type <kbd>Ctrl</kbd> + <kbd>^</kbd> (this may be <kbd>Ctrl</kbd> + <kbd>shift</kbd> + <kbd>6</kbd> for you). Now, move the cursor to the end of the section to copy - you'll see the text get highlighted. To *copy* it, set another mark using *META + ^* (see above about META keys - also look [here](https://en.wikipedia.org/wiki/GNU_nano)) - this may be <kbd>Esc</kbd> followed by <kbd>Shift</kbd> + <kbd>6</kbd> for you.
 
-**Paste** (*uncut* in nano): press Ctrl + U and the line will paste wherever the cursor is at that moment.
+**Paste** (*uncut* in nano): press <kbd>Ctrl</kbd> + <kbd>U</kbd> and the line will paste wherever the cursor is at that moment.
 
 ## More info
 
