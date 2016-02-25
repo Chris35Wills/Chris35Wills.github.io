@@ -12,7 +12,9 @@
 Nano is an excellent program for quick and simple text editing - however, if you are new to the command line, it may seem a bit alien. 
 To open up a new file called *foo.txt*, simply type:
 
-  nano foo.txt
+```
+nano foo.txt
+```
 
 This will open up the nano editor. You can just type as normal now, moving up and down using the cursors or the enter key. 
 
