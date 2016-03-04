@@ -48,10 +48,18 @@ def check():
 
 if __name__ == '__main__':
     if check():
+        print('      ')
+        print('******')
         print('Passed')
+        print('******')
+        print('      ')
     else:
+        print('      ')
+        print('******')
         print('Failed')
         print('Python versions of 2.7 onwards might work but some things are not back compatible')
         print('Better to install a current version of Python 3!')
         print('http://continuum.io/downloads')
+        print('******')
+        print('      ')
         _sys.exit(1)
