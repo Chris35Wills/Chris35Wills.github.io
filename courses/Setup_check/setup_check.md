@@ -17,7 +17,7 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 
 3. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-2.py), right click anywhere in the window, select **save as** and call it installation-test-2.py - remember where you sav it!
 
-4. Run it from the bash shell as in step 2
+4. Run it from the bash shell as in step 2:
 
 
 	$ cd path/to/where/you/downloaded/the/file
