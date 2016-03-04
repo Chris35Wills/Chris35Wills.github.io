@@ -20,9 +20,6 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 4. Run it from the bash shell as in step 2:
 
 
-	$ python swc-installation-test-2.py
-	check virtual-shell...  fail
-
 	$ cd path/to/where/you/downloaded/the/file
 	$ python installation-test-1.py
 	check virtual-shell...  pass
@@ -33,7 +30,9 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 	...
 
 
-  If you see something like:
+## Potential issues...
+
+If you see something like:
 
 
 	$ python swc-installation-test-2.py
@@ -51,8 +50,7 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 		http://software-carpentry.org/setup/
 	...
 
-
-  follow the suggestions to try and install any missing software. For additional troubleshooting information, you can use the --verbose option:
+follow the suggestions to try and install any missing software. For additional troubleshooting information, you can use the --verbose option:
 
 
 	$ python swc-installation-test-2.py --verbose
