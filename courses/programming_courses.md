@@ -14,7 +14,7 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [SETUP](Setup/setup)
 
-[SETUP CHECK](Setup_check/Setup_check)
+[SETUP CHECK](Setup_check/setup_check)
 
 ## Python
 
