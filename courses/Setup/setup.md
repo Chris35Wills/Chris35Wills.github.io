@@ -97,7 +97,7 @@ Regardless of how you choose to install it, please make sure you install Python 
 
 ### Now, test everything works!
 
-Once you are done installing the software listed above, please go to [this page](../../Setup_check/Setup_check), which has instructions on how to test that everything has been installed correctly.
+Once you are done installing the software listed above, please go to [this page](../../Setup_check/setup_check), which has instructions on how to test that everything has been installed correctly.
 
 ## Additional things to set up
 

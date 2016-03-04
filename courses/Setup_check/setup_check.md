@@ -3,11 +3,11 @@
 
 # Checking everything works
 
-Below are a couple of scripts for ensuring everything as detailed on the [SETUP page](../SETUP/setup) works.
+Below are a couple of scripts for ensuring everything as detailed on the [SETUP page](../../SETUP/setup) works.
 
 1. Download installation-test-1.py
 
-2. Run it from the bash shell you set up as detailed on the [SETUP page](../SETUP/setup)
+2. Run it from the bash shell you set up as detailed on the [SETUP page](../../SETUP/setup)
 
 	$ cd path/to/where/you/downloaded/the/file
 	$ python installation-test-1.py
