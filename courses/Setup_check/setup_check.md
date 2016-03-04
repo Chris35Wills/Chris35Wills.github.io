@@ -5,7 +5,7 @@
 
 Below are a couple of scripts for ensuring everything as detailed on the [SETUP page](../../SETUP/setup) works.
 
-1. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-1.py), right click on the main text, **save target as** and call it installation-test-1.py
+1. Download [installation-test-1.py](https://github.com/Chris35Wills/Chris35Wills.github.io/blob/master/courses/Setup_check/installation-test-1.py)
 
 2. Run it from the bash shell you set up as detailed on the [SETUP page](../../SETUP/setup)
 
@@ -15,7 +15,7 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
   Passed
   ```
 
-3. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-2.py), right click on the main text, **save target as** and call it installation-test-2.py
+3. Download [installation-test-2.py](C:\GitHub\Chris35Wills.github.io\courses\Setup_check\installation-test-2.py)
 
 4. Run it from the bash shell as in step 2
 
