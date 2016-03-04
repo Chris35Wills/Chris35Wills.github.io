@@ -6,7 +6,7 @@
 Before attending the DTP Python training course, there are a few preliminary steps that you must first take. These will result in:
 
 * local installation of a bash prompt terminal
-* local Python installation using teh Anaconda distribution
+* local Python installation using the Anaconda distribution
 * initiation of a Github user account
 * installation of an appropriate text editor 
 
