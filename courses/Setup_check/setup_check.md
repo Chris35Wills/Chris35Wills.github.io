@@ -9,9 +9,8 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 
 2. Run it from the bash shell you set up as detailed on the [SETUP page](../../SETUP/setup)
 
-  
   	$ cd path/to/where/you/downloaded/the/file
-	$ python installation-test-1.py
+  	$ python installation-test-1.py
   	Passed
   
 
@@ -19,12 +18,11 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 
 4. Run it from the bash shell as in step 2
 
-  
   	$ cd path/to/where/you/downloaded/the/file
   	$ python installation-test-1.py
   	check virtual-shell...  pass
-	...
-	Successes:
+  	...
+  	Successes:
   	
   	virtual-shell Bourne Again Shell (bash) 4.2.37
   	...
