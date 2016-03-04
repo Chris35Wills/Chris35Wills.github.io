@@ -4,7 +4,7 @@
 
 Execute this code at the command line by typing:
 
-  python swc-installation-test-1.py
+  python installation-test-1.py
 
 How to get a command line:
 
