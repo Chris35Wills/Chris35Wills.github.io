@@ -5,7 +5,7 @@
 
 Below are a couple of scripts for ensuring everything as detailed on the [SETUP page](../../Setup/setup) works.
 
-1. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-1.py), right click anywhere in the window, select **save as** and call it **installation-test-1.py** - remember where you sav it!
+1. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-1.py), right click anywhere in the window, select **save as** and call it **installation-test-1.py** - remember where you save it!
 
 2. Run it from the bash shell you set up as detailed on the [SETUP page](../../Setup/setup)
 
@@ -15,13 +15,13 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 		Passed
 
 
-3. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-2.py), right click anywhere in the window, select **save as** and call it **installation-test-2.py** - remember where you sav it!
+3. Go to [this page](https://raw.githubusercontent.com/Chris35Wills/Chris35Wills.github.io/master/courses/Setup_check/installation-test-2.py), right click anywhere in the window, select **save as** and call it **installation-test-2.py** - remember where you save it!
 
 4. Run it from the bash shell as in step 2:
 
 
 		$ cd path/to/where/you/downloaded/the/file
-		$ python installation-test-1.py
+		$ python installation-test-2.py
 		check virtual-shell...  pass
 		...
 		Successes:
