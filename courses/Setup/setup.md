@@ -18,7 +18,9 @@ Before attending the DTP Python training course, there are a few preliminary ste
 
 Download the Git for Windows [installer](https://git-for-windows.github.io/). Run the installer. 
 
-**Important:** on the 6th page of the installation wizard (the page titled `Configuring the terminal emulator...`) select `Use Windows' default console window`. If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
+**Important:** on the 6th page of the installation wizard (the page titled `Configuring the terminal emulator...`) select `Use Windows' default console window`. 
+
+If you forget to do this, programs that you need for the workshops on this site will not work properly. If this happens rerun the installer and select the appropriate option.
 
 This will provide you with both Git and Bash in the Git Bash program.
 
