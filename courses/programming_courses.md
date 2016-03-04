@@ -14,6 +14,8 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [SETUP](Setup/setup)
 
+[SETUP CHECK](Setup/Setup_check)
+
 ## Python
 
 [Beginning Python\*](Beginners_python/README)
