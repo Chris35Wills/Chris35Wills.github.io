@@ -25,14 +25,13 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
   	check virtual-shell...  pass
 	...
 	Successes:
-  
-	virtual-shell Bourne Again Shell (bash) 4.2.37
-	...
+  	
+  	virtual-shell Bourne Again Shell (bash) 4.2.37
+  	...
   
 
   If you see something like:
 
-  
   	$ python swc-installation-test-2.py
   	check virtual-shell...  fail
   	...
