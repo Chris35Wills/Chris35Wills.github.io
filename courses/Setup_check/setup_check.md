@@ -22,12 +22,12 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
   
   	$ cd path/to/where/you/downloaded/the/file
   	$ python installation-test-1.py
-  		check virtual-shell...  pass
-	  	...
-	  	Successes:
+  	check virtual-shell...  pass
+	...
+	Successes:
   
-	  	virtual-shell Bourne Again Shell (bash) 4.2.37
-	  	...
+	virtual-shell Bourne Again Shell (bash) 4.2.37
+	...
   
 
   If you see something like:
