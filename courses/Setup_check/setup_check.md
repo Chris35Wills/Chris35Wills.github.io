@@ -51,7 +51,7 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
 
   follow the suggestions to try and install any missing software. For additional troubleshooting information, you can use the --verbose option:
 
-  {% highlight bash %}
+  {% highlight %}
   $ python swc-installation-test-2.py --verbose
   check virtual-shell...  fail
   ...
@@ -60,4 +60,4 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
   ==================
   os.name            : posix
   ...
-  {% endhighlight bash %}
+  {% highlight %}
