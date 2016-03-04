@@ -60,4 +60,4 @@ Below are a couple of scripts for ensuring everything as detailed on the [SETUP 
   ==================
   os.name            : posix
   ...
-  {% highlight %}
+  {% endhighlight %}
