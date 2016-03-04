@@ -3,7 +3,7 @@
 
 # Checking everything works
 
-Below are a couple of scripts for ensuring everything as detailed on the [SETUP page]() works.
+Below are a couple of scripts for ensuring everything as detailed on the [SETUP page](../SETUP/setup) works.
 
 1. Download installation-test-1.py
 
