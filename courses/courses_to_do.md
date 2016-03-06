@@ -17,3 +17,12 @@
 - [ ] Put together the matplotlib course
 
 - [ ] Put together the numpy course
+
+
+# Future
+
+- [ ] Building a module
+
+- [ ] Classes
+
+- [ ] Python for geospatial data analysis

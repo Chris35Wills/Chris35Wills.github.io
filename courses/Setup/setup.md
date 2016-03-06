@@ -6,7 +6,7 @@
 Before attending the DTP Python training course, there are a few preliminary steps that you must first take. These will result in:
 
 * local installation of a bash prompt terminal
-* local Python installation using teh Anaconda distribution
+* local Python installation using the Anaconda distribution
 * initiation of a Github user account
 * installation of an appropriate text editor 
 
@@ -16,7 +16,13 @@ Before attending the DTP Python training course, there are a few preliminary ste
 
 #### Windows
 
-Download the Git for Windows [installer](https://git-for-windows.github.io/). Run the installer. **Important: on the 6th page of the installation wizard (the page titled `Configuring the terminal emulator...`) select `Use Windows' default console window`. If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.** This will provide you with both Git and Bash in the Git Bash program.
+Download the Git for Windows [installer](https://git-for-windows.github.io/). Run the installer. 
+
+**Important:** on the 6th page of the installation wizard (the page titled `Configuring the terminal emulator...`) select `Use Windows' default console window`. 
+
+If you forget to do this, programs that you need for the workshops on this site will not work properly. If this happens rerun the installer and select the appropriate option.
+
+This will provide you with both Git and Bash in the Git Bash program.
 
 #### Mac OS X
 
@@ -97,7 +103,7 @@ Regardless of how you choose to install it, please make sure you install Python 
 
 ### Now, test everything works!
 
-Once you are done installing the software listed above, please go to [this page](http://andreww.github.io/2016-01-06-bristol/setup/index.html), which has instructions on how to test that everything was installed correctly.
+Once you are done installing the software listed above, please go to [this page](../../Setup_check/setup_check), which has instructions on how to test that everything has been installed correctly.
 
 ## Additional things to set up
 
