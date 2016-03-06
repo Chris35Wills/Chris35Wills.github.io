@@ -57,7 +57,7 @@ if __name__ == '__main__':
         print('      ')
         print('******')
         print('Failed')
-        print('Python versions of 2.7 onwards might work but some things are not back compatible')
+        print('Outdated Python versions might work but some things are not back compatible')
         print('Better to install a current version of Python 3!')
         print('http://continuum.io/downloads')
         print('******')
