@@ -1,7 +1,7 @@
 ---
 ---
 
-# I already have python installed
+# I already have python installed...
 
 Some of you may already have python. 
 
