@@ -12,6 +12,8 @@ Before attending the DTP Python training course, there are a few preliminary ste
 
 ## Program installation
 
+---
+
 ### Bash shell
 
 #### Windows
@@ -48,6 +50,8 @@ For OS X 10.9 and higher, install Git for Mac by downloading and running the mos
 
 If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora run sudo yum install git.
 
+---
+
 ### Text editor
 
 When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
@@ -73,6 +77,8 @@ If you already have an editor you like to use to edit text files, then please us
 Others editors that you can use are [Gedit](https://wiki.gnome.org/Apps/Gedit), [Kate](http://kate-editor.org/) or [Sublime Text](http://www.sublimetext.com/).
 
 *nano* is a basic editor that you can also use. It should be pre-installed.
+
+---
 
 ### Python
 
@@ -110,9 +116,13 @@ If you already have python, take a look [here](../already_have_python). If not, 
 6. Type `bash Anaconda-` and then press tab. The name of the file you just downloaded should appear.
 7. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type `yes` and press enter to approve the license. Press enter to approve the default location for the files. Type `yes` and press enter to prepend Anaconda to your `PATH` (this makes the Anaconda distribution the default Python).
 
+---
+
 ### Now, test everything works!
 
 Once you are done installing the software listed above, please go to [this page](../../Setup_check/setup_check), which has instructions on how to test that everything has been installed correctly.
+
+---
 
 ## Additional things to set up
 
