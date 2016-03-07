@@ -54,47 +54,56 @@ When you're writing code, it's nice to have a text editor that is optimized for 
 
 #### Windows
 
-*nano* is a basic editor that can be used in the workshop. This can be installed by following the instructions detailed [here](http://gosukiwi-blog.tumblr.com/post/44781816410/using-nano-from-git-on-windows) - **if you have any trouble with this, please just ask one of the instructors on the course**.
+*notepad* is your go to editor and is accessed by simply typying ```notepad``` in your terminal - to keep things simple, you can just use this. 
 
-Other editors that you can use are [*Notepad++*](http://notepad-plus-plus.org/) or [*Sublime Text*](http://www.sublimetext.com/). Be aware that you must add its installation directory to your system path. **Please ask your instructor to help you do this.**
+Syntax highlighting (which can make coding a bit easier on the eye) can be achieved by using [*Notepad++*](http://notepad-plus-plus.org/) or [*Sublime Text*](http://www.sublimetext.com/). Be aware that you must add its installation directory to your system path. **Please ask your instructor to help you do this.**
+
+*nano* is a basic editor that can also be used. This can be installed by following the instructions detailed [here](http://gosukiwi-blog.tumblr.com/post/44781816410/using-nano-from-git-on-windows) - **if you have any trouble with this, please just ask one of the instructors on the course**.
 
 #### Mac OS X
 
-*nano* is a basic editor that can be used in the workshop. It should be pre-installed.
+If you already have an editor you like to use to work on text files, then please use that for the course. Others editors that you can use are [*Text Wrangler*](http://www.barebones.com/products/textwrangler/) or [*Sublime Text*](http://www.sublimetext.com/).
 
-Others editors that you can use are [*Text Wrangler*](http://www.barebones.com/products/textwrangler/) or [*Sublime Text*](http://www.sublimetext.com/).
+*nano* is another basic editor that can be used. It should be pre-installed.
 
 #### Linux
 
-*nano* is a basic editor that can be used in the workshop. It should be pre-installed.
+If you already have an editor you like to use to edit text files, then please use that for the course - your choice between Emacs and Vim is a decision for you alone!
 
 Others editors that you can use are [Gedit](https://wiki.gnome.org/Apps/Gedit), [Kate](http://kate-editor.org/) or [Sublime Text](http://www.sublimetext.com/).
 
+*nano* is a basic editor that you can also use. It should be pre-installed.
 
 ### Python
 
 [Python](http://python.org/) is a popular language for scientific computing, and great for general-purpose programming as well. Installing all of its scientific packages individually can be a bit difficult, so we will be using [Anaconda](https://store.continuum.io/cshop/anaconda/), an all-in-one installer.
 
-Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., 3.4 is fine).
+Python version 3.X is the most up to date version of python to date, however many people are still working with v2.7. We promote the installation of v3.X on this course - older versions  will work but may result in you hitting some errors, especially when you get used to the language and start using different packages.
 
 #### Windows
 
+If you already have python, take a look [here](../already_have_python). If not, then follow the instructions below:
+
 1. Open [http://continuum.io/downloads](http://continuum.io/downloads) with your web browser.
-2. Click on "I want Python 3.X" link.
+2. Click on **Python 3.X** link.
 3. Download this Python 3 installer.
-4. Install Python 3 using all of the defaults for installation except make sure to check **Make Anaconda the default Python**.
+4. Install Python 3 using all of the defaults for installation except make sure to check **Register Anaconda as my default Python 3.x**.
 
 #### Mac OS X
 
+If you already have python, take a look [here](../already_have_python). If not, then follow the instructions below:
+
 1. Open [http://continuum.io/downloads](http://continuum.io/downloads) with your web browser.
-2. Click on "I want Python 3.X" link.
+2. Click on **Python 3.X** link.
 3. Download this Python 3 installer.
 4. Install Python 3 using all of the defaults for installation.
 
 #### Linux
 
+If you already have python, take a look [here](../already_have_python). If not, then follow the instructions below:
+
 1. Open [http://continuum.io/downloads](http://continuum.io/downloads) with your web browser.
-2. Click on **"I want Python 3.X"** link.
+2. Click on the **Python 3.X** link.
 3. Download this Python 3 installer, save it in your home folder.
 4. Install Python 3 using all of the defaults for installation. (Installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
 5. Open a terminal window.
