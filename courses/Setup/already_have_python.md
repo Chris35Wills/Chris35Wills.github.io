@@ -21,4 +21,4 @@ packages installed:
 - numpy
 - matplotlib
 
-IPython can also be very handy - this comes bundled with the anaconda and canopy distributions - additional info to sort this out 
+[IPython](http://ipython.org/install.html) can also be very handy - this comes bundled with the anaconda and canopy distributions - additional info to sort this out can be found [here](http://ipython.org/install.html).

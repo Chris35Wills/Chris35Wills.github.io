@@ -12,9 +12,9 @@ Below you can find links to various course materials - please feel free to make 
 
 To get you started with minimal hassle, check out the setup guide below...
 
-[SETUP](Setup/setup)
+[Setup](Setup/setup)
 
-[SETUP CHECK](Setup_check/setup_check)
+[Setup check](Setup_check/setup_check)
 
 ## Python
 
