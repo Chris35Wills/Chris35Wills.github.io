@@ -4,7 +4,7 @@
 
 Execute this code at the command line by typing:
 
-  python swc-installation-test-1.py
+  python installation-test-1.py
 
 How to get a command line:
 
@@ -48,9 +48,18 @@ def check():
 
 if __name__ == '__main__':
     if check():
+        print('      ')
+        print('******')
         print('Passed')
+        print('******')
+        print('      ')
     else:
+        print('      ')
+        print('******')
         print('Failed')
-        print('Install a current version of Python 3!')
+        print('Outdated Python versions might work but some things are not back compatible')
+        print('Better to install a current version of Python 3!')
         print('http://continuum.io/downloads')
+        print('******')
+        print('      ')
         _sys.exit(1)
