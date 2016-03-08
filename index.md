@@ -4,7 +4,7 @@ title: Chris Williams
 permalink: /
 ---
 
-![Chris Williams](/images/my_face.jpg)
+<![Chris Williams](/images/my_face.jpg)>
 
 Position: Postdoctoral researcher in Glaciology
 
