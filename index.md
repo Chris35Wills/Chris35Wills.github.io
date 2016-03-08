@@ -4,6 +4,8 @@ title: Chris Williams
 permalink: /
 ---
 
+<[Chris Williams](/images/my_face.jpg)>
+
 Position: Postdoctoral researcher in Glaciology
 
 Research interests: Remote sensing, GIS, Glaciers, Geospatial analysis, Geostatistics, Open source, Python development, R
