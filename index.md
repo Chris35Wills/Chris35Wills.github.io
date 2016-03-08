@@ -12,7 +12,7 @@ Research interests: Remote sensing, GIS, Glaciers, Geospatial analysis, Geostati
 
 I'm a glaciologist working on (or rather underneath) the Greenland ice sheet. 
 
-I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [Python](https://www.python.org/). Check out the [posts](../blog) section for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
+I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [Python](https://www.python.org/). Check out my [blog](../blog) for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
 
 ## Past projects
 
