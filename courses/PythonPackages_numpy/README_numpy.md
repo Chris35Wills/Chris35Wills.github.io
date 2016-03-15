@@ -13,13 +13,13 @@
 
 ## Quick start
 
-The material below provides a very basic introduction, giving you an overview of some of things that are possible with [numpy](http://www.numpy.org/).
+The material below provides a very basic introduction, giving you an overview of some of things that are possible with [numpy](http://www.numpy.org/). Some of these concepts may appear a little abstract, but there usefulness will become clear once you start integrating numpy into your workflow.
 
 ***
 
 * [Accessing the numpy module](../numpy_import)
 * [The numpy array](../numpy_array)
-* [Indexing](../numpy_indexing)
+* [Indexing and slicing](../numpy_indexing)
 * [Array manipulation](../numpy_maniupulation)
 * [Reading in your data](../numpy_io)
 
