@@ -149,7 +149,7 @@ and you will see that `dog` has been removed, e.g.
 ['gerbil', 'horse', 'fish', 'antelope']
 ```
 
-### Looping over a list
+### Looping over a list
 
 You can iterate over all items in a list using a loop, for example, try typing into the same ipython session;
 
