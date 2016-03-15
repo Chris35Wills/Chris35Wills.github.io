@@ -32,7 +32,7 @@
 	print(rand_2d.min())
 	print(rand_2d.mean())
 
-
+# [Previous](../numpy_array_funcs)
 
 
 

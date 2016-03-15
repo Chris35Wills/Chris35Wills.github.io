@@ -50,3 +50,5 @@ arr_2d=arr.reshape(2,5)
 * Create a 10 x 10 *2-dimensional* numpy array of random numbers - what are the max, min and mean values of this array?
 
 ... solutions can be found [here](../numpy_array_funcs_answers)
+
+# [Previous](../numpy_array) [Next](../numpy_indexing)

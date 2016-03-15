@@ -84,3 +84,5 @@ You will notice that the values are between 0 and 1. Have a look at [the documen
 * Create a 10 x 10 *2-dimensional* numpy array of zeros of integer type
 
 ... solutions can be found [here](../numpy_array_answers)
+
+# [Previous](../README_numpy) [Next](../numpy_array_funcs)

@@ -25,5 +25,7 @@
 
 	zeros_2d=numpy.zeros((10,10), int)
 
+# [Previous](../numpy_array)
+
 
 

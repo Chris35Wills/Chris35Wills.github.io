@@ -110,3 +110,5 @@ To access the first 2 elements of each dimension (you can imagine this as the 2 
 ```python
 rand2[:,0:2]
 ```
+
+# [Previous](../numpy_array_funcs) [Next](../numpy_manipulation)
