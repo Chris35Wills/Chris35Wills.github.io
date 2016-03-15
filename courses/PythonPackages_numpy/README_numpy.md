@@ -19,6 +19,7 @@ The material below provides a very basic introduction, giving you an overview of
 
 * [Accessing the numpy module](../numpy_import)
 * [The numpy array](../numpy_array)
+* [Array functions](../numpy_array_funcs)
 * [Indexing and slicing](../numpy_indexing)
 * [Array manipulation](../numpy_maniupulation)
 * [Reading in your data](../numpy_io)

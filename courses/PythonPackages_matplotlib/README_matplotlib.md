@@ -1,7 +1,7 @@
 ---
 ---
 
-# A brief introduction to matplotlib
+# Matplotlib: scratching the surface
 
 ## What is it?
 
@@ -12,6 +12,8 @@
 Plotting with [Matplotlib](http://matplotlib.org/) is fast, relatively easy and results in figures which are of publication quality - have a look at the [gallery](http://matplotlib.org/gallery.html).
 
 ## Quick start
+
+The material below provides a very basic introduction, giving you an overview of some of things that are possible with [matplotlib](http://matplotlib.org/).
 
 ***
 

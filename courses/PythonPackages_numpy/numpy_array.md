@@ -3,7 +3,7 @@
 
 # The numpy array
 
-The main object of the numpy module is the multidimensional array - these are similar to the lists that were introduced in the [introductory course]() however, the contents of a numpy array must be all of the same type. Anty given numpy array can be be of a number of dimensions - dimensions in numpy speak are called *axes*.
+The main object of the numpy module is the multidimensional array - these are similar to the lists that were introduced in the [introductory course]() however, the contents of a numpy array must be all of the same type. Any given numpy array can be be of a number of dimensions - dimensions in numpy speak are called *axes*. Before you try using numpy, make sure you have imported it - ```import numpy```
 
 ## Array creation
 
@@ -15,8 +15,13 @@ a = numpy.array([1, 4, 5, 8], float)
 
 Notice how we use numpy's array function and also specify the object type (in this case *float*). By typing ```a``` straight into the command line, you will now be presented with:
 
-	In [6]: a
-	Out[6]: array([ 1.,  4.,  5.,  8.])
+	>> a
+	>> array([ 1.,  4.,  5.,  8.])
+
+You can also use the ```print()``` function:
+
+	>> print(a)
+	>> [1.,  4.,  5.,  8.]
 
 It isn't necessary to create arrays only by passing in lists - you can use the [numpy.arange()](http://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.arange.html) function:
 
@@ -71,39 +76,11 @@ rand_2d=numpy.random.random((4,4))
 
 You will notice that the values are between 0 and 1. Have a look at [the documentation](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.random.random.html) for creating random arrays between different limits.
 
-## Array functions
-
-Each time we created an array in the above examples, we have created a new numpy array *object* (if you are unfamiliar with objects, they are covered in the [intermediate course](../../Intermediate_python/objects)). The key thing to take away here is that by creating a new array object, you now have access to various methods associated with it... let's look at an example:
-
-For any given array, a useful metric to access would be its size - this is achieved using the ```shape``` method - so for or *1-dimensional* zeros array, just type:
-
-```python
-b.shape
-```
-
-and you should see the following printed out:
-
-	(6L,)
-
-For the *2-dimensional* array:
-
-```python
-a_2d.shape
-```
-
-and you should see the following printed out:
-
-	(2L, 5L)
-
-To see what other methods are available, just type the name of an existing array followed by a full stop - e.g. ```your_array.``` and hit tab and you will see a number of additional functions. Remember that to find out more information about how to use a specific function, just type ```help(your_array.function)``` or ```your_array.function?```. 
-
-Useful array specific functions include: max, min, mean, sum, dtype and copy amongst others. Have a look at the documentation - the more aware you are of what is available, the more that you'll be able to take advantage of python and its associated packages.
-
 # Exercises
 
-* Create a *1-dimensional* array of ones and print out its shape
-* Create a *2-dimensional* array of values from 1 to 11 
-* Create a *2-dimensional* array of random numbers and print out its shape
+* Create a *1-dimensional* array of ones 
+* Create a *2-dimensional* array of random numbers 
 * Create a 10 x 10 *2-dimensional* numpy array of ones of float type
-* Create a 10 x 10 *2-dimensional* numpy array of zeros
-* Create a 10 x 10 *2-dimensional* numpy array of random numbers - what are the max, min and mean values of this array?
+* Create a 10 x 10 *2-dimensional* numpy array of zeros of integer type
+
+... solutions can be found [here](../numpy_array_answers)
