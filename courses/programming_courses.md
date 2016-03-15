@@ -24,9 +24,9 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [Intermediate Python\*](Intermediate_python/README)
 
-[Packages - Matplotlib: an introduction](PythonPackages_matplotlib/README_matplotlib)
+[Packages - Matplotlib: scratching the surface](PythonPackages_matplotlib/README_matplotlib)
 
-[Packages - Numpy: an introduction](PythonPackages_numpy/README_numpy)
+[Packages - Numpy: scratching the surface](PythonPackages_numpy/README_numpy)
 
 *\* materials modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) for the original materials*
 
