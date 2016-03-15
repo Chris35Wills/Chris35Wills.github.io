@@ -7,7 +7,7 @@ The main object of the numpy module is the multidimensional array - these are si
 
 ## Array creation
 
-An array can be created using a standard python list e.g.
+An array can be created using a standard python list:
 
 ```python
 a = numpy.array([1, 4, 5, 8], float)
@@ -60,14 +60,20 @@ Print the variable ```a_2d``` out to the command line - are the dimensions as yo
 Numpy also offers a function to quickly create arrays of random numbers - the functions to do this are held within a subpackage of numpy called [random](http://docs.scipy.org/doc/numpy-1.10.0/reference/routines.random.html). To create a *1-dimensional* array of random values:
 
 ```python
-arr_rand=numpy.random.random(7)
+rand=numpy.random.random(7)
+```
+
+A *2-dimensional* array can be created as before:
+
+```python
+rand_2d=numpy.random.random((4,4))
 ```
 
 You will notice that the values are between 0 and 1. Have a look at [the documentation](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.random.random.html) for creating random arrays between different limits.
 
 ## Array functions
 
-Each time we created an array in the above examples, we have created a new *numpy array object* (if you are unfamiliar with objects, they are covered in the [intermediate course](../../Intermediate_python/objects)) - the key thing to take away here is that by creating a new array object, you now have access to various methods associated with it... let's look at an example:
+Each time we created an array in the above examples, we have created a new numpy array *object* (if you are unfamiliar with objects, they are covered in the [intermediate course](../../Intermediate_python/objects)). The key thing to take away here is that by creating a new array object, you now have access to various methods associated with it... let's look at an example:
 
 For any given array, a useful metric to access would be its size - this is achieved using the ```shape``` method - so for or *1-dimensional* zeros array, just type:
 
@@ -87,9 +93,9 @@ a_2d.shape
 
 and you should see the following printed out:
 
-	a_2d=numpy.ones((2,5))
+	(2L, 5L)
 
-To see what other methods are available, just type the name of an existing array followed by a full stop - e.g. ```a_2d.``` and hit tab and you will see a number of additional functions. Remember that to find out more information about how to use a specific function, just type ```help(a_2d.function)``` or ```a_2d.function?```. 
+To see what other methods are available, just type the name of an existing array followed by a full stop - e.g. ```your_array.``` and hit tab and you will see a number of additional functions. Remember that to find out more information about how to use a specific function, just type ```help(your_array.function)``` or ```your_array.function?```. 
 
 Useful array specific functions include: max, min, mean, sum, dtype and copy amongst others. Have a look at the documentation - the more aware you are of what is available, the more that you'll be able to take advantage of python and its associated packages.
 
