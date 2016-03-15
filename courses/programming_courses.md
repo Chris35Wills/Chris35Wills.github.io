@@ -12,9 +12,11 @@ Below you can find links to various course materials - please feel free to make 
 
 To get you started with minimal hassle, check out the setup guide below...
 
-[Setup](Setup/setup)
+[Setup\*](Setup/setup)
 
-[Setup check](Setup_check/setup_check)
+[Setup check\*](Setup_check/setup_check)
+
+**\* materials modified from those available at [software-carpenrty.org](http://software-carpentry.org/) and are freely available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/)**
 
 ## Python
 
@@ -25,6 +27,8 @@ To get you started with minimal hassle, check out the setup guide below...
 [Packages - Matplotlib: an introduction](PythonPackages_matplotlib/README_matplotlib)
 
 [Packages - Numpy: an introduction](PythonPackages_numpy/README_numpy)
+
+**\* materials modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) for the original materials**
 
 ## Github
 
