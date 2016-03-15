@@ -3,7 +3,7 @@
 
 # The numpy array
 
-The main object of the numpy module is the multidimensional array - these are similar to the lists that were introduced in the [introductory course](../../Beginners_python/README) however, the contents of a numpy array must be all of the same type. Any given numpy array can be be of a number of dimensions - dimensions in numpy speak are called *axes*. Before you try using numpy, make sure you have imported it - ```import numpy```
+The main object of the numpy module is the multidimensional array - these are similar to the lists that are introduced on the [intermediate python course](../../Intermediate_python/lists) however, the contents of a numpy array must be all of the same type. Any given numpy array can be be of a number of dimensions - dimensions in numpy speak are called *axes*. Before you try using numpy, make sure you have imported it - ```import numpy```
 
 ## Array creation
 
