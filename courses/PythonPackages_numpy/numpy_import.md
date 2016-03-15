@@ -9,4 +9,4 @@ In a python terminal, simply type the following:
 import numpy
 ```
 
-Assuming this works, you should receive no error messages. If the module is not available then have a loook [here](http://www.scipy.org/install.html).
+Assuming this works, you should receive no error messages. If the module is not available then you'll need to have a look [here](http://www.scipy.org/install.html).
