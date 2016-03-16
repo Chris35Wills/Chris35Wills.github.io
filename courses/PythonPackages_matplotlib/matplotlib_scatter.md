@@ -134,6 +134,10 @@ cbar.set_label("elevation (m)", labelpad=+1)
 plt.show()
 ```
 
+You should end up with something like this:
+
+!["Your finalised scatter plot"]({{ site.baseurl }}../final_scatter.png)
+
 When you close the window that opens, type ```plt.clf()``` to clear everything.
 
 # [Previous](../matplotlib_install) [Home](../README_matplotlib) [Next](../matplotlib_line)
