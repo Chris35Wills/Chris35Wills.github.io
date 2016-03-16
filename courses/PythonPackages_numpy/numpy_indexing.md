@@ -3,7 +3,7 @@
 
 # Indexing and slicing
 
-Indexing and slicing allow you to access specific elements of an array - it is important to understand how this works for arrays of varying dimensions. **Important to remember** is that python is zero-indexed i.e. the first position in a list, an array or any othe rdata structure has an index of zero.
+Indexing and slicing allow you to access specific elements of an array - it is important to understand how this works for arrays of varying dimensions. **Important to remember** is that python is zero-indexed i.e. the first position in a list, an array or any other data structure has an index of zero.
 
 ## 1-dimensional indexing
 
@@ -81,7 +81,7 @@ Let's start by making a *2-dimensional* random array:
 rand2=numpy.random.random((5,3))
 ```
 
-Indexing in multiple dimensions is the same as for 1-dimension, except that your slice statements are specified per dimension. Accessing the dimensions of an array can be visualuised as:
+Indexing in multiple dimensions is the same as for 1-dimension, except that your slice statements are specified per dimension. Accessing the dimensions of an array can be visualised as:
 
 		1-dimension:  array[1st_dimsnsion]
 		2-dimensions: array[1st_dimsnsion,2nd_dimension]

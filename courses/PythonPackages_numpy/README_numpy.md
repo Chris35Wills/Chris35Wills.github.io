@@ -5,7 +5,7 @@
 
 ## What is it?
 
-[Numpy](http://www.numpy.org/) is an open-source library for Python, offering routines for fast effiecient manipulation of arrays and matrices of numeric data. Many other libraries use numpy as their base owing to its efficiency when dealing with large amounts of numeric data.
+[Numpy](http://www.numpy.org/) is an open-source package for Python, offering routines for fast and efficient manipulation of arrays and matrices of numeric data. Many other libraries use numpy as their base owing to its efficiency when dealing with large amounts of numeric data.
 
 ## Why should I use it?
 
@@ -23,6 +23,7 @@ The material below provides a very basic introduction, giving you an overview of
 * [Indexing and slicing](../numpy_indexing)
 * [Reading in tabulated data](../numpy_io_text)
 * [Reading in an image](../numpy_io_scipy_image)
+* [What next?](../numpy_what_next)
 
 ***
 

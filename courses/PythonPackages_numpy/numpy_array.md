@@ -52,7 +52,7 @@ b = numpy.zeros(6)
 
 ## Multiple dimensions (or *axes*)
 
-So far we have just dealt with single dimensions, however numpy can hold multiple. Using the same functions as intriduced above, we can create a *2-dimensional* 2 x 5 array of ones using:
+So far we have just dealt with single dimensions, however numpy can hold multiple. Using the same functions as introduced above, we can create a *2-dimensional* 2 x 5 array of ones using:
 
 ```python
 a_2d=numpy.ones((2,5))
@@ -62,7 +62,7 @@ Print the variable ```a_2d``` out to the command line - are the dimensions as yo
 
 ## Creating arrays of random numbers
 
-Numpy also offers a function to quickly create arrays of random numbers - the functions to do this are held within a subpackage of numpy called [random](http://docs.scipy.org/doc/numpy-1.10.0/reference/routines.random.html). To create a *1-dimensional* array of random values:
+Numpy also offers a function to quickly create arrays of random numbers - the functions to do this are held within a sub-routine of numpy called [random](http://docs.scipy.org/doc/numpy-1.10.0/reference/routines.random.html). To create a *1-dimensional* array of random values:
 
 ```python
 rand=numpy.random.random(7)
