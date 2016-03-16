@@ -11,4 +11,4 @@ If you are going to be working a lot with tabulated datasets, it would be well w
 
 If images are going to be a core part of your work, then [scikit-image](http://scikit-image.org/) is worth looking at.
 
-# [Previous](../numpy_io_scipy_image) [Back to courses](../../programming_courses)
+# [Previous](../numpy_io_scipy_image) [Home](../../)
