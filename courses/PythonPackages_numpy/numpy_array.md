@@ -85,4 +85,4 @@ You will notice that the values are between 0 and 1. Have a look at [the documen
 
 ... solutions can be found [here](../numpy_array_answers)
 
-# [Previous](../numpy_import) [Next](../numpy_array_funcs)
+# [Previous](../numpy_import) [Home](../README_numpy) [Next](../numpy_array_funcs)

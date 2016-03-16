@@ -51,4 +51,4 @@ arr_2d=arr.reshape(2,5)
 
 ... solutions can be found [here](../numpy_array_funcs_answers)
 
-# [Previous](../numpy_array) [Next](../numpy_indexing)
+# [Previous](../numpy_array) [Home](../README_numpy) [Next](../numpy_indexing)

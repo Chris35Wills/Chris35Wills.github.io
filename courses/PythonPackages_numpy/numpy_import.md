@@ -25,4 +25,4 @@ Following your initial statement - ```import numpy``` - now type ```numpy.``` an
 
 This will print out a list of the functions available within the numpy module. If tehre is a function you want to know more about, simply type ```help(numpy.function)``` or ```numpy.function?``` and the documentation will appear within your current terminal, usually offering a number of examples as how to make use of the function in question.
 
-# [Previous](../README_numpy) [Next](../numpy_array)
+# [Previous](../README_numpy) [Home](../README_numpy) [Next](../numpy_array)
