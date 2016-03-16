@@ -18,19 +18,19 @@ It is important that you specify the delimiter (as the file is a .csv, we know t
 Note that ```numpy.loadtxt()``` doesn't work very well with keeping header info - hence us skipping that first line. For now, just remember:
 		
 
-		| Column  | Data                            |
-		| :-----: |:-------------------------------:|
-		|  1 	  | UTC_Seconds_Of_Day	            |
-		|  2 	  | Lat(deg)	                    |
-		|  3 	  | Long(deg)	                    |
-		|  4 	  | WGS84_Ellipsoid_Height(m)	    |
-		|  5 	  | S-to-N_Slp	                    |
-		|  6 	  | W-to-E_Slp	                    |
-		|  7 	  | RMS_Fit(cm)	                    |
-		|  8 	  | Num_ATM_obs_Used	            |
-		|  9 	  | Num_Of_ATM_obs_Removed          |	 
-		|  10 	  | Dist_Block_To_Right_aircraft(m)	|
-		|  11 	  | Track_ID					    |
+| Column  | Data                            |
+| :-----: |:-------------------------------:|
+|  1 	  | UTC_Seconds_Of_Day	            |
+|  2 	  | Lat(deg)	                    |
+|  3 	  | Long(deg)	                    |
+|  4 	  | WGS84_Ellipsoid_Height(m)	    |
+|  5 	  | S-to-N_Slp	                    |
+|  6 	  | W-to-E_Slp	                    |
+|  7 	  | RMS_Fit(cm)	                    |
+|  8 	  | Num_ATM_obs_Used	            |
+|  9 	  | Num_Of_ATM_obs_Removed          |	 
+|  10 	  | Dist_Block_To_Right_aircraft(m)	|
+|  11 	  | Track_ID					    |
 
 
 We will touch on accessing using column names later on (although this kind of approach is better handled using a package like [pandas](http://pandas.pydata.org/)).
@@ -115,31 +115,6 @@ time[time > mean] = 0
 
 Notice that this last command changes the values within the actual ```time``` array.
 
-[Where there are more dimensions, more complicated indexing has to be employed to make changes to specific columns of data. The ```xyz``` array made above contains the data detailing latitude, longitude and elevation of a series of points. Let's say that we know that the elevation values (the 3rd column in xyz, accessed using ```xyz[:,2]```) are overestimated by 10 metres and that we want to correct them. This correction can be carried out using:]:#
-
-[```python]:#
-[xyz[:,2] = xyz[:,2]-10]:#
-[```]:#
-
-[Another way to do this (more code but maybe you find it easier to read) would have been to first slice the data to 2 arrays:]:#
-
-[```python]:#
-[xy=data[:,1:3]]:#
-[z=data[:,3]]:#
-[```]:#
-
-[then correct the z values:]:#
-
-[```python]:#
-[z=z[:]-10]:#
-[```]:#
-
-[Now stick everything together:]:#
-
-[```python]:#
-[numpy.column_stack((xy,z))]:#
-[```]:#
-
 ## Write out data to a new file
 
 To write out an array to a new file, you can use ```numpy.savetxt()```. Let's save the xyz subset to a file called ```xyz_subsample.csv```:
@@ -147,6 +122,8 @@ To write out an array to a new file, you can use ```numpy.savetxt()```. Let's sa
 ```python
 numpy.savetxt("/path/to/save/to/xyz_subsample.csv", xyz, delimiter=",")
 ```
+
+***
 
 # Other things to know and consider
 
@@ -161,7 +138,8 @@ If you know the column names, it is possible to integrate these by creating a [s
 For example, let's create an array:
 
 ```python
-new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'),(3,9,7,'info'),(8,4,6,'to'),(8,3,3,'use')])
+new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'), \
+	(3,9,7,'info'),(8,4,6,'to'),(8,3,3,'use')])
 ```
 
 This will result in everything being made a string data format:
