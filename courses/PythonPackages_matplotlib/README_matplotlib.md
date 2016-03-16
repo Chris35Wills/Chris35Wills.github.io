@@ -17,13 +17,13 @@ The material below provides a very basic introduction, giving you an overview of
 
 ***
 
-* [Installation](matplotlib_library_install)
-* [What's what?](matplotlib_whats_what)
-* [Your first matplotlib scatter plot](quick_scatter)
-* [Line plots](quick_line)
-* [Plotting matrixes](plotting_matrix)
-* [3D plotting](plotting_3d)
-* [Multiple plots](multi_plotting)
+* [Installation](../matplotlib_install)
+* [What's what?](../matplotlib_what)
+* [Your first matplotlib scatter plot](../quick_scatter)
+* [Line plots](../quick_line)
+* [Plotting matrixes and images](../plotting_matrix)
+* [3D plotting](../plotting_3d)
+* [Multiple plots](../multi_plotting)
 * [Arguments](arguments_intro)
 
 ***
