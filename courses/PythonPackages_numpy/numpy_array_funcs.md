@@ -36,7 +36,7 @@ arr=np.arange(0,10)     # create a simple array of numbers in 1D
 arr.reshape(2,5)         
 ```
 
-After firstly creating a simple *1-dimensional* array, using the array function ```reshape``` and by specifying your desired dimensions (make sure they work by considering the length of the array you are manipulating), you will have seen your array restructured. However, depsite this, the shape of variable ```arr``` will still be as it was before the reshape function call. To keep the array in the new shape, you must assign it to a variable:
+After firstly creating a simple *1-dimensional* array, using the array function ```reshape``` and by specifying your desired dimensions (make sure they work by considering the length of the array you are manipulating), you will have seen your array restructured. However, despite this, the shape of variable ```arr``` will still be as it was before the reshape function call. To keep the array in the new shape, you must assign it to a variable:
 
 ````python
 arr_2d=arr.reshape(2,5) 
