@@ -20,7 +20,7 @@ from scipy import misc
 You now have access to the routines available within scipy's [misc module](http://docs.scipy.org/doc/scipy-0.16.0/reference/misc.html). To read in the image, type the following:
 
 ```python
-dog=misc.imread('/path/to/file/puppy')
+dog=misc.imread('/path/to/file/puppy.jpg')
 type(dog)
 ```
 
@@ -44,7 +44,7 @@ which will result in:
 
 !["RGB puppy"]({{ site.baseurl }}../dog_matplotlib.png)
 
-By using ```shape``` you will see that the array has 3 dimensions - as the file we are using is an RGB image, in this case, each dimension applies to the red, green and blue colour bands of the original image:
+By using ```shape``` you will see that the array has 3 dimensions - as the file we are using is an RGB image, in this case, each dimension applies to its red, green and blue colour bands:
 
 	>>> dog.shape
 	>>> (400L, 600L, 3L)
@@ -69,12 +69,12 @@ blue=dog[:,:,2]
 
 Now that we have accessed slices of the image, let's manipulate them and create something new. Lets [turn our RGB image into a greyscale image](https://en.wikipedia.org/wiki/Grayscale#Converting_color_to_grayscale). This can be achieved using the equation:
 
-$$grey = (0.2126 * red) + (0.7152 * green) + (0.0722 * blue)$$
+**grey = (0.2126 * red) + (0.7152 * green) + (0.0722 * blue)**
 
 To make a greyscale array, we'll aply the above equation and use the sliced parts of the original image as held by the arrays we called ```red```, ```green``` and ```blue```. We'll call our new array ```grey```:
 
 ```python
-grey = (0.2126*red) + (0.7152*green) + (0.0722*blue)
+grey = (0.2126 * red) + (0.7152 * green) + (0.0722 * blue)
 ```
 
 No looping or anything required - this efficiency is what makes numpy fast. If we had used a vanilla python approach, we would have to have looped through each cell of the array which would have taken *much* longer.

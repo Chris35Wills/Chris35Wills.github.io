@@ -3,7 +3,9 @@
 
 # What next?
 
-That was a very brief introduction to [numpy](http://www.numpy.org/) - have a look online at the vast amounts of documentation.
+That was a very brief introduction to [numpy](http://www.numpy.org/), whilst also touching on some of the tools available in the [scipy]() and [matplotlib]() packages. There is a huge amount iof help online as well as some useful literature ([for example...](http://shop.oreilly.com/product/0636920023784.do)).
+
+On this site, for a quick look at plotting with matplotlib, check out [Matplotlib: Scratching the surface](../../README_matplotlib).
 
 If you are going to be working a lot with tabulated datasets, it would be well worth your while looking at the [pandas module](http://pandas.pydata.org/) - a quick starter can be found [here](http://pandas.pydata.org/pandas-docs/stable/10min.html).
 
