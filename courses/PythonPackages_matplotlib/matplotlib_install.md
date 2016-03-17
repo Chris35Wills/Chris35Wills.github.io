@@ -27,4 +27,4 @@ Following your initial statement - ```import matplotlib``` - now type ```matplot
 
 This will print out a list of the functions available within the matplotlib library. If there is a function you want to know more about, simply type ```help(matplotlib.function)``` or ```matplotlib.function?``` and the documentation will appear within your current terminal, usually offering a number of examples as how to make use of the function in question.
 
-# [Previous](../README_matplotlib) [Home](../README_matplotlib) [Next](../numpy_array)
+# [Previous](../README_matplotlib) [Home](../README_matplotlib) [Next](../matplotlib_plot)
