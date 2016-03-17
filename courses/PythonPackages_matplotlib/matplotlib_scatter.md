@@ -23,6 +23,8 @@ Now lets create some random point data to mimic some xy coordinates and some ass
 xyz=np.array(np.random.random((100,3)))
 ```
 
+## A basic scatter plot
+
 To create out plot, we need to access the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```). This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
 
 ```python
