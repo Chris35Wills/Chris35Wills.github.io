@@ -206,4 +206,4 @@ Your plot should look something like this:
 
 !["3D DEM"]({{ site.baseurl }}../dem_3d.png)
 
-# [Previous](../matplotlib_matrix) [Home](../README_matplotlib) [Next](../matplotlib_multiple_figs)
+# [Previous](../matplotlib_matrix) [Home](../README_matplotlib) [Next](../matplotlib_what_next)
