@@ -34,7 +34,7 @@ plt.plot(x,y)
 plt.show()
 ```
 
-You can change your line style by massking in a third argument - to create a dashed line type:
+You can change your line style by passing in a third argument - to create a dashed line type:
 
 ```
 plt.plot(x,y, '--')
@@ -89,7 +89,7 @@ plt.ylim(-1, 28)
 plt.show()
 ```
 
-We *hardwired*  the axis limit values above - this works but if you will be repeatedly changing the data being used for a plot, this can end up holding you back (and hardwiring is something to avoid where possible when programming as it can end up biting you back when a variable get's hidden away as you write longer scripts). We can instead dynamically set the limits based on what we know about our x and y data and we could insetad just fix an offset value - let's say we want the axis to extend to 1 value greater than the maximum and minimum values in or x and y arrays i.e.:
+We *hardwired*  the axis limit values above - this works but if you will be repeatedly changing the data being used for a plot, this can end up holding you back (and hard wiring is something to avoid where possible when programming as it can end up biting you back when a variable gets hidden away as you write longer scripts). We can instead dynamically set the limits based on what we know about our x and y data and we could instead just fix an offset value - let's say we want the axis to extend to 1 value greater than the maximum and minimum values in or x and y arrays i.e.:
 
 ```python
 offset=1
@@ -99,6 +99,6 @@ plt.ylim(y.min()offset, y.max()+offset)
 plt.show()
 ```
 
-Should you now change the values in the x and y arrays, you don;t have to manually retype your extent values. We'll come back to this later on when we discuss [plotting wrappers](../matplotlib_wrapping).
+Should you now change the values in the x and y arrays, you don't have to manually retype your extent values. 
 
 # [Previous](../matplotlib_install) [Home](../README_matplotlib) [Next](../matplotlib_scatter)

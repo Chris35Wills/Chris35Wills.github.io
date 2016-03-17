@@ -23,7 +23,7 @@ xyz=np.array(np.random.random((100,3)))
 
 ## The basic scatter 
 
-To create our plot, we are going to use the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```) -  an alternative to ```plt.plot()``` which gives you more control on setting colours based on anotehr variable. This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
+To create our plot, we are going to use the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```) -  an alternative to ```plt.plot()``` which gives you more control on setting colours based on another variable. This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
 
 ```python
 plt.scatter(xyz[:,0], xyz[:,1])
@@ -78,7 +78,7 @@ Something else that can be handy is to colour the points by another variable - i
 plt.scatter(xyz[:,0], xyz[:,1], c=xyz[:,2])
 ```
 
-By adding these new colours, we now have information on the plot that alone is not particularly informative - we need a colourbar and fortunately, there is a method for creating this - ```plt.colorbar()```:
+By adding these new colours, we now have information on the plot that alone is not particularly informative - we need a colorbar and fortunately, there is a method for creating this - ```plt.colorbar()```:
 
 ```python
 plt.scatter(xyz[:,0], xyz[:,1], c=xyz[:,2])
