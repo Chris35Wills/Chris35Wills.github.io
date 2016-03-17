@@ -23,7 +23,7 @@ Now lets create some random point data to mimic some xy coordinates and some ass
 xyz=np.array(np.random.random((100,3)))
 ```
 
-## A basic scatter plot
+## The basic scatter 
 
 To create out plot, we need to access the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```). This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
 
@@ -125,7 +125,7 @@ You should end up with something like this:
 
 !["Your finalised scatter plot"]({{ site.baseurl }}../final_scatter.png)
 
-Note - if you have created multiple scatter plots (i.e. have enterered ```plt.scatter()``` a few times with no call to ```plt.show()```), then these will all be plotted visually on your call to ```plt.show()```. If you are concerned that this is going to happen (and you only want to display your most recent ````plt.scatter()``` call), then type ```plt.clf()``` which clears everything, and then retype the code to create your figure.
+Note - if you have created multiple scatter plots (i.e. have enterered ```plt.scatter()``` a few times with no call to ```plt.show()```), then these will all be plotted visually on your call to ```plt.show()```. If you are concerned that this is going to happen (and you only want to display your most recent ```plt.scatter()``` call), then type ```plt.clf()``` which clears everything, and then retype the code to create your figure.
 
 Again, to be safe and ensure everything is clean, type ```plt.clf()``` again.
 
