@@ -3,7 +3,7 @@
 
 # What next...
 
-Through this brief introductory course, we have been plotting single plots. Multiple plots within the same figure are possible - have a look [here](http://matplotlib.org/users/pyplot_tutorial.html) for a detailed work through as how to get started on this - there is also some more information on how the mechanics of matplotlib actually work.
+Through this brief introductory course, we have been plotting single plots. Multiple plots within the same figure are possible - have a look [here](http://matplotlib.org/users/pyplot_tutorial.html#working-with-multiple-figures-and-axes) for a detailed work through as how to get started on this - there is also some more information on how the mechanics of matplotlib actually work.
 
 If you plan to be creating and plotting geospatial data, then have a look at matplotlib's [basemap](http://matplotlib.org/basemap/)).
 

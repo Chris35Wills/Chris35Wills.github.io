@@ -109,7 +109,9 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 ```
 
-If you have a look at the [documentation](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html#mplot3d-tutorial) for mpl_toolkits.mplot3d.plot_surface (you can access this help using you alias and a call to the function by ```Axes3D.plot_surface?```), you will see that it takes in x, y and z values that must *all* be 2D arrays - the problem at the moment is that your surface array (```dem```) only provides the z data - you don't have the x or y components. To create this, we can use a function from numpy called [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html). For a given array of  values, the  [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html) function creates 2 equally sized grids that represent the x and y location at each element of the array, that is to say that for an element in our ```dem``` array, the x and y mesh grids will provide information of its location in x and y space... let's try an example...
+If you have a look at the [documentation](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html#mplot3d-tutorial) for mpl_toolkits.mplot3d.plot_surface (you can access this help using you alias and a call to the function by ```Axes3D.plot_surface?```), you will see that it takes in x, y and z values that must *all* be 2D arrays - the problem at the moment is that your surface array (```dem```) only provides the z data - you don't have the x or y components. 
+
+To create this, we can use a function from numpy called [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html). For a given array of  values, the  [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html) function creates 2 equally sized grids that represent the x and y location at each element of the array, that is to say that for an element in our ```dem``` array, the x and y mesh grids will provide information of its location in x and y space... let's try an example...
 
 First, check on the shape of your ```dem``` array:
 
@@ -118,7 +120,9 @@ First, check on the shape of your ```dem``` array:
 
 Now import ```numpy``` (we'll give it a nickname of ```np```):
 
-	>>> import numpy as np
+```python
+import numpy as np
+```
 
 Now we need to create the dimensions of what will be our mesh grids of x and y. First assign the dimensions of the ```dem``` array to variables of ```nx``` and ```ny```:
 
