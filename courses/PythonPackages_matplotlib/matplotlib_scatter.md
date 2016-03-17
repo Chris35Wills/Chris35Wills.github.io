@@ -1,17 +1,15 @@
 ---
 ---
 
-# Your first scatter plot
+# Scatter plots using matplotlib.pyplot.scatter()
 
-Matplotlib contains another module called ```pyplot``` which enavbles MATLAB style plotting and customisation. We will be using this throughout this mini-course. Now, in a new terminal type the following:
+First, let's install pyplot from matplotlib and call it ```plt```:
 
 ```python
 import matplotlib.pyplot as plt
 ```
 
-If you have never imported a module before, take a look [here](../matplotlib_install). Something slightly different about the above command is the addition of *as plt* - all this does is enables you to access everything in ```matplotlib.pyplot``` by just typing ```plt``` i.e. instead of typing ```matplotlib.pyplot.function``` each time, all we have to now type is ```plt.function``` which is both quicker and tidier (which makes for easier reading).
-
-We are also going to need some data so now type:
+We are also going to need some data which we'll create using [numpy](http://www.numpy.org/) - type the following:
 
 ```python
 import numpy as np
@@ -25,7 +23,7 @@ xyz=np.array(np.random.random((100,3)))
 
 ## The basic scatter 
 
-To create out plot, we need to access the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```). This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
+To create our plot, we are going to use the ```plt.scatter()``` function (remember to check out the function help by using ```plt.scatter?```) -  an alternative to ```plt.plot()``` which gives you more control on setting colours based on anotehr variable. This function takes in 2 variables to plot - we'll use the first 2 columns of our ```xyz``` array:
 
 ```python
 plt.scatter(xyz[:,0], xyz[:,1])
@@ -129,5 +127,5 @@ Note - if you have created multiple scatter plots (i.e. have enterered ```plt.sc
 
 Again, to be safe and ensure everything is clean, type ```plt.clf()``` again.
 
-# [Previous](../matplotlib_install) [Home](../README_matplotlib) [Next](../matplotlib_line)
+# [Previous](../matplotlib_plot) [Home](../README_matplotlib) [Next](../matplotlib_matrix)
 

@@ -34,7 +34,8 @@ The material below provides a very basic introduction, giving you an overview of
 ***
 
 * [Installation](../matplotlib_install)
-* [Your first scatter plot](../matplotlib_scatter)
+* [Your first plot](../matplotlib_plot)
+* [Scatter plots](../matplotlib_scatter)
 * [Line plots](../matplotlib_line)
 * [Plotting matrixes and images](../matplotlib_matrix)
 * [3D plotting](../matplotlib_3d)
