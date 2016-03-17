@@ -43,13 +43,15 @@ and you should see something like this:
 
 !["Your first matplotlib scatter plot"]({{ site.baseurl }}../first_scatter.png)
 
+## Improving appearance
+
 This is all well and good but we are missing some important components - for example axis labels and a title. These are easily added - first you must re-create the scatter plot:
 
 ```python
 plt.scatter(xyz[:,0], xyz[:,1])
 ```
 
-and now we can add some labels:
+Using the created ```plt``` instance, you can add labels like this:
 
 ```python
 plt.title("Point observations")
@@ -57,59 +59,42 @@ plt.xlabel("Easting")
 plt.ylabel("Northing")
 ```
 
-If you run ```plt.show()``` again, things will be starting to look better. If you've had a look at the documentation for ```plt.scatter()``` you will also see that the function can take in a scalar to adjust the marker size (starts at a default value of 20) - let's make these a bit smaller:
+If you've had a look at the documentation for ```plt.scatter()``` you will also see that the function can take in a scalar to adjust the marker size (starts at a default value of 20). To make these smaller, you must pass in a value to the ```plt.scatter()``` function:
 
 ```python
 marker_size=15
 plt.scatter(xyz[:,0], xyz[:,1], marker_size)
-plt.title("Point observations")
-plt.xlabel("Easting")
-plt.ylabel("Northing")
-plt.show()
 ```
 
 What we can also do is change the colour of the points - want them in red? Then when invoking ```plt.scatter()```, you'll need to set the ```c``` flag (more info on colours can be found [here](http://matplotlib.org/api/colors_api.html)):
 
 ```python
-marker_size=15
-plt.scatter(xyz[:,0], xyz[:,1], marker_size, c='r')
-plt.title("Point observations")
-plt.xlabel("Easting")
-plt.ylabel("Northing")
-plt.show()
+plt.scatter(xyz[:,0], xyz[:,1], c='r')
 ```
 
 Something else that can be handy is to colour the points by another variable - in the case of our ```xyz``` test data, currently we are only using the first 2 columns - lets use the third colmn to colour the plot:
 
 ```python
-marker_size=15
-plt.scatter(xyz[:,0], xyz[:,1], marker_size, c=xyz[:,2])
-plt.title("Point observations")
-plt.xlabel("Easting")
-plt.ylabel("Northing")
-plt.show()
+plt.scatter(xyz[:,0], xyz[:,1], c=xyz[:,2])
 ```
 
 By adding these new colours, we now have information on the plot that alone is not particularly informative - we need a colourbar and fortunately, there is a method for creating this - ```plt.colorbar()```:
 
 ```python
-marker_size=15
-plt.scatter(xyz[:,0], xyz[:,1], marker_size, c=xyz[:,2])
-plt.title("Point observations")
-plt.xlabel("Easting")
-plt.ylabel("Northing")
+plt.scatter(xyz[:,0], xyz[:,1], c=xyz[:,2])
 plt.colorbar()
-plt.show()
+
 ```
 
-Last but not least, lets add a title to the colorbar to indicate what it represents - there isn't a direct function for doing this like ```plt.colorbar_title()``` - instead, after creating your initial plot as above, assign the creation of your colorbar to a variable like this:
+Last but not least, lets add a title to the colorbar to indicate what it represents - to do this, after creating your initial plot, assign the creation of your colorbar to a variable like this:
 
 ```python
 cbar = plt.colorbar()
 ```
-This creates a colorbar object, the methods of which you can now access - have a look by typing ```cbar.``` followed by the tab key.
 
-To set the title, we need to type:
+You can now access methods of ```colorbar``` - have a look at what's available by typing ```cbar.``` followed by the tab key.
+
+To set the title of the colorbar, we need to type:
 
 ```python
 cbar.set_label("elevation (m)")
@@ -138,7 +123,9 @@ You should end up with something like this:
 
 !["Your finalised scatter plot"]({{ site.baseurl }}../final_scatter.png)
 
-When you close the window that opens, type ```plt.clf()``` to clear everything.
+Note - if you have created multiple scatter plots (i.e. have enterered ```plt.scatter()``` a few times with no call to ```plt.show()```), then these will all be plotted visually on your call to ```plt.show()```. If you are concerned that this is going to happen (and you only want to display your most recent ````plt.scatter()``` call), then type ```plt.clf()``` which clears everything, and then retype the code to create your figure.
+
+Again, to be safe and ensure everything is clean, type ```plt.clf()``` again.
 
 # [Previous](../matplotlib_install) [Home](../README_matplotlib) [Next](../matplotlib_line)
 
