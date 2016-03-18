@@ -4,15 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-## In press
-
-- Williams, C., Carrivick, J.L., Evans, A.J. and Rippin, D.M. (in press). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, sub-arctic Sweden. Geografiska Annaler: Series A, Physical Geography. xx, x–x. DOI:10.1111/geoa.12100
-
-## In review
-
-- Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (in review, 2016) An ice-sheet wide framework for englacial attenuation and basal reflection from ice penetrating radar data. The Cryosphere Discuss., DOI:10.5194/tc-2016-8
-
 ## Published
+
+- Williams, C., Carrivick, J.L., Evans, A.J. and Rippin, D.M. (2016). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, sub-arctic Sweden. Geografiska Annaler: Series A, Physical Geography. 98(1), 61–79. DOI:10.1111/geoa.12123
 
 - Carrivick, J.L., Berry, K., Geilhausen, M., James, M.H.M., Williams, C., Brown, L.E., Rippin, D.M. and Carver, S.J., (2015). Decadal-scale changes of the Odenwinkelkees, central Austria, suggest increasing control of topography and evolution towards steady state. Geografiska Annaler: Series A, Physical Geography. xx, 1–20. DOI:10.1111/geoa.12100
 
@@ -26,13 +20,15 @@ permalink: /publications/
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
+## In review
+
+- Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (in review, 2016) An ice-sheet wide framework for englacial attenuation and basal reflection from ice penetrating radar data. The Cryosphere Discuss., DOI:10.5194/tc-2016-8
+
 ## In preparation
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
 
 - Williams, C.N., Bamber, J.L., Jordan, T.M., Cochran, J., Tinto, K., Dowdeswell, J., Siegert, M., Morlighem, M., Cornford, S., Palmer, S. and Paden, J., 20xx. A hydrologically inspired approach to predicting fjord bedrock geometry at the ice-ocean interface of the Greenland Ice Sheet.
-
-- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Crevasse evolution at Helheim glacier at high resolution: Implications for the calving process (target journal: Journal of Glaciology).
 
 ## Spoken and poster presentations
 
