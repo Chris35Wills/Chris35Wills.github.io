@@ -19,7 +19,7 @@ Note that ```numpy.loadtxt()``` doesn't work very well with keeping header info 
 		
 
 | Column  | Data                            |
-| :-----: |:-------------------------------:|
+| :-----: | ------------------------------- |
 |  1 	  | UTC_Seconds_Of_Day	            |
 |  2 	  | Lat(deg)	                    |
 |  3 	  | Long(deg)	                    |
@@ -150,7 +150,8 @@ This will result in everything being made a string data format:
 What we need to do is to assign the format of each column type - at the same time, we can give that column a label attribute:
 
 ```python
-new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'),(3,9,7,'info'),(8,4,6,'to'),(8,3,3,'use')],dtype=[('x','f'),('y','f'),('z','f'),('text','S11') ])
+new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'),(3,9,7,'info'), \
+	(8,4,6,'to'),(8,3,3,'use')],dtype=[('x','f'),('y','f'),('z','f'),('text','S11') ])
 ```
 
 Note that the dtype ```S11``` represents an 11 character string (see here for more [data type information](http://docs.scipy.org/doc/numpy/reference/arrays.dtypes.html)).
