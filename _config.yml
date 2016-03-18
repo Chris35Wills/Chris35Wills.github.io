@@ -125,3 +125,9 @@ defaults:
       type: "page"
     values:
       layout: "page" 
+  -
+    scope:
+      path: "courses"
+      type: "page"
+    values:
+      layout: "page" 
