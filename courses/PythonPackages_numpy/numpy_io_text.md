@@ -18,19 +18,19 @@ It is important that you specify the delimiter (as the file is a .csv, we know t
 Note that ```numpy.loadtxt()``` doesn't work very well with keeping header info - hence us skipping that first line. For now, just remember:
 		
 
-| Column  | Data                            |
-| :-----: | ------------------------------- |
-|  1 	  | UTC_Seconds_Of_Day	            |
-|  2 	  | Lat(deg)	                    |
-|  3 	  | Long(deg)	                    |
-|  4 	  | WGS84_Ellipsoid_Height(m)	    |
-|  5 	  | S-to-N_Slp	                    |
-|  6 	  | W-to-E_Slp	                    |
-|  7 	  | RMS_Fit(cm)	                    |
-|  8 	  | Num_ATM_obs_Used	            |
-|  9 	  | Num_Of_ATM_obs_Removed          |	 
-|  10 	  | Dist_Block_To_Right_aircraft(m)	|
-|  11 	  | Track_ID					    |
+| Column  | Data                             |
+| :-----: | -------------------------------- |
+|  1 	  |  UTC_Seconds_Of_Day	             |
+|  2 	  |  Lat(deg)	                     |
+|  3 	  |  Long(deg)	                     |
+|  4 	  |  WGS84_Ellipsoid_Height(m)	     |
+|  5 	  |  S-to-N_Slp	                     |
+|  6 	  |  W-to-E_Slp	                     |
+|  7 	  |  RMS_Fit(cm)	                 |
+|  8 	  |  Num_ATM_obs_Used	             |
+|  9 	  |  Num_Of_ATM_obs_Removed          |	 
+|  10 	  |  Dist_Block_To_Right_aircraft(m) |
+|  11 	  |  Track_ID					     |
 
 
 We will touch on accessing using column names later on (although this kind of approach is better handled using a package like [pandas](http://pandas.pydata.org/)).
