@@ -9,6 +9,8 @@ Over the next 3 days, we will be working our way from introducing you to the Pyt
 
 As mentioned above, the materials can be self led but to give you a loose structure, try and work to the following. 
 
+**IMPORTANT**: Don't rush thorugh this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
+
 ### Day 1 (9am - 5pm)
 
 Ensure you have your machine set up by following the instructions [here](../Setup/setup)
@@ -16,8 +18,6 @@ Ensure you have your machine set up by following the instructions [here](../Setu
 Work your way through [Beginners Python](../Beginners_python/README)
 
 If you finish all of the beginners course, move on to [Intermediate Python](../Intermediate_python/README)
-
-IMPORTANT: Don't rush thorugh this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
 
 ### Day 2 (9.30am - 5pm)
 
