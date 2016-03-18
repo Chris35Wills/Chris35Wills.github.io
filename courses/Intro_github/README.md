@@ -55,8 +55,8 @@ so please copy out and play with the examples provided, and also have a go at th
 * [Cloning a Repository](../cloning)
 * [Merging](../merging)
 * [Pull Requests](../pull)
-* [Continuous Integration](../ci)
 * [What Next?](../whatnext)
+* [ADVANCED: Continuous Integration](../ci)
 
 ***
 
