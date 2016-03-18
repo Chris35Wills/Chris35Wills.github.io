@@ -151,7 +151,8 @@ What we need to do is to assign the format of each column type - at the same tim
 
 ```python
 new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'),(3,9,7,'info'), \
-	(8,4,6,'to'),(8,3,3,'use')],dtype=[('x','f'),('y','f'),('z','f'),('text','S11') ])
+	                 (8,4,6,'to'),(8,3,3,'use')],dtype=[('x','f'),('y','f'),('z','f'), \
+	                 ('text','S11') ])
 ```
 
 Note that the dtype ```S11``` represents an 11 character string (see here for more [data type information](http://docs.scipy.org/doc/numpy/reference/arrays.dtypes.html)).
