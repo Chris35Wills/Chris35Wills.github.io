@@ -3,7 +3,7 @@
 
 # Importing Numpy
 
-If you are using a distribution of Python (e.g. [Anaconda](https://www.continuum.io/downloads) or [Canopy](https://www.enthought.com/products/canopy/)]), then numpy comes readily available.
+If you are using a distribution of Python (e.g. [Anaconda](https://www.continuum.io/downloads) or [Canopy](https://www.enthought.com/products/canopy/)), then numpy comes readily available.
 
 In a python terminal, simply type the following:
 
