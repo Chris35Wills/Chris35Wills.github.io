@@ -15,7 +15,7 @@ users permission to push to your cloud repository by editing
 the "Settings" of your repository. Click on the "Settings"
 link (normally on the right), and then navigate to "Collaborators".
 GitHub provides a search box to find people, based either
-on their email address of GitHub username. Find the person you
+on their email address or GitHub username. Find the person you
 want to add, and then click "Add collaborator".
 
 ## Conflict

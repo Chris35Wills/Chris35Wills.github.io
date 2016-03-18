@@ -163,7 +163,7 @@ in your rendered `README.MD`, e.g.
 ## Skipping CI for some commits
 
 Every time anyone now commits, the changes will be tested using Travis.
-Sometimes you many only want to commit a small change, and don't want the
+Sometimes you may only want to commit a small change, and don't want the
 test to run. If this is the case, ensure that the line `[ci skip]` is included
 in your commit message.
 

@@ -23,9 +23,6 @@ files written in Markdown.
 A good cheat-sheet that describes the possibilities of Markdown is 
 [given here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-These website tools are not just limited to software development of course and offer a perfect opportunity to be able to open up your 
-research to the public - take a look [here for more information](../github_markdown_webpages.md) as to how you can get started with putting together a github/markdown driven website.
-
 ***
 
 ## Exercise
