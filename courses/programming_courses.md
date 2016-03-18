@@ -8,6 +8,8 @@ Below you can find links to various course materials - please feel free to make 
 
 *NB/ Where indicated with a \* materials have been modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) specifically for the original materials*
 
+## On-site courses 
+
 [**Bristol DTP Programming course 21st-23rd March 2016**](../dtp_course_info_march2016)
 
 ## Setting up your machine
