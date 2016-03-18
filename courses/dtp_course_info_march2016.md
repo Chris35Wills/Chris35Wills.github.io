@@ -9,7 +9,7 @@ Over the next 3 days, we will be working our way from introducing you to the Pyt
 
 As mentioned above, the materials can be self led but to give you a loose structure, try and work to the following. 
 
-**IMPORTANT**: Don't rush thorugh this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
+***IMPORTANT***: Don't rush thorugh this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
 
 ### Day 1 (9am - 5pm)
 
