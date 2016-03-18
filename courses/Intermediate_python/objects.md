@@ -146,7 +146,7 @@ class GuessGame
  |      See if the passed value is equal to the secret
 ```
 
-"GuessGame", defined in this module is a example of a class. Classes are used to package up functions with associated data. As you can see in the `help()`, we can only see the functions defined in the class. There are two functions, `__init__`, which is used to construct a new object of type `GuessGame`, and `guess` which is used to guess the secret. As you can see, the first argument to each of these functions is `self`. `self` is a specialy variable that is used by the class to gain access to the data hidden within.
+"GuessGame", defined in this module is a example of a class. Classes are used to package up functions with associated data. As you can see in the `help()`, we can only see the functions defined in the class. There are two functions, `__init__`, which is used to construct a new object of type `GuessGame`, and `guess` which is used to guess the secret. As you can see, the first argument to each of these functions is `self`. `self` is a special variable that is used by the class to gain access to the data hidden within.
 
 Lets look again at the source for GuessGame.
 
@@ -220,7 +220,7 @@ printed to the screen.
 
 ## Exercise
 
-Edit your [morse.py][2c_morse.md) script and change it so that instead of function, you create a class called `MorseTranslator`.  Package together the functions `encodeToMorse` and `decodeFromMorse` with the variables `letter_to_morse` and `morse_to_letter`. Rename the function `encodeToMorse` to `encode` and rename the function `decodeFromMorse` to `decode`.
+Edit your [morse.py](2c_morse.md) script and change it so that instead of function, you create a class called `MorseTranslator`.  Package together the functions `encodeToMorse` and `decodeFromMorse` with the variables `letter_to_morse` and `morse_to_letter`. Rename the function `encodeToMorse` to `encode` and rename the function `decodeFromMorse` to `decode`.
 
 Make sure that you document your class, e.g. by documenting the `__init__` function you will have to write, and also by documenting the class, as in the above GuessGame class..
 

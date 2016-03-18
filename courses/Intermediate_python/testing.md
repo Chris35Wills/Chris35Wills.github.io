@@ -266,7 +266,7 @@ FAILED (failures=1)
 
 ## When 1 + 1 = 2.0000001
 
-One problem with testing that a calculation is correct is that computers don't do floating point arithmetic too well. For example, in a new `ipython` session type;
+Different computer languages have their own quirks when dealing with [floating point](https://en.wikipedia.org/wiki/Floating_point) arithmetic which can lead to problems when testing your calculations. For example, in a new `ipython` session type:
 
 ```python
 expected = 0
