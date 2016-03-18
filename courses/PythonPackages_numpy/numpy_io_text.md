@@ -150,8 +150,9 @@ This will result in everything being made a string data format:
 What we need to do is to assign the format of each column type - at the same time, we can give that column a label attribute:
 
 ```python
-new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'),(3,9,7,'info'), \
-	                 (8,4,6,'to'),(8,3,3,'use')],dtype=[('x','f'),('y','f'),('z','f'), \
+new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'), \
+					 (3,9,7,'info'), (8,4,6,'to'),(8,3,3,'use')], \
+					 dtype=[('x','f'),('y','f'),('z','f'), \
 	                 ('text','S11') ])
 ```
 
