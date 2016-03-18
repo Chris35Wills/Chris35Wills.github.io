@@ -1,7 +1,7 @@
 ---
 ---
 
-#Changing Versions
+# Changing Versions
 
 The point of a version control system such as Git is that you can move 
 between different versions of a file (or, really, of a working directory).

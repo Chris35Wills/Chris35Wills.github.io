@@ -1,7 +1,7 @@
 ---
 ---
 
-#Diffing (seeing what has changed)
+# Diffing (seeing what has changed)
 
 Git is always looking to see what has changed in your working directory.
 Git can tell you what has changed by using the `git diff` command,

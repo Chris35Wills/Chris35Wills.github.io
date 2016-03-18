@@ -1,7 +1,7 @@
 ---
 ---
 
-#Branching
+# Branching
 
 In the last page you saw how to move back to a read-only view of an
 old version of your working directory. When you did this, Git printed
