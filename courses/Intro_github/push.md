@@ -11,7 +11,7 @@ We are going to use the third of these options, which is to
 push the version data from our local `versioned_dir` directory
 into our cloud `versioned_dir` GitHub repository.
 
-![Image of the post-creation page of GitHub](../github_created)
+![Image of the post-creation page of GitHub](../github_created.jpg)
 
 To do this, we need to tell Git running on our local machine, 
 that it needs to use our GitHub cloud repository as a remote
