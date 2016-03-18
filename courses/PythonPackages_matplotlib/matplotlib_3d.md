@@ -56,7 +56,7 @@ which we can then show (or even save) as normal - have a go at interacting with 
 plt.show()
 ```
 
-To add a colorbar, we need to assign the definition of the scatter plot to a variable which we then pass to the colorbar function. First, recreate the figure and axis instances:
+To add a colorbar, we need to assign the definition of the scatter plot to a variable which we then pass to the colorbar function. First, re-assign the figure and axis variables:
 
 ```python
 fig = plt.figure()
@@ -78,7 +78,7 @@ cbar=plt.colorbar(pnt3d)
 Using the colorbar object (```cbar```), we can also give it a title:
 
 ```python
-cbar.set_label("Values (units)"")
+cbar.set_label("Values (units)")
 ```
 
 We can then plot this as normal:
@@ -109,7 +109,9 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 ```
 
-If you have a look at the [documentation](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html#mplot3d-tutorial) for mpl_toolkits.mplot3d.plot_surface (you can access this help using you alias and a call to the function by ```Axes3D.plot_surface?```), you will see that it takes in x, y and z values that must *all* be 2D arrays - the problem at the moment is that your surface array (```dem```) only provides the z data - you don't have the x or y components. 
+Notice that we have set an alias for each of the imports - ```plt``` for  ```matplotlib.pyplot``` and ```Axes3D``` for ```mpl_toolkits.mplot3d```. 
+
+If you have a look at the [documentation](http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html#mplot3d-tutorial) for mpl_toolkits.mplot3d.plot_surface (which you can access using your alias by typing ```Axes3D.plot_surface?```), you will see that it takes in x, y and z values that must *all* be 2D arrays - the problem at the moment is that your surface array (```dem```) only provides the z data - you don't have the x or y components. 
 
 To create this, we can use a function from numpy called [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html). For a given array of  values, the  [meshgrid](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.meshgrid.html) function creates 2 equally sized grids that represent the x and y location at each element of the array, that is to say that for an element in our ```dem``` array, the x and y mesh grids will provide information of its location in x and y space... let's try an example...
 
@@ -118,7 +120,7 @@ First, check on the shape of your ```dem``` array:
 	>>> dem.shape
 	>>> (592L, 584L)
 
-Now import ```numpy``` (we'll give it a nickname of ```np```):
+Now import ```numpy``` - we'll give it an alias of ```np```):
 
 ```python
 import numpy as np
@@ -130,16 +132,16 @@ Now we need to create the dimensions of what will be our mesh grids of x and y. 
 ny, nx = dem.shape
 ```
 
-The above statememnt assigns the two values returned by the ```dem.shape``` call to the two variables ```nx``` and ```ny```.
+The above statement assigns the two values returned by the ```dem.shape``` call to the two variables ```nx``` and ```ny```.
 
-We now need to make to lists of values ranging from 0 to the maximum length of the image in x and y - we can do this by using numpy's [linspace](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.linspace.html) function:
+We now need to make two lists of values ranging from 0 to the maximum length of the image in both the x and y dimensions - we can do this by using numpy's [linspace](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.linspace.html) function:
 
 ```python
 x = np.linspace(0, 1, nx)
 y = np.linspace(0, 1, ny)
 ```
 
-This has created every likely element position in x and y - remember that for a given column, the x value will remain the same (now matter how far up or down the column it is) and the same for y in the horizontal direction - if this doesn't make sense, we'll have an image to look at in a minute. 
+This has created every likely element position in the x and y dimensions - remember that for a given column, the x value will remain the same (now matter how far up or down the column it is) and the same for y in the horizontal direction - if this doesn't make sense, we'll have an image to look at in a minute. 
 
 Now we just need to pass in the ```x``` and ```y``` variables to ```np.meshgrid()``` to get our arrays of x and y position (calling the resultant grids ```xv``` and ```yv```):
 
@@ -155,7 +157,7 @@ and here is y, the values of which only change from top to bottom:
 
 !["Change of y values over mesh grid of y"]({{ site.baseurl }}../y_mesh.png)
 
-The key point now is that we have grids 3 2d arrays, representing x, y and z. Now we can pass these into the ```Axes3D.surface_plot()```. We have to do this in the same way as for the 3d scatter plot above, so type:
+The key point now is that we have 3 2d arrays, representing x, y and z, held by the variables ```xv```, ```yv``` and ```dem``` respectively. Now we can pass these into the ```Axes3D.surface_plot()```. We have to do this in the same way as for the 3d scatter plot above, so type:
 
 ```python
 fig = plt.figure()
@@ -170,11 +172,17 @@ To adjust the colours, set the type of colormap you want to use using the ```cma
 dem3d=ax.plot_surface(xv,yv,dem,cmap='afmhot')
 ```
 
-You might also wan't to add a title and axis labels to the plot - as we are using a specific call to the plot axis, we must set this using:
+You might also want to add a title and axis labels to the plot - as we are using a specific call to the plot axis, we must set this using:
 
 ```python
 ax.set_title('DEM')
 ax.set_zlabel('Elevation (m)')
+```
+
+You can then view it using:
+
+```python
+plt.show()
 ```
 
 If you prefer a smoother looking image, then you want to adjust the ```linewidth``` option when creating the plot:
@@ -195,7 +203,7 @@ If you want to change the scale of the values in the ```dem``` array, then you a
 dem_100=dem/100
 ```
 
-and then creating your figure:
+Remember that if you make these changes, you need to then recreate the figure and axis instances. So, after making some additional changes, we create the figure by typing:
 
 ```python
 fig = plt.figure()
@@ -210,4 +218,4 @@ Your plot should look something like this:
 
 !["3D DEM"]({{ site.baseurl }}../dem_3d.png)
 
-# [Previous](../matplotlib_matrix) [Home](../README_matplotlib) [Next](../matplotlib_what_next)
+# [Previous](../matplotlib_matrix) [Home](../README_matplotlib) [Next](../matplotlib_multiple_figs)

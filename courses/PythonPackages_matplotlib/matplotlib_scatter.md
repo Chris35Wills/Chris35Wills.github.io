@@ -33,7 +33,7 @@ You should see something like the following being printed out:
 
 	>>> <matplotlib.collections.PathCollection at 0x1afd1d30>
 
-To view the image, we can use the function ```plt.show()``` - type this in:L
+To view the image, we can use the function ```plt.show()``` - type this in:
 
 ```python
 plt.show()

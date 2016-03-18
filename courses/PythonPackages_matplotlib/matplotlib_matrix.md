@@ -75,7 +75,7 @@ Now let's plot a digital elevation model. Save [this file](../dem.tif) on your m
 Read it in as an array:
 
 ```python
-dem=misc.imread("dem.tif")
+dem=misc.imread("/path/to/file/dem.tif")
 ```
 
 Create a plot object and apply a sequential colormap (to show the transition from low to high elevations - see [here](http://matplotlib.org/examples/color/colormaps_reference.html) for more info):
@@ -103,7 +103,7 @@ y_max=-900955
 x_max=-600459
 y_min=-607972
 extent_dims=[x_min, x_max, y_min, y_max]
-plt.imshow(dem, cmap='afmhot', extent=ext)
+plt.imshow(dem, cmap='afmhot', extent=extent_dims)
 ```
 
 This image represents elevation, so let's make a colorbar to provide useful information to those viewing the image:

@@ -38,6 +38,7 @@ The material below provides a very basic introduction, giving you an overview of
 * [Scatter plots](../matplotlib_scatter)
 * [Plotting matrixes and images](../matplotlib_matrix)
 * [3D plotting](../matplotlib_3d)
+* [Multiple plots on a single figure](../matplotlib_multiple_figs)
 * [What next](../matplotlib_what_next)
 
 ***

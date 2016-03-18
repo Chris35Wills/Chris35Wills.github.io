@@ -9,7 +9,7 @@ Matplotlib contains a module called ```pyplot``` which enables MATLAB style plot
 import matplotlib.pyplot as plt
 ```
 
-If you have never imported a module before, take a look [here](../matplotlib_install). Something slightly different about the above command is the addition of *as plt* - all this does is enables you to access everything in ```matplotlib.pyplot``` by just typing ```plt``` i.e. instead of typing ```matplotlib.pyplot.function``` each time, all we have to now type is ```plt.function``` which is both quicker and tidier (which makes for easier reading).
+If you have never imported a module before, take a look [here](../matplotlib_install). Something slightly different about the above command is the addition of *as plt* - ```plt``` is used as an alias for matplotlib.pyplot (you could have called it anything but ```plt``` is often used in this case). All this does is enables you to access everything in ```matplotlib.pyplot``` by just typing ```plt``` i.e. instead of typing ```matplotlib.pyplot.function``` each time. So, all we have to now type is ```plt.function``` which is both quicker and tidier (which makes for easier reading).
 
 Let's start by creating some new data which we'll do using [numpy](http://www.numpy.org/) (see [here](../../PythonPackages_numpy/README_numpy) if you haven't used numpy before) - in a new terminal, type the following:
 
@@ -94,8 +94,8 @@ We *hardwired*  the axis limit values above - this works but if you will be repe
 ```python
 offset=1
 plt.plot(x,y, 'r*', markersize=10)
-plt.xlim(x.min()offset, x.max()+offset)
-plt.ylim(y.min()offset, y.max()+offset)
+plt.xlim(x.min()-offset, x.max()+offset)
+plt.ylim(y.min()-offset, y.max()+offset)
 plt.show()
 ```
 
