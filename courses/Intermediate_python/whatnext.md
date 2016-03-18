@@ -10,8 +10,7 @@ Pacakges useful for most scientists include (but are by no means limited to):
 * [SciPy](http://www.scipy.org) : An ecosystem of open-source software for mathematics, science, and engineering. This includes...
 * [NumPy](http://www.numpy.org) : The fundamental package for scientific computing with Python
 * [MatPlotLib](http://matplotlib.org) : A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats
-* [Pandas](http://pandas.pydata.org/) : 
-* [rpy2](http://rpy2.bitbucket.org/) : 
+* [Pandas](http://pandas.pydata.org/) : A suite of high-performance, easy-to-use data structures and data analysis tools
 * [MDAnalysis](http://mdanalysis.org) : A python toolkit to analyse molecular dynamics trajectories
 * [H5py](http://www.h5py.org/) : Library for dealing with HDF5 data 
 * [Python-HDF4](http://fhs.github.io/python-hdf4/) : Library of wrappers for dealing with HDF4 data
