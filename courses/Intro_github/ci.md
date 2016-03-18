@@ -185,4 +185,4 @@ What does a build fail look like?
 
 ***
 
-# [Previous](../pull) [Up](../README) [Next](../whatnext)
+# [Up](../README)

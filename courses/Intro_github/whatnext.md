@@ -24,4 +24,4 @@ will save you from losing some work if your computer hard disk fails.
 
 ***
 
-# [Previous](../ci) [Up](../README) [Next](../README)
+# [Previous](../pull) [Up](../README) [Next](../README)
