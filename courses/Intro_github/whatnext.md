@@ -16,7 +16,8 @@ Consider using Git to version control your
 * Lab notes
 * Software projects
 
-Remember the fact that everything public though - if it shouldn;t be in the public domain, ensure you make use of a private account for which you can specifically control access.
+Remember the fact that everything public though - if it shouldn't be in the public domain, ensure you make use of a private account for which you can specifically control access.
+
 If you have a *.ac.uk* email address, you can apply for an academic github account that will give you 5 free private repos which you can use precisely for this purpose. To set up an academic account on GitHub, first [associate an academic email address with your account](https://help.github.com/articles/verifying-your-email-address/) and then [request a GitHub Education discount](https://education.github.com/discount_requests/new).
 
 You can also make your code on github citable - have a look [here](https://guides.github.com/activities/citable-code/) for more information.
