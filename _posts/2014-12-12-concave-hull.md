@@ -5,7 +5,7 @@ categories: Python, R
 tags: python scipy concave hull lidar
 ---
 
-Following the calculation of a convex hull as described [a few weeks ago](http://chris35wills.github.io/convex_hull/), I've worked up a way to approximate a "concave" hull. This can be useful for point clouds of complicated geometries. Whereas the convex hull is a well defined concept, concave hulls are less so, verging on the subjective. That's why I keep using " " around "concave hull".
+Following the calculation of a convex hull as described [a few weeks ago](../2014-11-6-convex_hull), I've worked up a way to approximate a "concave" hull. This can be useful for point clouds of complicated geometries. Whereas the convex hull is a well defined concept, concave hulls are less so, verging on the subjective. That's why I keep using " " around "concave hull".
 
 So, considering this potential subjectiveness, the method here actually calculates the hull from an applied kernel density function. The first thing to do is to calculate your kernel density function for a point cloud, which I've facilitated in R (albeit after reading [this](http://r.789695.n4.nabble.com/Concave-hull-td863710.html)):
 
