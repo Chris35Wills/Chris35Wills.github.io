@@ -77,7 +77,7 @@ To make a greyscale array, we'll aply the above equation and use the sliced part
 grey = (0.2126 * red) + (0.7152 * green) + (0.0722 * blue)
 ```
 
-No looping or anything required - this efficiency is what makes numpy fast. If we had used a vanilla python approach, we would have to have looped through each cell of the array which would have taken *much* longer.
+No looping or anything required - this efficiency is what makes numpy fast. If we had used a vanilla python approach, we would have to have looped through each element of the array which would have taken *much* longer.
 
 Now we have our grey image, we can plot it using matplotlib again, but this time we must tell it that the image is greyscale - this is done by using the ```cmap``` option within the ```imshow``` command:
 

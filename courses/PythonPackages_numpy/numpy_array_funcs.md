@@ -3,9 +3,9 @@
 
 # Array functions
 
-Each time we created an array in the above examples, we have created a new numpy array *object* (if you are unfamiliar with objects, they are covered in the [intermediate course](../../Intermediate_python/objects)). The key thing to take away here is that by creating a new array object, you now have access to various methods associated with it... let's look at an example:
+Each time we created an array in the above examples, we have created a new numpy array *object* (if you are unfamiliar with objects, they are covered in the [intermediate course](../../Intermediate_python/objects)). The key thing to take away here is that by creating a new array object, you now have access to various methods associated with it... let's look at some examples.
 
-For any given array, a useful metric to access would be its size - this is achieved using the ```shape``` method - so for or *1-dimensional* zeros array, just type:
+For any given array, a useful metric to access would be its size - this is achieved using the ```shape``` method. First, create an array of ones (e.g. ```b = numpy.zeros(6)```), and then type:
 
 ```python
 b.shape
@@ -15,7 +15,7 @@ and you should see the following printed out:
 
 	>> (6L,)
 
-For the *2-dimensional* array:
+For a *2-dimensional* array (create using ```a_2d=numpy.ones((2,5))```):
 
 ```python
 a_2d.shape
@@ -32,11 +32,11 @@ Useful array specific functions include: max, min, mean, sum, dtype and copy amo
 ```reshape``` is a particularly useful function if you want, for example, to create an array of specific values of specific dimensions - let's create a 2-dimensional array with values between 0 and 9:
 
 ```python
-arr=np.arange(0,10)     # create a simple array of numbers in 1D
+arr=numpy.arange(0,10)     # create a simple array of numbers in 1D
 arr.reshape(2,5)         
 ```
 
-After firstly creating a simple *1-dimensional* array, using the array function ```reshape``` and by specifying your desired dimensions (make sure they work by considering the length of the array you are manipulating), you will have seen your array restructured. However, despite this, the shape of variable ```arr``` will still be as it was before the reshape function call. To keep the array in the new shape, you must assign it to a variable:
+After firstly creating a simple *1-dimensional* array, using the array function ```reshape``` and by specifying your desired dimensions (make sure they work by considering the length of the array you are manipulating), you will have seen your array restructured. However, despite this, the shape of variable ```arr``` will still be as it was before the reshape function call. To keep the array in the new shape, you must assign it to a new variable:
 
 ````python
 arr_2d=arr.reshape(2,5) 

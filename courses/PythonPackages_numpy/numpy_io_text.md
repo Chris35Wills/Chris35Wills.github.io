@@ -162,7 +162,7 @@ new_data['text']
 new_data['x']
 ```
 
-# [Previous](../numpy_indexing) [Home](../README_numpy) [Next](../numpy_io_scipy_image)
+# [Previous](../numpy_multiplication) [Home](../README_numpy) [Next](../numpy_io_scipy_image)
 
 
 

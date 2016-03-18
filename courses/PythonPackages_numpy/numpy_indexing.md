@@ -13,7 +13,7 @@ Let's start by making a simple array of random numbers:
 rand=numpy.random.random(7)
 ```
 
-The best way to think about slicing an array is to imagine thee structure as ```array[start_slice:end_slice:step]``` (where not all variables need to be set).
+The best way to think about slicing an array is to imagine a syntax structure of ```array[start_slice:end_slice:step]``` (where not all of the variables (start_slice, end_slice, step) need to be set).
 
 To get the first value of the array by index, type:
 
@@ -111,4 +111,4 @@ To access the first 2 elements of each dimension (you can imagine this as the 2 
 rand2[:,0:2]
 ```
 
-# [Previous](../numpy_array_funcs) [Home](../README_numpy) [Next](../numpy_io_text)
+# [Previous](../numpy_array_funcs) [Home](../README_numpy) [Next](../numpy_multiplication)
