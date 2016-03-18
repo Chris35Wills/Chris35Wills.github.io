@@ -21,7 +21,7 @@ The material below provides a very basic introduction, giving you an overview of
 * [The numpy array](../numpy_array)
 * [Array functions](../numpy_array_funcs)
 * [Indexing and slicing](../numpy_indexing)
-* [Array multiplication]((../numpy_multiplication)
+* [Array multiplication](../numpy_multiplication)
 * [Reading in tabulated data](../numpy_io_text)
 * [Reading in an image](../numpy_io_scipy_image)
 * [What next?](../numpy_what_next)
