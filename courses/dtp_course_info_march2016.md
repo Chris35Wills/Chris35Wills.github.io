@@ -1,4 +1,6 @@
 ---
+layout: page
+title: DTP Programming Course: 21st - 23rd March 2016
 ---
 
 # DTP Programming Course: 21st - 23rd March 2016
