@@ -9,7 +9,7 @@ Over the next 3 days, we will be working our way from introducing you to the Pyt
 
 As mentioned above, the materials can be self led but to give you a loose structure, try and work to the following. 
 
-***IMPORTANT***: Don't rush thorugh this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
+***IMPORTANT***: Don't rush through this - there will likely be a number of new concepts for you to get to grips with so take your time and let it sink in!
 
 ### Day 1 (9am - 5pm)
 
@@ -25,7 +25,7 @@ Work your way through [Intermediate Python](../Intermediate_python/README)
 
 You should now have a basic overview of how Python works - now we can move on to some packages.
 
-Work your way through [numpy package](../PythonPackages_numpy/README_numpy) crash course (builds on the intermediate python course)
+Work your way through the [numpy package](../PythonPackages_numpy/README_numpy) crash course (builds on the intermediate python course)
 
 Have a look through the [matplotlib](../PythonPackages_matplotlib/README_matplotlib) crash course for image plotting (builds on the numpy course)
 
