@@ -13,27 +13,28 @@ As mentioned above, the materials can be self led but to give you a loose struct
 
 ### Day 1 (9am - 5pm)
 
-Ensure you have your machine set up by following the instructions [here](../Setup/setup)
+Ensure you have your machine set up by following the instructions [here](../Setup/setup).
 
-Work your way through [Beginners Python](../Beginners_python/README)
+Work your way through [Beginners Python](../Beginners_python/README).
 
-If you finish all of the beginners course, move on to [Intermediate Python](../Intermediate_python/README)
+If you finish all of the beginners course, move on to [Intermediate Python](../Intermediate_python/README).
 
 ### Day 2 (9.30am - 5pm)
 
-Work your way through [Intermediate Python](../Intermediate_python/README)
+Work your way through [Intermediate Python](../Intermediate_python/README).
 
 You should now have a basic overview of how Python works - now we can move on to some packages.
 
-Work your way through the [numpy package](../PythonPackages_numpy/README_numpy) crash course (builds on the intermediate python course)
+Work your way through the [numpy package](../PythonPackages_numpy/README_numpy) crash course (builds on the intermediate python course).
 
-Have a look through the [matplotlib](../PythonPackages_matplotlib/README_matplotlib) crash course for image plotting (builds on the numpy course)
+Have a look through the [matplotlib](../PythonPackages_matplotlib/README_matplotlib) crash course for image plotting (builds on the numpy 
+course).
 
 ### Day 3 (9.30am - 3pm)
 
 This last day will be looking at version control using [Github](http://github.com/).
 
-Work your way through the [Intro to Github course](../Intro_github/README)
+Work your way through the [Intro to Github course](../Intro_github/README).
 
 ## Other information
 
