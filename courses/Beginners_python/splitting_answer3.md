@@ -11,7 +11,7 @@ nmakes = 0
 
 oldest_age = 0
 highest_class = 0
-lowest_class = 1000
+lowest_class = 7
 
 for i in range( 1, len(lines) ):
     line = lines[i].rstrip()
