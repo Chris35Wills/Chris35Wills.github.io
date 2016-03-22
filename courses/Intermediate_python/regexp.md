@@ -263,7 +263,7 @@ We can use this to find all lines that contain words with 10-12 characters, by t
 
 ```python
 for line in lines:
-    if re.search(r"\w{10-12}", line):
+    if re.search(r"\w{10,12}", line):
         print(line,end="")
 ```
 
