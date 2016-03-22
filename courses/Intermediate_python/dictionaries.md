@@ -108,10 +108,15 @@ will give
 
 ### Looping over a dictionary
 
-As the `keys` function returns the list of all keys in a dictionary, the best way to loop over all items in a dictionary is to loop over the list of keys. For example, type;
+As the `keys` function returns the list of all keys in a 
+dictionary (in the code below, we create a new variable - 
+```keys``` as a list to be able to access it by index), the best 
+way to loop over all 
+items in 
+a dictionary is to loop over the list of keys. For example, type;
 
 ```python
-keys = a.keys()
+keys = list(a.keys())
 for i in range(0,len(keys)):
     print("%s == %s" % (keys[i], a[keys[i]]))
 ```
