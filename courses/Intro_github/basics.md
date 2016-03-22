@@ -46,7 +46,7 @@ You can of course use `vim` or `emacs` if you prefer.
 Note that you only have to type in the above the first time you use Git
 on a new computer. You don't have to type it in every time you log in.
 
-##Creating a Version-Controlled Directory
+## Creating a Version-Controlled Directory
 
 Git provides version control at the level of a directory. This means that 
 Git will track the versions of all files that are contained within a 

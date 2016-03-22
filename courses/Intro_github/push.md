@@ -32,8 +32,9 @@ Now you will type the command
 git remote add origin https://github.com/USERNAME/versioned_dir.git
 ```
 
-where `USERNAME` is your GitHub username. My GitHub username is `chryswoods`,
-so I would type
+where `USERNAME` is your GitHub username. In this 
+example, the GitHub username is `chryswoods`,
+so we would type
 
 ```
 git remote add origin https://github.com/chryswoods/versioned_dir.git

@@ -65,8 +65,8 @@ There are two main Git-based cloud services available;
 * [GitHub](https://github.com)
 * [BitBucket](https://bitbucket.org)
 
-Both provide completely free online Git hosting, and I use both regularly.
-For this workshop I am recommending GitHub, although don't take this
+Both provide completely free online Git hosting. For 
+this workshop I am recommending GitHub, although don't take this
 as any indication that GitHub is better than BitBucket.
 
 If you haven't already, please [go here](../github_register) for instructions
@@ -78,14 +78,16 @@ like this
 
 ![Image showing GitHub logged in home page](../github_home.jpg)
 
-This shows your GitHub username (in my case, chryswoods), together with
+This shows your GitHub username (in this example, 
+chryswoods), together with
 the set of repositories to which you contribute (in your case, probably 
 not many yet, but in my case, michellab/Sire etc.). Repository is the
 term we use to refer to the complete set of version information about
 a version controlled directory. A repository contains the complete set
 of all versions of a single directory (and everything contained within
 that directory). For example, michellab/Sire is a directory that contains
-the source code for my [Sire molecular simulation framework](http://siremol.org),
+the source code for the [Sire molecular simulation 
+framework](http://siremol.org),
 and the michellab/Sire repository contains every single version of every
 file that is in that directory.
 
