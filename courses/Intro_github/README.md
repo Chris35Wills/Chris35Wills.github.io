@@ -23,8 +23,9 @@ version control systems, [CVS](https://en.wikipedia.org/wiki/Concurrent_Versions
 
 Git was originally developed to manage version control for the Linux kernel,
 but has now expanded and is, perhaps, the most widely used revision control
-system in science. As a former CVS and subversion user, I recommend Git as
-the best revision control system to now use, simply because the support tools
+system in science. I recommend Git as
+the best revision control system to use, simply 
+because the support tools
 available are the most advanced and most developed. Git has been strongly
 embraced by the wider community, and you will have a wide selection of tools
 that will help you use and build upon Git.
