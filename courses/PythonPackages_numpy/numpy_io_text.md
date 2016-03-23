@@ -138,7 +138,8 @@ If you know the column names, it is possible to integrate these by creating a [s
 For example, let's create an array:
 
 ```python
-new_data = np.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'), \
+new_data = 
+numpy.array([(4,3,3,'some'),(5,4,3,'other'),(6,3,2,'useful'), \
 	(3,9,7,'info'),(8,4,6,'to'),(8,3,3,'use')])
 ```
 

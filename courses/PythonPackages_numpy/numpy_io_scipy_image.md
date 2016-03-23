@@ -84,8 +84,8 @@ Now we have our grey image, we can plot it using matplotlib again, but this time
 
 ```python
 import matplotlib.cm as cm 
-plt.imshow(grey, cmap = matplotlib.cm.Greys_r)
-plt.show()
+matplotlib.pyplot.imshow(grey, cmap = matplotlib.cm.Greys_r)
+matplotlib.pyplot.show()
 ```
 
 To write the array out as an image, we'll use scipy again:
