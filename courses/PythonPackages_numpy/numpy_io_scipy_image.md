@@ -91,7 +91,7 @@ plt.show()
 To write the array out as an image, we'll use scipy again:
 
 ```python
-misc.imsave('puppy_grey.jpg', grey)
+misc.imsave('puppy_grey.png', grey)
 ```
 
 Open this image and check out your funky new colour scheme, all thanks to a bit of python and numpy.
