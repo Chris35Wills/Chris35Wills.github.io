@@ -7,7 +7,8 @@
 
 As seen [here](../numpy_io_text), numpy can be used with tabulated data sets but where it really excels is when it is applied to workflows involving matrices of data - think of photographs, satellite images, digital elevation models (DEMs) etc. 
 
-Right click [this link](../puppy.jpg) and save this file to a location on your machine.
+Right click [this link](../puppy.png) and save this 
+file to a location on your machine.
 
 ## Open an image as a numpy array
 
@@ -20,7 +21,7 @@ from scipy import misc
 You now have access to the routines available within scipy's [misc module](http://docs.scipy.org/doc/scipy-0.16.0/reference/misc.html). To read in the image, type the following:
 
 ```python
-dog=misc.imread('/path/to/file/puppy.jpg')
+dog=misc.imread('/path/to/file/puppy.png')
 type(dog)
 ```
 
