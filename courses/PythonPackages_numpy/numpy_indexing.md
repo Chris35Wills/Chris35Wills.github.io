@@ -83,9 +83,9 @@ rand2=numpy.random.random((5,3))
 
 Indexing in multiple dimensions is the same as for 1-dimension, except that your slice statements are specified per dimension. Accessing the dimensions of an array can be visualised as:
 
-	1-dimension:  array[1st_dimsnsion]
-	2-dimensions: array[1st_dimsnsion,2nd_dimension]
-	3-dimensions: array[1st_dimsnsion,2nd_dimension,3rd_dimension]
+	1-dimension:  array[1st_dimension]
+	2-dimensions: array[1st_dimension,2nd_dimension]
+	3-dimensions: array[1st_dimension,2nd_dimension,3rd_dimension]
 
 To access all elements of the 1st dimension (you can imagine this as the top row):
 

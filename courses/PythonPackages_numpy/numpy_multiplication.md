@@ -3,7 +3,7 @@
 
 # Multiplication of arrays
 
-This is a brief note but something that you may find yourself doing a lot when working wih numpy. The great thiing about arrays is that you can quickly multiply and manipulate them without having to specifically loop through each element.
+This is a brief note but something that you may find yourself doing a lot when working wih numpy. The great thing about arrays is that you can quickly multiply and manipulate them without having to specifically loop through each element.
 
 Create 2 2d arrays of random number between zero and 10:
 
