@@ -127,7 +127,7 @@ you use `re.IGNORECASE`, e.g. type;
 ```python
 for line in lines:
     if re.search(r"dream", line, re.IGNORECASE):
-        print line,
+        print(line)
 ```
 
 and you will see;
