@@ -12,18 +12,18 @@ This is a short course that will provide you with a quick taste of Python. Pleas
 ***
 
 * [Python Basics](../basics)
-* [Loops](./loops.md)
-* [Arguments](./arguments.md)
-* [Conditions](./conditions.md)
-* [Files](./files.md)
-* [Writing Files](./writing.md)
-* [Splitting Lines](./splitting.md)
-* [Searching Files](./searching.md)
-* [Search and Replace](./replacing.md)
-* [Running Programs](./running.md)
-* [Job Scripts](./jobs.md)
-* [What Next?](./whatnext.md)
+* [Loops](../loops)
+* [Arguments](../arguments)
+* [Conditions](../conditions)
+* [Files](../files)
+* [Writing Files](../writing)
+* [Splitting Lines](../splitting)
+* [Searching Files](../searching)
+* [Search and Replace](../replacing)
+* [Running Programs](../running)
+* [Job Scripts](../jobs)
+* [What Next?](../whatnext)
 
 ***
 
-# [Previous](../) [Next](./basics.md) 
+# [Previous](../) [Next](./basics) 
