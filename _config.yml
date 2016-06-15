@@ -81,3 +81,60 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+# Set default jekyll front matter - for more info: http://jekyllrb.com/docs/configuration/#front-matter-defaults
+defaults:
+  -
+    scope:
+      path: "courses/Intermediate_python"
+      type: "page"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "courses/Intro_github"
+      type: "page"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "courses/Beginners_python"
+      type: "page"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "courses/PythonPackages_matplotlib"
+      type: "page"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "courses/PythonPackages_numpy"
+      type: "page"
+    values:
+      layout: "page"            
+  -
+    scope:
+      path: "courses/Setup"
+      type: "page"
+    values:
+      layout: "page"            
+  -
+    scope:
+      path: "courses/nano_basics"
+      type: "page"
+    values:
+      layout: "page" 
+  -
+    scope:
+      path: "courses/Setup_check"
+      type: "page"
+    values:
+      layout: "page" 
+  -
+    scope:
+      path: "courses"
+      type: "page"
+    values:
+      layout: "page" 
