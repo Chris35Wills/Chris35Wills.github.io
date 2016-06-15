@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="page">
+  {% for page in site.courses %}
+    <article class="p">    
+      
+      <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+
+      <div class="entry">
+        {{ page.content}}
+      </div>
+      
+    </article>
+  {% endfor %}
+</div>
+
+
+
+
+
+
