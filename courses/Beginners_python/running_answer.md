@@ -22,4 +22,4 @@ for jpeg_file in jpeg_files:
     os.system( command )
 ```
 
-# [Previous](../running.md) [Next](../running.md)
+# [Previous](../running) [Next](../running)
