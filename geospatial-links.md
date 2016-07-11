@@ -10,11 +10,19 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Raster Data in R - The Basics](http://neondataskills.org/R/Raster-Data-In-R/)
 
+[Raster data in R - another take](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS1_SpatialDataTypes_part2_rasterData.html)
+
 [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/)
+
+[Geospatial data in R and beyond!](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/static/talk1.pdf)
 
 [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf)
 
 [ArcGIS to R cheatsheet](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzZWFzY2FwZW1vZGVsbGluZ3xneDozMGZlZjdmNjVmYjU4ODYx)
+
+[rasterVis package](https://oscarperpinan.github.io/rastervis/)
+
+[R vs. Python Numpy equivalents](http://mathesaurus.sourceforge.net/r-numpy.html)
 
 ## Python 
 
@@ -22,13 +30,15 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Python image analysis tutorial](http://pythonvision.org/basic-tutorial/)
 
+[Bokeh - a wrapper for JavaScript type plotting](http://bokeh.pydata.org/en/latest/docs/gallery.html)
+
 ### Pandas 
 
 [http://chrisalbon.com/#Python](http://chrisalbon.com/#Python)
 
 [Useful pandas technqiues](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
 
-### Geospatial
+### Geospatial (various languages)
 
 [K nearest neighbours in Python](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
 
@@ -44,7 +54,15 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [GEOTIFF reference](http://www.remotesensing.org/geotiff/spec/geotiff2.5.html)
 
+[Fill NA areas of rasters (R)](http://gis.stackexchange.com/questions/187410/how-do-i-get-rid-of-edge-effects-while-using-focal-in-r-to-smooth-a-raster)
+
+[Fill NA areas of rasters (GDAL)](http://www.gdal.org/gdal_fillnodata.html)
+
+[Merging vs mosaic](http://www.wwu.edu/huxley/spatial/tut/merge_mosaic.htm)
+
 ## Geostats
+
+[Extending info on spatial data fields](http://geostat-course.org/system/files/geostat13_spatinterPM.pdf)
 
 [A Practical Guide To Geospatial Mapping](http://spatial-analyst.net/book/system/files/Hengl_2009_GEOSTATe2c1w.pdf)
 
