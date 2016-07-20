@@ -18,16 +18,15 @@ permalink: /publications/
 
 - [Rippin, D.M., Carrivick, J.L., Williams, C., (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
 
-
 ## Published code (feel free to download and try it out!)
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
 ## In preparation
 
-- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
-
 - Williams, C.N., Bamber, J.L., Jordan, T.M., Cochran, J., Tinto, K., Dowdeswell, J., Siegert, M., Morlighem, M., Cornford, S., Palmer, S. and Paden, J., 20xx. A hydrologically inspired approach to predicting fjord bedrock geometry at the ice-ocean interface of the Greenland Ice Sheet.
+
+- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
 
 ## Spoken and poster presentations
 
