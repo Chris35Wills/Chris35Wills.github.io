@@ -5,7 +5,9 @@ categories: python, pandas
 tags: python pandas
 ---
 
-The [assign](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.assign.html) function available in [Pandas](http://pandas.pydata.org/) is extremely convenient and allows for quick calculations across a dataframe. I need to make more use of this. You create your dataframe such as:
+The [assign](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.assign.html) function available in [Pandas](http://pandas.pydata.org/) is extremely convenient and allows for quick calculations across a dataframe. I need to make more use of this. 
+
+You create your dataframe such as:
 
 ```python
 import pandas as pd
