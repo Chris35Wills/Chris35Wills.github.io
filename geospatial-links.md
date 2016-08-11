@@ -32,6 +32,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Bokeh - a wrapper for JavaScript type plotting](http://bokeh.pydata.org/en/latest/docs/gallery.html)
 
+[Advanced plotting with matplotlib](http://www.southampton.ac.uk/~fangohr/training/python/notebooks/Matplotlib.html)
+
 ### Pandas 
 
 [http://chrisalbon.com/#Python](http://chrisalbon.com/#Python)
