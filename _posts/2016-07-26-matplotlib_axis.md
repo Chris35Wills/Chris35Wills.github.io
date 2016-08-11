@@ -30,7 +30,7 @@ Now create the first subplot and display the distance array:
 ax=fig.add_subplot(211)
 
 plt.title("Colorbars - to be or not to be")
-plt.imshow(distance, extent=mask.extent)
+plt.imshow(distance, extent=extent)
 ```
 
 Now create a new axis in which to put the colorbar (which is discussed [here](http://matplotlib.org/mpl_toolkits/axes_grid/users/overview.html#axesdivider)):
