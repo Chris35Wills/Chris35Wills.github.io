@@ -77,6 +77,6 @@ then plot and boom:
 plt.show()
 ```
 
-![Cumulative distance]({{ site.baseurl }}/images/colorbars_tobe_ornot.png "pyplot imshow and colorbar")
+![Plotting colorbars]({{ site.baseurl }}/images/colorbars_tobe_ornot.png "pyplot imshow and colorbar")
 
 Thanks to [Andrew Tedstone](http://atedstone.github.io/) for the tip-off!
