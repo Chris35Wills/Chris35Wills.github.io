@@ -22,9 +22,11 @@ permalink: /publications/
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
-## In preparation
+## Submitted / In review
 
-- Williams, C.N., Bamber, J.L., Jordan, T.M., Cochran, J., Tinto, K., Dowdeswell, J., Siegert, M., Morlighem, M., Cornford, S., Palmer, S. and Paden, J., 20xx. A hydrologically inspired approach to predicting fjord bedrock geometry at the ice-ocean interface of the Greenland Ice Sheet.
+- Williams, C.N., Cornford, S.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M., Clark, C.D., Swift, D.A., Sole, A., Fenty, I. and Bamber, J.L. (submitted) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere.
+
+## In preparation
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
 
