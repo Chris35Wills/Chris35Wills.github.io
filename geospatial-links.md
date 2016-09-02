@@ -42,6 +42,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ### Geospatial (various languages)
 
+[Interpolation overview](http://www.bisolutions.us/A-Brief-Introduction-to-Spatial-Interpolation.php)
+
 [K nearest neighbours in Python](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
 
 [Installing GDAL (and OGR) for Python on Windows](https://pythongisandstuff.wordpress.com/2011/07/07/installing-gdal-and-ogr-for-python-on-windows/)
