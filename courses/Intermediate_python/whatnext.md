@@ -31,4 +31,4 @@ Python also comes with a large standard library of modules that you can [view he
 
 The best way continue to learn python is to now find the modules that help you solve your scientific problems. Try to use their documentation to learn how they work. Use `ipython` and the `help()` function to play with the objects available in the module. Email the authors if the documentation isn't clear or file a bug report if the module appears to be broken. If you can, write your Python code so that it can be added back to the community, either as an addition to an existing module or as a new Python package. Remember, documented, tested and clearly-written code is highly valuable. Try to contribute yours back to the community so that you can stop other scientists from having to repeat all of your hard work.
 
-# [Previous](../regexp) [Home](../README)
+# [Previous](../regexp) [Home](../../)
