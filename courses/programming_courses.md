@@ -10,7 +10,8 @@ Below you can find links to various course materials - please feel free to make 
 
 ## On-site courses 
 
-[**Bristol DTP Programming course 21st-23rd March 2016**](dtp_course_info_march2016)
+<!--[**Bristol DTP Programming course 21st-23rd March 2016**](dtp_course_info_march2016)-->
+[**Bristol DTP Programming course 10th - 12th October 2016**](dtp_course_info_october2016)
 
 ## Setting up your machine
 
