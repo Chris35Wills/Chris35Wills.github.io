@@ -64,6 +64,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## Geostats
 
+[Interpolation overview](http://www.bisolutions.us/A-Brief-Introduction-to-Spatial-Interpolation.php)
+
 [Extending info on spatial data fields](http://geostat-course.org/system/files/geostat13_spatinterPM.pdf)
 
 [A Practical Guide To Geospatial Mapping](http://spatial-analyst.net/book/system/files/Hengl_2009_GEOSTATe2c1w.pdf)
