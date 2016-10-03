@@ -1,7 +1,7 @@
 ---
 ---
 
-# DTP Programming Course: 10 th - 12 th October 2016
+# DTP Programming Course: 10th - 12th October 2016
 
 Over the next 3 days, we will be working our way from introducing you to the Python language, developing on each step to provide you with knowledge of how the language works and therefore how you can apply it to your research work flow. We will also be looking at a couple of packages for fast and efficient numerical analysis and plotting for data visualisation. All of the course materials are designed for you to be able to work through them independently and at your own pace - programming is very much learnt by doing rather than just listening or reading. Wherever you see *"type this"* in any of the instructions, it is best to do just that! Avoid using copy and paste as becoming a better programmer is as much about training your fingers as your mind.
 
