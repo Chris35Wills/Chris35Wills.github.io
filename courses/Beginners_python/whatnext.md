@@ -7,4 +7,4 @@ If this has whet your appetite for Python then I really recommend that you get h
 
 To step things up, let's have a look at the [Intermediate Python](../../Intermediate_python/README) course.
 
-# [Previous](../jobs) [Next](../../Intermediate_python/README)
+# [Previous](../jobs) [Home](../../)
