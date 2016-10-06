@@ -17,28 +17,30 @@ Ensure you have your machine set up by following the instructions [here](../Setu
 
 Work your way through [Beginners Python](../Beginners_python/README).
 
-If you finish all of the beginners course, have a look at [Intermediate Python](../Intermediate_python/README).
-
 ### Day 2 (9.30am - 5pm)
 
 Work your way through [Intermediate Python](../Intermediate_python/README).
 
 You should now have a basic overview of how Python works - now we can move on to some packages.
 
-Work your way through the [numpy package](../PythonPackages_numpy/README_numpy) crash course (builds on the intermediate python course).
-
-Have a look through the [matplotlib](../PythonPackages_matplotlib/README_matplotlib) crash course for image plotting (builds on the numpy 
+Have a look at the [numpy package](../PythonPackages_numpy/README_numpy) crash course and the [matplotlib](../PythonPackages_matplotlib/README_matplotlib) crash course for image plotting (builds on the numpy 
 course).
 
 ### Day 3 (9.30am - 3pm)
 
-This last day will be looking at version control using [Github](http://github.com/).
+This day is reserved for another useful tool that is non-python specific - version control. One way of doing this is using [Github](http://github.com/) - a walk through course is available here: [Intro to Github course](../Intro_github/README).
 
-Work your way through the [Intro to Github course](../Intro_github/README).
+If you have any time left, keep working on the Python tutorials if you haven't finished them yet. 
+
+You might also want to have a look at other packages such as those listed [here](http://chris35wills.github.io/courses/Intermediate_python/whatnext/).
 
 ## Other information
 
+Refreshments and lunch will be provided.
+
 Each day there will be a number of helpers to answer any of your queries - don't be shy to ask! 
 
-Refreshments and lunch will be provided each day.
+If there are specific things that you are planning for your research and you are not sure what tools are available, ask us about that too! 
+
+
 
