@@ -11,7 +11,7 @@ import sys
 class MorseTranslator:
     """This class can translate to and from morse code."""
     def __init__(self):
-        self._letter_to_morse = {'a':'.-', 'b':'-...', 'c':'-.-.', 'd':'-..', 'e':'.', 'f':'..-.', 
+        self.__letter_to_morse = {'a':'.-', 'b':'-...', 'c':'-.-.', 'd':'-..', 'e':'.', 'f':'..-.', 
                                  'g':'--.', 'h':'....', 'i':'..', 'j':'.---', 'k':'-.-', 'l':'.-..', 'm':'--', 
                                  'n':'-.', 'o':'---', 'p':'.--.', 'q':'--.-', 'r':'.-.', 's':'...', 't':'-',
                                  'u':'..-', 'v':'...-', 'w':'.--', 'x':'-..-', 'y':'-.--', 'z':'--..',
@@ -19,11 +19,11 @@ class MorseTranslator:
                                  '5':'.....', '6':'-....', '7':'--...', '8':'---..', '9':'----.',
                                  ' ':'/' }
 
-        self._morse_to_letter = {}
+        self.__morse_to_letter = {}
 
-        for letter in self._letter_to_morse:
-            morse = self._letter_to_morse[letter]
-            self._morse_to_letter[morse] = letter
+        for letter in self.__letter_to_morse:
+            morse = self.__letter_to_morse[letter]
+            self.__morse_to_letter[morse] = letter
 
     def encode(self, message):
         """Encode the passed message into morse,
@@ -32,7 +32,7 @@ class MorseTranslator:
 
         for letter in message:
             letter = letter.lower()
-            morse.append(self._letter_to_morse[letter])
+            morse.append(self.__letter_to_morse[letter])
 
         return " ".join(morse)
 
@@ -47,7 +47,7 @@ class MorseTranslator:
         morse_letters = message.split(" ")
 
         for letter in morse_letters:
-            english.append(self._morse_to_letter[letter])
+            english.append(self.__morse_to_letter[letter])
 
         # Rejoin, but now we don't need to add any spaces
         return "".join(english)
