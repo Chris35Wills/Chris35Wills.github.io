@@ -33,6 +33,8 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [Packages - Numpy: scratching the surface](PythonPackages_numpy/README_numpy)
 
+[Packages - Pandas: a quick introduction](PythonPackages_pandas/)
+
 *\* materials modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) for the original materials*
 
 ## Github
