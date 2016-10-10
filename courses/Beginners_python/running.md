@@ -14,9 +14,9 @@ directory = sys.argv[1]
 subprocess.call( "ls %s" % directory, shell=True)
 ```
 
-This is a simple script that just lists the contents of a directory. The key line is `subprocess.call("ls %s" % directory)`. The system command (part of the os module) is passed a string, and executes the value of that string in pretty much exactly the same way that the same text would have been executed if you had typed it yourself at the command line. The output of the command is printed to the screen.
+This is a simple script that just lists the contents of a directory. The key line is `subprocess.call("ls %s" % directory, shell=True)`. The system command (part of the os module) is passed a string, and executes the value of that string in pretty much exactly the same way that the same text would have been executed if you had typed it yourself at the command line. The output of the command is printed to the screen.
 
-`subprocess.call` is good if you want to just run a program. However, there are times when you would like to process the output of the program within Python. To do this, you have to use `subprocess.Popen`. Open a new Python script (`nano popen.py`) and copy the following;
+`subprocess.call` is good if you want to just run a program. However, there are times when you would like to process the output of the program within Python. To do this, you have to use `subprocess.check_output`. Open a new Python script (`nano popen.py`) and copy the following;
 
 ```python
 import sys
@@ -50,7 +50,7 @@ for i in range(0, nfiles):
 
 This script lists the contents of a directory, but first says how many files are in the directory, and then prints each one preceded by its number.
 
-The key line here is `files = subprocess.Ppopen( "ls %s" % directory, "r" )`. The string contained in the string `"ls %s" % directory` is executed, and returned as a virtual filehandle. Like normal filehandles, you can get all of the lines by using the `readlines` function. Note that the newline (`\n`) character is left on the end of each output line. Use the `rstrip()` command if you want to remove the newline character, e.g. `files[i].rstrip()`.
+The key line here is `files = subprocess.check_output( "ls %s" % directory, shell=True)`. The string contained in the string `"ls %s" % directory` is executed, and then we get something called a bytestring returned which we can open up and format.
 
 **Note:** If you just want to get a list of files using Python, there is a much simpler way, as follows:
 
