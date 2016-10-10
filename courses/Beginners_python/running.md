@@ -11,7 +11,7 @@ import subprocess
 
 directory = sys.argv[1]
 
-subprocess.call( "ls %s" % directory )
+subprocess.call( "ls %s" % directory, shell=True)
 ```
 
 This is a simple script that just lists the contents of a directory. The key line is `subprocess.call("ls %s" % directory)`. The system command (part of the os module) is passed a string, and executes the value of that string in pretty much exactly the same way that the same text would have been executed if you had typed it yourself at the command line. The output of the command is printed to the screen.
