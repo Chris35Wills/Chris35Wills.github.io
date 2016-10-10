@@ -14,7 +14,7 @@ Below is a very brief tutorial that covers the most important aspects of the pac
 
 ## Toy weather data
 
-The file weather.csv contains a few days of selected weather data from Solheimajokull, a glacier in southern Iceland.
+The file [weather.csv](weather.csv) contains a few days of selected weather data from Solheimajokull, a glacier in southern Iceland.
 
 We're going to use it as an example dataset for Pandas. In this case, the data are labelled with dates and times, but you don't have to use Pandas like this - you can load up any tabulated data you like.
 
