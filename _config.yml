@@ -31,8 +31,7 @@ footer-links:
   #stackoverflow: users/3407179/chriswills
 
 # Your disqus shortname, entering this will enable commenting on posts
-# disqus: chris35wills.disqus.com 
-# disqus_8jF8OTw1FD
+# disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-43822493-1
@@ -51,16 +50,24 @@ google_analytics: UA-43822493-1
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
-highlighter: rouge # see https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors.
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.0.0
+version: v1.1.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  sass_dir: _scss
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins

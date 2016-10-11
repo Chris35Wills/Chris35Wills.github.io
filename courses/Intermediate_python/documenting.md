@@ -3,7 +3,7 @@
 
 # Documenting Code
 
-In the previous sessions you learned how to package code into functions and to package functions into modules (also called libraries). Functions and modules let you easily design, write and package your code so that it is easy to understand and easily reusable. However, to share the code, and really understand what it works, you need to add documentation.
+In the previous sessions you learned how to package code into functions and to package functions into modules (also called libraries). Functions and modules let you easily design, write and package your code so that it is easy to understand and easily reusable. However, to share the code and to provide information detailing how the code works and what it does, you need to add documentation.
 
 You have already seen documentation using python `help()`. For example, lets look at the documentation for the `sys` module that have used. To do this, start a new `ipython` session and type;
 

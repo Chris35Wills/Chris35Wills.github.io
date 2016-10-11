@@ -18,7 +18,9 @@ nano foo.txt
 
 This will open up the nano editor. You can just type as normal now, moving up and down using the cursors or the enter key. 
 
-NB/ You will see at the bottom of the editor a number of options e.g. *^X Exit*. The *^* symbol represents the <kbd>Ctrl</kbd> key.
+NB 1/ You will see at the bottom of the editor a number of options e.g. *^X Exit*. The *^* symbol represents the <kbd>Ctrl</kbd> key.
+
+NB 2/ If you are using Git Bash and after typing ```nano foo.txt``` you receive an error like *Redirection is not supported*, then try typing ```winpty nano foo.txt``` instead.
 
 Once you have typed in some text and are ready to leave nano, use the <kbd>Ctrl</kbd> + <kbd>x</kbd> keys. This will bring up an option at the bottom saying *Save modified buffer?*. Now press the <kbd>Y</kbd> key - you will now have an option of modifying what to call the saved output. Change or keep this and just press <kbd>enter</kbd>. To cancel and go back to editing the file, just press <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
