@@ -25,7 +25,7 @@ Let's use the Pandas function that loads CSV files into a Pandas DataFrame:
 
 ```python
 import pandas as pd
-weather = pd.read_csv('weather.csv', index_col='Date', parse_dates='True')
+weather = pd.read_csv('weather.csv', index_col='Date', parse_dates=True)
 ```
 
 Take a quick look at what the dataset contains:
