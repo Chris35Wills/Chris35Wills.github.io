@@ -29,6 +29,8 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [Intermediate Python\*](Intermediate_python/README)
 
+[Python for Data Analysis](pydata_stack)
+
 [Packages - Matplotlib: scratching the surface](PythonPackages_matplotlib/README_matplotlib)
 
 [Packages - Numpy: scratching the surface](PythonPackages_numpy/README_numpy)
