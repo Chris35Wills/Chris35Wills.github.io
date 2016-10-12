@@ -39,7 +39,6 @@ Let's take a quick look at what the dataset contains:
 weather.head()
 ```
 ```
-Out[23]: 
                      AirTemp  Humidity  WindSpd
 Date                                           
 2013-08-28 17:00:00     12.1      63.8      0.3
@@ -52,7 +51,27 @@ Date
 
 The `head()` command shows us the structure of the dataset and the first few lines of data. Here we can see that we have three columns: Air Temperature, Humidity and Wind Speed. These are all indexed, or labelled, together by Date.
 
-Let's look at the air temperatures first:
+We can calculate some summary statistics for the whole dataset:
+
+```python
+weather.describe()
+```
+```
+          AirTemp    Humidity     WindSpd
+count  292.000000  292.000000  292.000000
+mean     8.253767   75.866781    2.757192
+std      1.627139   10.426909    2.199402
+min      4.500000   45.100000    0.300000
+25%      7.200000   68.800000    0.700000
+50%      8.100000   75.850000    2.250000
+75%      9.225000   84.675000    4.400000
+max     18.400000   91.400000    8.500000
+
+```
+
+From the output above we can see that the dataset has 292 rows. The mean air temperature during the period of observations is 8.3 degrees celsius. Humidity has a standard deviation of 10.4 %. The maximum wind speed observed was 8.5 metres per second.
+
+Let's plot the time series of air temperatures:
 
 ```python
 weather['AirTemp'].plot()
@@ -69,7 +88,7 @@ Now close the window.
 You can pull out bits of data by date or time. Let's just look at the data for 29 August 2013:
 
 ```python
-print(weather['2013-08-29'])
+weather['2013-08-29']
 ```
 ```
                      AirTemp  Humidity  WindSpd
@@ -83,10 +102,29 @@ Date
 2013-08-29 23:30:00      9.9      90.9      2.7
 ```
 
-Or you can pull out a range of dates and times, in this case just for 6 hours of the 29th Aug:
+You can chain the indexing with `.describe()` to get summary statistics about just this portion of the dataset:
 
 ```python
-print(weather['2013-08-29 15:00':'2013-08-29 21:00'])
+weather['2013-08-29'].describe()
+```
+```
+         AirTemp   Humidity    WindSpd
+count  48.000000  48.000000  48.000000
+mean    8.552083  83.787500   1.808333
+std     0.976313   6.961769   0.684116
+min     6.600000  71.200000   0.600000
+25%     7.900000  76.425000   1.275000
+50%     8.500000  88.150000   1.800000
+75%     9.300000  89.550000   2.300000
+max    10.200000  91.100000   3.100000
+```
+
+We can see that 48 observations were made on 29 August and that the maximum air temperature was 10.2 degrees celsius.
+
+Or we can pull out a range of dates and times, in this case just for 6 hours of the 29th Aug:
+
+```python
+weather['2013-08-29 15:00':'2013-08-29 21:00']
 ```
 ```
                      AirTemp  Humidity  WindSpd
