@@ -7,7 +7,7 @@
 
 Python has evolved to be a great platform for data analysis. There is a whole 'ecosystem' or stack of packages which together provide a comprehensive toolkit for most kinds of data analysis.
 
-![The main components of the PyData stack](pydata_stack.png)
+![The main components of the PyData stack](../pydata_stack.png)
 
 During the Beginner and Intermediate courses we have just been using the two things on the bottom row of our stack: Python and IPython.
 
