@@ -29,9 +29,13 @@ To get you started with minimal hassle, check out the setup guide below...
 
 [Intermediate Python\*](Intermediate_python/README)
 
+[Python for Data Analysis](pydata_stack)
+
 [Packages - Matplotlib: scratching the surface](PythonPackages_matplotlib/README_matplotlib)
 
 [Packages - Numpy: scratching the surface](PythonPackages_numpy/README_numpy)
+
+[Packages - Pandas: a quick introduction](PythonPackages_pandas/)
 
 *\* materials modified directly from [www.chryswoods.com](http://chryswoods.com/) - please refer to his [website](http://chryswoods.com/) for the original materials*
 
