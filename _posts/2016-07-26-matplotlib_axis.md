@@ -61,7 +61,7 @@ divider = make_axes_locatable(ax2)
 cax = divider.append_axes("right", size="5%", pad=0.1)
 ```
 
-As we don;t want a colorbar on this particular subaxis, make stuff on the new axis invisible:
+As we don't want a colorbar on this particular subaxis, make stuff on the new axis invisible:
 
 ```python
 cax.set_axis_bgcolor('none')
