@@ -18,7 +18,7 @@ permalink: /publications/
 
 - [Swindles, G., Reczuga, M., Lamentowicz, M., Raby, C., Turner, T., Charman, D., Gallego-Sala, A.,Valderrama, E., Williams, C., Draper, F., Coronado, E., Roucoux, K., Baker, T. & Mullan, D., (2014). Ecology of Testate Amoebae in an Amazonian Peatland and Development of a Transfer Function for Palaeohydrological Reconstruction. Microbial Ecology, DOI:10.1007/s00248-014-0378-5](http://eprints.whiterose.ac.uk/79110/)
 
-- Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.
+- [Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.](http://etheses.whiterose.ac.uk/5770)
 
 - [Rippin, D.M., Carrivick, J.L., Williams, C., (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
 
