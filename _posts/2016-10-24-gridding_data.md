@@ -130,10 +130,6 @@ And looks like:
 
 NB/ Remember that Python considers the grid origin to be the top left corner - if -800 (x) and -3400 (y) were actually the bottom left corner of the grid, you would want to flip the resultant grid i.e. `grid[::-1]`. This is why the values on the plot above are flipped compared to the earlier scatter of the input points. A flipped array looks like the below (the numpy indicies have been left on though to illustrate numpys top left origin).
 
-## IMAGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-#plt.imshow(grid[::-1], interpolation='none')
-#plt.colorbar()
-#plt.show(block=False)
 ![Regular points to grid flipped- Python]({{ site.baseurl }}/images/gridding_post/python_numpy_grid_reg_pnts_flipped.png "Regular points to grid flipped - Python")
 
 To output the numpy array to a raster (e.g. a geotiff), you need to make use of the [gdal python bindings](https://pcjericks.github.io/py-gdalogr-cookbook/raster_layers.html). 
