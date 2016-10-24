@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Creating a DEM from irregular or regularly spaced points
+title: Creating a DEM from regularly / irregularly spaced points
 ---
 
 DEMs (raster format) are created from point elevation observations. When working with a DEM, it is important to be aware that the values of a given cell are the result of some processing step that converted point elevations to a value at that location. Point data can be regularly (e.g. every 10 m along north and east directions) or irregularly spaced (i.e. all over the place). Different approaches are taken to convert these points to a DEM raster. 
 
-Unless you have all of the information regarding how a DEM was created (including estimates of uncertainty), you can only be truly confident in the values of a DEM if you do the point to raster conversion yourself. This is often glosssed over. 
+Unless you have all of the information regarding how a DEM was created (including estimates of uncertainty), you can only be truly confident in the values of a DEM if you do the point to raster conversion yourself. This is often glossed over. 
 
-This process can be carried out using various tools (python, gdal etc.) but I find the most succinct approach is to use the excellent libraries from R, namley [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) and [sp](ftp://cran.r-project.org/pub/R/web/packages/sp/sp.pdf). 
+This process can be carried out using various tools (python, gdal etc.) but I find the most succinct approach is to use the excellent libraries from R, namely [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) and [sp](ftp://cran.r-project.org/pub/R/web/packages/sp/sp.pdf). 
 
 Note that there is a difference between interpolating a surface from points -- interpolating values at locations where observations are not available -- and creating a gridded representation of a point dataset. In the latter case, where data are not available, a grid cell will not have a value. 
 
@@ -52,7 +52,7 @@ Which gives:
 
 ![Regular points to raster - R]({{ site.baseurl }}/images/gridding_post/reg_pnts_raster.jpg "Regular points to raster - R")
 
-Equally, you can compute the cell indicies and assigning them with values:
+Equally, you can compute the cell indices and assigning them with values:
 
 ```R
 r3 <- raster(nrow=10, ncol=10, xmn=0, xmx=10, ymn=0, ymx=10) 		# create empty raster
@@ -101,7 +101,7 @@ Our points look like:
 
 ![Regular points - Python]({{ site.baseurl }}/images/gridding_post/python_reg_pnts.png "Regular points - Python")
 
-Now we set the origin and convert the (x,y) coordinates to grid verticies:
+Now we set the origin and convert the (x,y) coordinates to grid vertices:
 
 ```python
 x0=-800 	# x origin
@@ -109,8 +109,8 @@ y0=-3400 	# y origin
 dy=100 		# y cell size
 dx=100 		# x cell size
 
-i = ((y - y0) / dy).astype(int) # y locations as grid indicies
-j = ((x - x0) / dx).astype(int) # x locations as grid indicies
+i = ((y - y0) / dy).astype(int) # y locations as grid indices
+j = ((x - x0) / dx).astype(int) # x locations as grid indices
 
 grid = np.nan * np.empty((len(y)/2,len(x)/2)) # numpy arrays read (y,x) not (x,y)!
 grid[i,j] = z
@@ -128,7 +128,7 @@ And looks like:
 
 ![Regular points to grid - Python]({{ site.baseurl }}/images/gridding_post/python_numpy_grid_reg_pnts.png "Regular points to grid - Python")
 
-NB/ Remember that Python considers the grid origin to be the top left corner - if -800 (x) and -3400 (y) were actually the bottom left corner of the grid, you would want to flip the resultant grid i.e. `grid[::-1]`. This is why the values on the plot above are flipped compared to the earlier scatter of the input points. A flipped array looks like the below (the numpy indicies have been left on though to illustrate numpys top left origin).
+NB/ Remember that Python considers the grid origin to be the top left corner - if -800 (x) and -3400 (y) were actually the bottom left corner of the grid, you would want to flip the resultant grid i.e. `grid[::-1]`. This is why the values on the plot above are flipped compared to the earlier scatter of the input points. A flipped array looks like the below (the numpy indices have been left on though to illustrate numpy's top left origin).
 
 ![Regular points to grid flipped- Python]({{ site.baseurl }}/images/gridding_post/python_numpy_grid_reg_pnts_flipped.png "Regular points to grid flipped - Python")
 
@@ -136,7 +136,7 @@ To output the numpy array to a raster (e.g. a geotiff), you need to make use of 
 
 ## Irregularly gridded points
 
-Often, your data won't be regularly spaced. Now you need to consider methods specically dealing with this, including the conversion of your points tp regularly gridded data, which will require averaging or some sort of function. What if multiple points fall within the area of a raster cell?
+Often, your data won't be regularly spaced. Now you need to consider methods specifically dealing with this, including the conversion of your points to regularly gridded data, which will require averaging or some sort of function. What if multiple points fall within the area of a raster cell?
 
 ### R Code
 
