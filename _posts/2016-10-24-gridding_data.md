@@ -41,7 +41,7 @@ xyz <- rasterToPoints(r) 											# create regularly gridded points
 
 Which look like:
 
-![Regular points - R]({{ site.baseurl }}/images/gridding_post/reg_pnts_r.eps "Regular points - R")
+![Regular points - R]({{ site.baseurl }}/images/gridding_post/reg_pnts_r.png "Regular points - R")
 
 ```R
 # create raster from points
@@ -50,7 +50,7 @@ r2 <- rasterFromXYZ(xyz)
 
 Which gives:
 
-![Regular points to raster - R]({{ site.baseurl }}/images/gridding_post/reg_pnts_raster.eps "Regular points to raster - R")
+![Regular points to raster - R]({{ site.baseurl }}/images/gridding_post/reg_pnts_raster.png "Regular points to raster - R")
 
 Equally, you can compute the cell indicies and assigning them with values:
 
