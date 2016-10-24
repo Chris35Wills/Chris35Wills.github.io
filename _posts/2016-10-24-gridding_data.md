@@ -165,7 +165,7 @@ writeRaster(rasOut, fout, format="GTiff")
 
 ### Python equivalent...
 
-The equivalent in python can again be achieved using [numpy](http://www.numpy.org/) a fantastic overview of the process again available from [Joe Kington](http://stackoverflow.com/users/325565/joe-kington) [here](http://stackoverflow.com/questions/30764955/python-numpy-create-2d-array-of-values-based-on-coordinates). To summarize, irregular points can be binned onto a grid through use of numpy's histogram function:
+The equivalent in python can again be achieved using [numpy](http://www.numpy.org/) a fantastic overview of the process again available [here](http://stackoverflow.com/questions/30764955/python-numpy-create-2d-array-of-values-based-on-coordinates) from [Joe Kington](http://stackoverflow.com/users/325565/joe-kington). To summarize, irregular points can be binned onto a grid through use of numpy's histogram function:
 
 ```python
 import numpy as np
