@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a DEM from regularly / irregularly spaced points
+title: Creating a DEM from regularly / irregularly spaced points (R and Python)
 ---
 
 DEMs (raster format) are created from point elevation observations. When working with a DEM, it is important to be aware that the values of a given cell are the result of some processing step that converted point elevations to a value at that location. Point data can be regularly (e.g. every 10 m along north and east directions) or irregularly spaced (i.e. all over the place). Different approaches are taken to convert these points to a DEM raster. 
