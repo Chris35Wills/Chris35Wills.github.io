@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+## Submitted / In review
+
+- [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (in review) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere Discuss. DOI:10.5194/tc-2016-207](http://www.the-cryosphere-discuss.net/tc-2016-207/)
+
 ## Published
 
 - [Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (2016) An ice-sheet wide framework for englacial attenuation from ice penetrating radar data. The Cryosphere. 10, 1547-1570. DOI:10.5194/tc-2016-8](http://www.the-cryosphere.net/10/1547/2016/)
@@ -22,15 +26,13 @@ permalink: /publications/
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
-## Submitted / In review
-
-- Williams, C.N., Cornford, S.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M., Clark, C.D., Swift, D.A., Sole, A., Fenty, I. and Bamber, J.L. (submitted) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere.
-
 ## In preparation
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
 
 ## Spoken and poster presentations
+
+- Williams, C., Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016 ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
 
 - Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K. and Paden, J., A hydrologically inspired approach to predicting fjord bedrock elevation at the ice-ocean interface of the Greenland Ice Sheet (EGU, Vienna 2016 ([download abstract](../papers/EGU2016_abstract.pdf)))  
 
