@@ -76,6 +76,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## Geospatial related analyses
 
+[Intro to planetary-scale geospatial analyses](https://developers.google.com/earth-engine/)
+
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
 
 [Mosaic (Hermite) function application in ARC](http://resources.esri.com/help/9.3/ArcGISengine/java/gp_toolref/spatial_analyst_tools/how_mosaic_works.htm)
@@ -89,8 +91,6 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [FTs with a smoothie analogy](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 [Implementation of a 1D FT using a combined sine wave in Python](https://plot.ly/matplotlib/fft/)
-
-[Intro to planetary-scale geospatial analyses](https://developers.google.com/earth-engine/)
 
 ## Related to this website
 
