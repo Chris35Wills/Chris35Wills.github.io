@@ -74,7 +74,7 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Applied Spatial Data Analysis with R](http://www.springer.com/us/book/9781461476177)
 
-## GIS
+## Geospatial related analyses
 
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
 
@@ -90,6 +90,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Implementation of a 1D FT using a combined sine wave in Python](https://plot.ly/matplotlib/fft/)
 
+[Intro to planetary-scale geospatial analyses](https://developers.google.com/earth-engine/)
+
 ## Related to this website
 
 [Github pages](https://pages.github.com/)
@@ -100,4 +102,4 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Jekyll cheat sheet](http://cheat.jekyll.tips/)
 
-[Creating a github website with jekyll](http://jmcglone.com/guides/github-pages/)]
+[Creating a github website with jekyll](http://jmcglone.com/guides/github-pages/)
