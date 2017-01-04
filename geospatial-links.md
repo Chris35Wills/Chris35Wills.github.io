@@ -12,11 +12,15 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Raster data in R - another take](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS1_SpatialDataTypes_part2_rasterData.html)
 
+[Raster data in R - yet another take](https://geoscripting-wur.github.io/IntroToRaster/)
+
 [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/)
 
 [Geospatial data in R and beyond!](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/static/talk1.pdf)
 
 [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf)
+
+[Mapping in R using the ggplot2 package](http://zevross.com/blog/2014/07/16/mapping-in-r-using-the-ggplot2-package/)
 
 [ArcGIS to R cheatsheet](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzZWFzY2FwZW1vZGVsbGluZ3xneDozMGZlZjdmNjVmYjU4ODYx)
 
