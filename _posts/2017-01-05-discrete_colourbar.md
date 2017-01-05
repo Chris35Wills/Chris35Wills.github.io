@@ -10,7 +10,6 @@ When making maps or plots of spatial data (or any data really), colour bars are 
 
 Fortunately, [colorbrewer](http://colorbrewer2.org/) has got you covered - if you haven't visited the website do so now and thank me later :) Furthermore, on choosing colour schemes in say QGIS, many of the colour palettes in colorbrewer are implemented. If not, you can use the HEX, RGB or CMYK codes to set your map colours specifically. 
 
-
 A particularly time consuming element I find is creating a visually pleasing and clear colour bar. Perhaps this is largely to my dislike of the colour bars that come along with Arc and QGIS. The approach detailed below allows you to specifically set your ticks and the colours for each category using Python's [matplotlib](http://matplotlib.org/).
 
 For this example, say we have a range of values from -500 to 2000 m, with an interval of 500 m. That is 6 values, representing 5 categories (i.e. -500 -- 0, 0 -- 500 ... 1500 -- 2000). We are going to create a horizontal colour bar. To begin, we are going to import some elements from matplotlib:
@@ -20,7 +19,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 ```
 
-*Non-essential* **but** if you want to specifically set the font size and type, you can temporarily overwrite you [matplotlib rc settings](http://matplotlib.org/users/customizing.html) like this:
+**Non-essential** *but* if you want to specifically set the font size and type, you can temporarily overwrite you [matplotlib rc settings](http://matplotlib.org/users/customizing.html) like this:
 
 ```python
 mpl.rcParams.update({'font.size': 22})
@@ -95,7 +94,7 @@ fig=plt.figure(figsize=(3,8))
 cb = mpl.colorbar.ColorbarBase(ax, cmap=cmap,
                                 norm=norm,
                                 spacing='uniform',
-								orientation='vertical',
+                                orientation='vertical',
                                 extend='neither',
                                 ticks=vals)
 
