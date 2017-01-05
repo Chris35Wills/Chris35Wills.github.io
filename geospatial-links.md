@@ -14,6 +14,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Raster data in R - yet another take](https://geoscripting-wur.github.io/IntroToRaster/)
 
+[Robin Lovelace - lots of useful SPATIAL things](http://robinlovelace.net/r/2014/07/29/clipping-with-r.html)
+
 [Spatial data in R: Using R as a GIS](https://pakillo.github.io/R-GIS-tutorial/)
 
 [Geospatial data in R and beyond!](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/static/talk1.pdf)
@@ -72,6 +74,12 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [Extending info on spatial data fields](http://geostat-course.org/system/files/geostat13_spatinterPM.pdf)
 
+[Geostatics intro (R)](http://rstudio-pubs-static.s3.amazonaws.com/10213_8c02d102993942a88574e44abdf3a235.html)
+
+[Spatial interpolation of geographical data in R](http://www.geo.ut.ee/aasa/LOOM02331/R_idw_interpolation.html)
+
+[Variography with gstat and ggplot2](https://www.r-bloggers.com/variography-with-gstat-and-ggplot2/)
+
 [A Practical Guide To Geospatial Mapping](http://spatial-analyst.net/book/system/files/Hengl_2009_GEOSTATe2c1w.pdf)
 
 [A Practical Guide to Geostatistical Mapping of Environmental Variables](http://eusoils.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/other/EUR22904en.pdf)
@@ -85,6 +93,14 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
 
 [Mosaic (Hermite) function application in ARC](http://resources.esri.com/help/9.3/ArcGISengine/java/gp_toolref/spatial_analyst_tools/how_mosaic_works.htm)
+
+## Cartography
+
+[Introduction to visualising spatial data](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
+
+[Creating maps in R](https://github.com/Robinlovelace/Creating-maps-in-R)
+
+[7 Deadly Sins of (Academic) Data Visualisation](http://spatial.ly/2016/10/7-deadly-sins-data-visualisation/)
 
 ## Help with Fourier Transform applications
 	
