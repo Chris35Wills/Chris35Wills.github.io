@@ -6,9 +6,12 @@ permalink: /publications/
 
 ## Submitted / In review
 
-- [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (in review) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere Discuss. DOI:10.5194/tc-2016-207](http://www.the-cryosphere-discuss.net/tc-2016-207/)
+- [Jordan, T. M., Cooper, M. A., Schroeder, D. M., Williams, C. N., Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere Discussions. DOI:10.5194/tc-2016-283](http://www.the-cryosphere-discuss.net/tc-2016-283/)
+
 
 ## Published
+
+- [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (2017) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere. DOI:10.5194/tc-11-363-2017](http://www.the-cryosphere.net/11/363/2017/tc-11-363-2017.html)
 
 - [Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (2016) An ice-sheet wide framework for englacial attenuation from ice penetrating radar data. The Cryosphere. 10, 1547-1570. DOI:10.5194/tc-2016-8](http://www.the-cryosphere.net/10/1547/2016/)
 
