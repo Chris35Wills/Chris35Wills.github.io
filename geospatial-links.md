@@ -30,6 +30,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [R vs. Python Numpy equivalents](http://mathesaurus.sourceforge.net/r-numpy.html)
 
+[ggplot2-cheatsheet](http://rforpublichealth.blogspot.co.uk/2013/11/ggplot2-cheatsheet-for-scatterplots.html)
+
 ## Python 
 
 [NumPy Basics: Arrays and Vectorized Computation](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html) < Data processing using arrays section is very useful
