@@ -14,6 +14,10 @@ If it has a spatial component, it has my attention - ice, flora, fauna...
 
 - Automated crevasse mapping routines and application in Greenland and Iceland (Python based)
 
+## Project summaries
+
+[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](../research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY.md)
+
 ## Additional interests (things I'm keen to get more involved with)
 
 - Open source GIS tools for crowd source disaster management and response ([here](http://www.wired.com/2015/05/the-open-source-maps-that-made-rescues-in-nepal-possible/) is a WIRED article on such tools as used following the Nepal earthquake)
