@@ -8,7 +8,7 @@ If it has a spatial component, it has my attention - ice, flora, fauna...
 
 ## Project summaries
 
-[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
+[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](../research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
 
 *Summaries of other past projects coming soon...*
 
