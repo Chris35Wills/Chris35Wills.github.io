@@ -241,10 +241,6 @@ nav {
 // .main
 //
 
-.text-justify {
-  text-align: justify;
-}
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -263,6 +259,7 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+    text-align: justify;
   }
 
   .comments {
