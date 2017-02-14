@@ -16,7 +16,7 @@ If it has a spatial component, it has my attention - ice, flora, fauna...
 
 ## Project summaries
 
-[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](../research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY.md)
+[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY.md)
 
 ## Additional interests (things I'm keen to get more involved with)
 
