@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Creating topography - synthetic fjords 
-permalink: /research/
 ---
 
 We recently published a paper on [developing synthetic fjord bathymetry in the absence of observations](http://www.the-cryosphere.net/11/363/2017/). Before giving a summary of the paper, lets cover some background which may answer questions such as "why is synthetic bathymetry required", "why not just provide real bathymetry" or even "why make it up?"
