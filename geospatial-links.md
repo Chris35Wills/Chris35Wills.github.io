@@ -8,6 +8,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## R 
 
+[R spatial data manipulation](http://rspatial.org/spatial/index.html)
+
 [Raster Data in R - The Basics](http://neondataskills.org/R/Raster-Data-In-R/)
 
 [Raster data in R - another take](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS1_SpatialDataTypes_part2_rasterData.html)
@@ -49,6 +51,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [Useful pandas technqiues](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
 
 ### Geospatial (various languages)
+
+[Gridding with GMT](http://www-udc.ig.utexas.edu/external/becker/teaching/unix/rome/lecture5_gmt_gridding.pdf)
 
 [K nearest neighbours in Python](https://www.dataquest.io/blog/k-nearest-neighbors-in-python/)
 
