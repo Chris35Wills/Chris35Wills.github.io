@@ -36,7 +36,7 @@ permalink: /publications/
 
 - M. Morlighem, C. N. Williams, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
 
-- Williams, C., Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016 ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
+- Williams, C., Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016) ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
 
 - Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K. and Paden, J., A hydrologically inspired approach to predicting fjord bedrock elevation at the ice-ocean interface of the Greenland Ice Sheet (EGU, Vienna 2016 ([download abstract](../papers/EGU2016_abstract.pdf)))  
 
