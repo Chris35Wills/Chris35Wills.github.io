@@ -8,7 +8,6 @@ permalink: /publications/
 
 - [Jordan, T. M., Cooper, M. A., Schroeder, D. M., Williams, C. N., Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere Discussions. DOI:10.5194/tc-2016-283](http://www.the-cryosphere-discuss.net/tc-2016-283/)
 
-
 ## Published
 
 - [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (2017) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere. DOI:10.5194/tc-11-363-2017](http://www.the-cryosphere.net/11/363/2017/tc-11-363-2017.html)
@@ -31,16 +30,17 @@ permalink: /publications/
 
 ## In preparation
 
-- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Two dimensional crevasse orientation and spacing mapping using a Fourier transform approach (target journal: Earth Surface Processes and Landforms).
+- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
 
 ## Spoken and poster presentations
+
+- M. Morlighem, C. N. Williams, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
 
 - Williams, C., Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016 ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
 
 - Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K. and Paden, J., A hydrologically inspired approach to predicting fjord bedrock elevation at the ice-ocean interface of the Greenland Ice Sheet (EGU, Vienna 2016 ([download abstract](../papers/EGU2016_abstract.pdf)))  
 
 - Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Hurkmans, R., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K., Paden, J., A novel approach to improving the reconstruction of bed elevation with special consideration of bathymetry at the ice/ocean interface of the Greenland ice sheet (AGU, San Francisco 2015 ([see abstract](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/69688)))  
-
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Surface observations and crevasse evolution at high resolution: Greenland tidewater glaciers (International Glaciological Society British Branch meeting, Bristol, September 2014).
 
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Calving observations at high resolution from a Greenland tidewater glacier (International Glaciological Society Symposium, Chamonix, May 2014).
