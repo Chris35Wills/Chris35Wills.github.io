@@ -6,9 +6,11 @@ permalink: /publications/
 
 ## Submitted / In review
 
-- [Jordan, T. M., Cooper, M. A., Schroeder, D. M., Williams, C. N., Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere Discussions. DOI:10.5194/tc-2016-283](http://www.the-cryosphere-discuss.net/tc-2016-283/)
+[Morlighem, M.; Williams, C.; Rignot, E.; An, L.; Bamber, J. L.; Chauché, N.; Dowdeswell, J. A.; Fenty, I.; Hubbard, A.; Jakobsson, M.; Jordan, T. M.; Kjeldsen, K. K.; Millan, R.; Mouginot, J.; Noël, B. P. Y.; Ó Cofaigh, C.; Palmer, S.; Seroussi, H.; Siegert, M. J.; Slabon, P.; Straneo, F.; Van den Broeke, M. R.; Weinrebe, R. W. & Wood, M. BedMachine v3: Complete bed topography and ocean bathymetry mapping of Greenland from multi-beam echo sounding combined with mass conservation.](http://sites.uci.edu/morlighem/dataproducts/bedmachine-greenland/)
 
 ## Published
+
+- [Jordan, T. M., Cooper, M. A., Schroeder, D. M., Williams, C. N., Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere. DOI:10.5194/tc-11-1247-2017](http://www.the-cryosphere.net/11/1247/2017/tc-11-1247-2017.html)
 
 - [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (2017) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere. DOI:10.5194/tc-11-363-2017](http://www.the-cryosphere.net/11/363/2017/tc-11-363-2017.html)
 
