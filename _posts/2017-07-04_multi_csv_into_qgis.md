@@ -3,7 +3,7 @@ layout: post
 title: Add multiple csv files to QGIS quickly...
 ---
 
-I often find myself with csv files that I'd like to visualise quickly in QGIS. If these were shape files, it is quick  and easy to load multiple files at once. This isn't the case with csv files as you have to set the columns etc. on a file by file basis. A bit of python enables you to do this quickly. This detailed fully  [here](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/loadlayer.html) but the below info provides a snippet.
+I often find myself with csv files that I'd like to visualise quickly in QGIS. If these were shape files, it is quick  and easy to load multiple files at once. This isn't the case with csv files as you have to set the columns etc. on a file by file basis. A bit of python enables you to do this quickly. This detailed fully [here](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/loadlayer.html) but the below info provides a snippet.
 
 First, in your QGIS session, open up the python console.
 
@@ -37,7 +37,7 @@ We can now open up these layer by creating a QgsVectorLayer object - we add attr
 ```
 On running this in the console, if you don't set the coordinate system (crs) as part of the *uri* variable definition, you will be prompted to set the coordinate system for each file.
 
-Finally, we add them to QGIS - 
+Finally, we add them to QGIS: 
 
 ```python
 QgsMapLayerRegistry.instance().addMapLayers(layers)
