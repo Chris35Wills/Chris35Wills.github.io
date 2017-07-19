@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="grid_with_points_labelled.pdf">
+   sodipodi:docname="fig_development.svg">
   <defs
      id="defs4">
     <marker
@@ -122,15 +122,6 @@
          stdDeviation="2.5111649"
          id="feGaussianBlur32034" />
     </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter32032-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.5111649"
-         id="feGaussianBlur32034-8" />
-    </filter>
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
@@ -235,9 +226,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83236964"
-     inkscape:cx="657.03942"
-     inkscape:cy="-346.07724"
+     inkscape:zoom="1.3997466"
+     inkscape:cx="355.63305"
+     inkscape:cy="571.54459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -275,7 +266,8 @@
        id="g3922"
        inkscape:export-filename="C:\GitHub\Chris35Wills.github.io\images\synth_fjord_post\tent_pole_surface.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       transform="matrix(0.60226954,0,0,0.60226954,42.795798,71.576441)">
       <rect
          y="182.36218"
          x="260"
@@ -365,7 +357,7 @@
            id="tspan3842"
            y="519.36218"
            x="569.22656"
-           sodipodi:role="line">rasises the 'surface'</tspan></text>
+           sodipodi:role="line">raises the 'surface'</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3838-5"
