@@ -10,7 +10,7 @@ permalink: /
 
 Following work as a glaciology researcher over the past few years, I am now working at the British Geological Survey. I’ve a keen interest in geospatial problem solving and environmental spatio-temporal relationships. Check out my [blog](../blog) for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
 
-*All views expressed on this website are my own*
+*All views expressed on this website are my own.*
 
 **Past projects include:**
 
