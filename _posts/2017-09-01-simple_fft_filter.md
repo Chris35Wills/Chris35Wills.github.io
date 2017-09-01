@@ -5,7 +5,7 @@ categories: Python
 tags: FFT signal
 ---
 
-A component of a signal can easily be removed by using the Fast Fourier Transform (and its inverse) - in Python, this is easily implemented using Numpy. The code below zeros out parts of the FFt - this should be done with caution and is discussed in the various threads you can find [here](https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins). Martin put together a function to smooth the FFT (based on [Moisan, 2011](https://link.springer.com/article/10.1007/s10851-010-0227-1)) which can help with this [here](https://github.com/mewo2/smoothfft).
+A component of a signal can easily be removed by using the Fast Fourier Transform (and its inverse) - in Python, this is easily implemented using numpy. The code below zeros out parts of the FFT - this should be done with caution and is discussed in the various threads you can find [here](https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins). Martin put together a function to smooth the FFT (based on [Moisan, 2011](https://link.springer.com/article/10.1007/s10851-010-0227-1)) which can help with this [here](https://github.com/mewo2/smoothfft).
 
 A simple example (take from [here](https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins)):
 
