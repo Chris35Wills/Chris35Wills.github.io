@@ -18,9 +18,9 @@ registerDoParallel(cl)
 
 foreach(i=1:100) %dopar% {
 
-	randomNumber=abs(ceiling(rnorm(1)*100)*-1)
-	outf=paste0("./parallel_test/test_", randomNumber, ".txt")
-	write("testing 1,2,3...", file=outf)
+  randomNumber=abs(ceiling(rnorm(1)*100)*-1)
+  outf=paste0("./parallel_test/test_", randomNumber, ".txt")
+  write("testing 1,2,3...", file=outf)
 
 }
 
@@ -28,6 +28,6 @@ foreach(i=1:100) %dopar% {
 stopCluster(cl)
 
 
-# ... to rerun a parallel loop, you must re-register the cluster using makeCluster()
+# ... to run another parallel loop, you must re-register the cluster using makeCluster()
 ```
 
