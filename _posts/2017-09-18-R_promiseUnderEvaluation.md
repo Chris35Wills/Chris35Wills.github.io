@@ -23,7 +23,7 @@ get_xy<-function(transectName_inst,path=path){
 }
 ```
 
-and then try and use the function with say lapply e.g.
+and then try and use the function with say `lapply` e.g.
 
 ```R
 xy=lapply(transectNames, FUN=get_xy) 
@@ -38,3 +38,4 @@ get_xy<-function(transectName_inst, path = get('original_path', envir = globalen
 ```
 
 which tells `lapply` where to look for the variable `path`. Help and reasoning for this can be found [here](https://stackoverflow.com/questions/45314208/how-to-avoid-promise-already-under-evaluation-warning-for-setting-default-argume) and [here](https://stat.ethz.ch/pipermail/r-help/2008-November/180902.html).
+
