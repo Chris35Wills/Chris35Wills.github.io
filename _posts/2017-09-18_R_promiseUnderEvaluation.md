@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R: promise under evaluation error
+title: Promise under evaluation error (R)
 categories: R
 tags: R, error
 ---
@@ -23,7 +23,7 @@ get_xy<-function(transectName_inst,path=path){
 }
 ```
 
-and then try and use the function is say lapply e.g.
+and then try and use the function with say lapply e.g.
 
 ```R
 xy=lapply(transectNames, FUN=get_xy) 
