@@ -4,27 +4,25 @@ title: Publications
 permalink: /publications/
 ---
 
-## Submitted / In review
-
-[Morlighem, M.; Williams, C.; Rignot, E.; An, L.; Bamber, J. L.; Chauché, N.; Dowdeswell, J. A.; Fenty, I.; Hubbard, A.; Jakobsson, M.; Jordan, T. M.; Kjeldsen, K. K.; Millan, R.; Mouginot, J.; Noël, B. P. Y.; Ó Cofaigh, C.; Palmer, S.; Seroussi, H.; Siegert, M. J.; Slabon, P.; Straneo, F.; Van den Broeke, M. R.; Weinrebe, R. W. & Wood, M. BedMachine v3: Complete bed topography and ocean bathymetry mapping of Greenland from multi-beam echo sounding combined with mass conservation.](http://sites.uci.edu/morlighem/dataproducts/bedmachine-greenland/)
-
 ## Published
 
-- [Jordan, T. M., Cooper, M. A., Schroeder, D. M., Williams, C. N., Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere. DOI:10.5194/tc-11-1247-2017](http://www.the-cryosphere.net/11/1247/2017/tc-11-1247-2017.html)
+M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. E. Arndt, J. L. Bamber, G. Catania, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, K. Hogan, I. Howat, A. Hubbard, M. Jakobsson, T. M. Jordan, K. K. Kjeldsen, R. Millan, L. Mayer, J. Mouginot, B. P. Y. Noël, C. Ó Cofaigh, S. Palmer, S. Rysgaard, H. Seroussi, M. J. Siegert, P. Slabon, F. Straneo , M. R. van den Broeke, W. Weinrebe, M. Wood and K. B. Zinglersen. BedMachine v3: Complete bed topography and ocean bathymetry mapping of Greenland from multi-beam echo sounding combined with mass conservation. Geophysical Research Letters. DOI:10.1002/2017GL074954](http://onlinelibrary.wiley.com/doi/10.1002/2017GL074954/abstract) - [data download](http://nsidc.org/data/IDBMG4)
 
-- [Williams, C. N., Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (2017) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere. DOI:10.5194/tc-11-363-2017](http://www.the-cryosphere.net/11/363/2017/tc-11-363-2017.html)
+- [Jordan, T. M., Cooper, M. A., Schroeder, D. M., **Williams, C. N.**, Paden, J. D., Siegert, M. J., and Bamber, J. L. (2017) Self-affine subglacial roughness: consequences for radar scattering and basal thaw discrimination in northern Greenland. The Cryosphere. DOI:10.5194/tc-11-1247-2017](http://www.the-cryosphere.net/11/1247/2017/tc-11-1247-2017.html)
 
-- [Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (2016) An ice-sheet wide framework for englacial attenuation from ice penetrating radar data. The Cryosphere. 10, 1547-1570. DOI:10.5194/tc-2016-8](http://www.the-cryosphere.net/10/1547/2016/)
+- [**Williams, C. N.**, Cornford, S. L., Jordan, T. M., Dowdeswell, J. A., Siegert, M. J., Clark, C. D., Swift, D. A., Sole, A., Fenty, I., and Bamber, J. L. (2017) Generating synthetic fjord bathymetry for coastal Greenland. The Cryosphere. DOI:10.5194/tc-11-363-2017](http://www.the-cryosphere.net/11/363/2017/tc-11-363-2017.html)
 
-- [Williams, C., Carrivick, J.L., Evans, A.J. and Rippin, D.M. (2016). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, sub-arctic Sweden. Geografiska Annaler: Series A, Physical Geography. 98(1), 61–79. DOI:10.1111/geoa.12123](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12123)
+- [Jordan, T.M., Bamber, J.L., **Williams, C.N.**, Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (2016) An ice-sheet wide framework for englacial attenuation from ice penetrating radar data. The Cryosphere. 10, 1547-1570. DOI:10.5194/tc-2016-8](http://www.the-cryosphere.net/10/1547/2016/)
 
-- [Carrivick, J.L., Berry, K., Geilhausen, M., James, M.H.M., Williams, C., Brown, L.E., Rippin, D.M. and Carver, S.J., (2015). Decadal-scale changes of the Odenwinkelkees, central Austria, suggest increasing control of topography and evolution towards steady state. Geografiska Annaler: Series A, Physical Geography. 97(3), 543–562. DOI:10.1111/geoa.12100](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12100)
+- [**Williams, C.**, Carrivick, J.L., Evans, A.J. and Rippin, D.M. (2016). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, sub-arctic Sweden. Geografiska Annaler: Series A, Physical Geography. 98(1), 61–79. DOI:10.1111/geoa.12123](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12123)
 
-- [Swindles, G., Reczuga, M., Lamentowicz, M., Raby, C., Turner, T., Charman, D., Gallego-Sala, A.,Valderrama, E., Williams, C., Draper, F., Coronado, E., Roucoux, K., Baker, T. & Mullan, D., (2014). Ecology of Testate Amoebae in an Amazonian Peatland and Development of a Transfer Function for Palaeohydrological Reconstruction. Microbial Ecology, DOI:10.1007/s00248-014-0378-5](http://eprints.whiterose.ac.uk/79110/)
+- [Carrivick, J.L., Berry, K., Geilhausen, M., James, M.H.M., **Williams, C.**, Brown, L.E., Rippin, D.M. and Carver, S.J., (2015). Decadal-scale changes of the Odenwinkelkees, central Austria, suggest increasing control of topography and evolution towards steady state. Geografiska Annaler: Series A, Physical Geography. 97(3), 543–562. DOI:10.1111/geoa.12100](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12100)
 
-- [Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.](http://etheses.whiterose.ac.uk/5770)
+- [Swindles, G., Reczuga, M., Lamentowicz, M., Raby, C., Turner, T., Charman, D., Gallego-Sala, A.,Valderrama, E., **Williams, C.**, Draper, F., Coronado, E., Roucoux, K., Baker, T. & Mullan, D., (2014). Ecology of Testate Amoebae in an Amazonian Peatland and Development of a Transfer Function for Palaeohydrological Reconstruction. Microbial Ecology, DOI:10.1007/s00248-014-0378-5](http://eprints.whiterose.ac.uk/79110/)
 
-- [Rippin, D.M., Carrivick, J.L., Williams, C., (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
+- [**Williams, C.** (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.](http://etheses.whiterose.ac.uk/5770)
+
+- [Rippin, D.M., Carrivick, J.L., **Williams, C.**, (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
 
 ## Published code (Open Source)
 
