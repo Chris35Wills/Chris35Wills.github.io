@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+## In preparation
+
+- **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
+
 ## Published
 
 - [M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. E. Arndt, J. L. Bamber, G. Catania, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, K. Hogan, I. Howat, A. Hubbard, M. Jakobsson, T. M. Jordan, K. K. Kjeldsen, R. Millan, L. Mayer, J. Mouginot, B. P. Y. Noël, C. Ó Cofaigh, S. Palmer, S. Rysgaard, H. Seroussi, M. J. Siegert, P. Slabon, F. Straneo , M. R. van den Broeke, W. Weinrebe, M. Wood and K. B. Zinglersen. BedMachine v3: Complete bed topography and ocean bathymetry mapping of Greenland from multi-beam echo sounding combined with mass conservation. Geophysical Research Letters. DOI:10.1002/2017GL074954](http://onlinelibrary.wiley.com/doi/10.1002/2017GL074954/abstract) - [data download](http://nsidc.org/data/IDBMG4)
@@ -28,29 +32,25 @@ permalink: /publications/
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
-## In preparation
-
-- Williams, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
-
 ## Spoken and poster presentations
 
-- M. Morlighem, C. N. Williams, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
+- M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
 
-- Williams, C., Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016) ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
+- **Williams, C.**, Bamber, J.L., Jordan, T.M., Dowdeswell, J.A., Siegert, M.J., Palmer, S.J., Cornford, S.L., Morlighem, M., Fenty, I.G., Willis, J.K., Cochran, J.R., Tinto, K.J., A new bed topography dataset for Greenland out to the continental shelf (AGU, San Francisco 2016) ([see abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/140978))
 
-- Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K. and Paden, J., A hydrologically inspired approach to predicting fjord bedrock elevation at the ice-ocean interface of the Greenland Ice Sheet (EGU, Vienna 2016 ([download abstract](../papers/EGU2016_abstract.pdf)))  
+- **Williams, C.**, Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K. and Paden, J., A hydrologically inspired approach to predicting fjord bedrock elevation at the ice-ocean interface of the Greenland Ice Sheet (EGU, Vienna 2016 ([download abstract](../papers/EGU2016_abstract.pdf)))  
 
-- Williams, C., Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Hurkmans, R., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K., Paden, J., A novel approach to improving the reconstruction of bed elevation with special consideration of bathymetry at the ice/ocean interface of the Greenland ice sheet (AGU, San Francisco 2015 ([see abstract](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/69688)))  
+- **Williams, C.**, Bamber, J., Cochran, J., Cornford, S., Dowdeswell, J., Hurkmans, R., Jordan, T., Morlighem, M., Palmer, S., Siegert, M., Tinto, K., Paden, J., A novel approach to improving the reconstruction of bed elevation with special consideration of bathymetry at the ice/ocean interface of the Greenland ice sheet (AGU, San Francisco 2015 ([see abstract](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/69688)))  
 - Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Surface observations and crevasse evolution at high resolution: Greenland tidewater glaciers (International Glaciological Society British Branch meeting, Bristol, September 2014).
 
-- Williams, C., Luckman, A., O’Leary, M., Murray, T., Benn, D., Calving observations at high resolution from a Greenland tidewater glacier (International Glaciological Society Symposium, Chamonix, May 2014).
+- **Williams, C.**, Luckman, A., O’Leary, M., Murray, T., Benn, D., Calving observations at high resolution from a Greenland tidewater glacier (International Glaciological Society Symposium, Chamonix, May 2014).
 
-- Williams, C., Carrivick, J., Evans, A., Numerical modelling of the effect of changing surface geometry on mountain glacier mass balance (Accepted abstract at AGU 2012, San Francisco, USA).
+- **Williams, C.**, Carrivick, J., Evans, A., Numerical modelling of the effect of changing surface geometry on mountain glacier mass balance (Accepted abstract at AGU 2012, San Francisco, USA).
 
-- Williams, C., Carrivick, J., Evans, A., Carver, S., Changing glacier morphology and glacier mass balance (Leeds University School of Earth and Environment postgraduate Conference, March 2012).
+- **Williams, C.**, Carrivick, J., Evans, A., Carver, S., Changing glacier morphology and glacier mass balance (Leeds University School of Earth and Environment postgraduate Conference, March 2012).
 
-- Williams, C., Carrivick, J., Evans, A., Carver, S., Evaluating mountain glacier change over the 20th and early 21st century utilising a multi-scale approach (International Glaciological Society British Branch meeting, Cambridge, September 2011).
+- **Williams, C.**, Carrivick, J., Evans, A., Carver, S., Evaluating mountain glacier change over the 20th and early 21st century utilising a multi-scale approach (International Glaciological Society British Branch meeting, Cambridge, September 2011).
 
-- Williams, C., Carrivick, J., Evans, A., Carver, S., Effects of changing glacier morphology on glacier mass balance (Leeds University School of Geography postgraduate Conference, March 2011).
+- **Williams, C.**, Carrivick, J., Evans, A., Carver, S., Effects of changing glacier morphology on glacier mass balance (Leeds University School of Geography postgraduate Conference, March 2011).
 
-- Williams, C., Arrell, K., Carrivick, J., Feedbacks between glacier morphology and mass balance (RGS-IBG Annual Conference, September 2010).
+- **Williams, C.**, Arrell, K., Carrivick, J., Feedbacks between glacier morphology and mass balance (RGS-IBG Annual Conference, September 2010).
