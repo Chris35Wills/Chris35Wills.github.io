@@ -37,5 +37,4 @@ get_xy<-function(transectName_inst, path = get('original_path', envir = globalen
 	}
 ```
 
-which tells `lapply` where to look for the variable `path`. Help and reasoning for this can be found [here](https://stackoverflow.com/questions/45314208/how-to-avoid-promise-already-under-evaluation-warning-for-setting-default-argume) and [here](https://stat.ethz.ch/pipermail/r-help/2008-November/180902.html). These go into a bit more depth as to why the variable scope of the function causes the issue.
 
