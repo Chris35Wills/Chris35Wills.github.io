@@ -26,7 +26,7 @@ permalink: /publications/
 
 - [**Williams, C.** (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.](http://etheses.whiterose.ac.uk/5770)
 
-- [Rippin, D.M., Carrivick, J.L., **Williams, C.**, (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
+- [Rippin, D.M., Carrivick, J.L., **Williams, C.**, (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903. DOI:10.3189/002214311798043672](https://www.cambridge.org/core/journals/journal-of-glaciology/article/evidence-towards-a-thermal-lag-in-the-response-of-karsaglaciaren-northern-sweden-to-climate-change/23B7079B89C44482938B774FFBD44FE0)
 
 ## Published code (Open Source)
 
