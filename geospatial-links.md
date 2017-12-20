@@ -8,6 +8,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## R 
 
+[R for Data Science](http://r4ds.had.co.nz/introduction.html)
+
 [R spatial data manipulation](http://rspatial.org/spatial/index.html)
 
 [Raster Data in R - The Basics](http://neondataskills.org/R/Raster-Data-In-R/)
