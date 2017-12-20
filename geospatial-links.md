@@ -110,6 +110,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [7 Deadly Sins of (Academic) Data Visualisation](http://spatial.ly/2016/10/7-deadly-sins-data-visualisation/)
 
+[Adeventures In Mapping](https://adventuresinmapping.com/2017/12/18/hillshade-by-hand/)
+
 ## Help with Fourier Transform applications
 	
 [Implementation with ImageMagick](http://www.imagemagick.org/Usage/fourier/)
