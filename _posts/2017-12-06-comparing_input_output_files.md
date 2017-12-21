@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Comparing input and output files
-categories: Python
-tags: FFT signal
+categories: R
 ---
 
 When running jobs on multiple files, sometimes you might find that files are missed. To ensure that you process ALL files, you can compare your total input files with those already processed using `grep`. Here's an example of implementing this in R. You could couple this with a while loop for a script, making sure the script repeats until input files meet output files... This example assumes that your output files retain the original input file with the addition of an extension (\_output.csv) which we first have to remove.
