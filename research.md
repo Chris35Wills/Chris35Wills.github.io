@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past projects
+title: Research
 permalink: /research/
 ---
 
@@ -8,15 +8,24 @@ If it has a spatial component, it has my attention - ice, flora, fauna...
 
 ## Project summaries
 
-[\*\* Generating synthetic fjord bathymetry for coastal Greenland \*\*](/research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
+[Generating synthetic fjord bathymetry for coastal Greenland](/research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
 
-*Summaries of other past projects coming soon...*
+\*\* BedMachine v3 - a new Greenland bed map \*\* -- *coming soon*
 
 <!--[Ice mass loss over 101 years at Karsaglaciaren, sub-arctic Swewden](research_summaries/karsa_change_SUMMARY)
 
 [Ecology of testate amoebae in an Amazonian peatland](research_summaries/amazon_peatland_SUMMARY)
 -->
 
+## In the news
+
+With the release of the Greenland bed map (BedMachien v3) in 2017, we had some coverage in the press - have a read:
+
+[Der Spiegel (German)](http://www.spiegel.de/wissenschaft/natur/neue-landkarte-so-sieht-groenland-unter-dem-eis-aus-a-1184163.html)
+
+[BBC article (English)](http://www.bbc.co.uk/news/science-environment-42260580)
+
+[AGU article (English)](https://news.agu.org/press-release/more-greenland-glaciers-threatened-by-climate-change-than-previously-thought/)
 
 <!--
 
