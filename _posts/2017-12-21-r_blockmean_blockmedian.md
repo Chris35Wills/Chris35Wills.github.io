@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Replicating GMT's blockmedian/blockmean in R
+title: Replicating GMT's blockmedian/blockmean in R
 categories: R
 tags: R 
 ---
