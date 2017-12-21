@@ -19,7 +19,7 @@ If it has a spatial component, it has my attention - ice, flora, fauna...
 
 ## In the news
 
-With the release of the Greenland bed map (BedMachien v3) in 2017, we had some coverage in the press - have a read:
+With the release of the Greenland bed map (BedMachine v3) in 2017, we had some coverage in the press - have a read:
 
 [Der Spiegel (German)](http://www.spiegel.de/wissenschaft/natur/neue-landkarte-so-sieht-groenland-unter-dem-eis-aus-a-1184163.html)
 
