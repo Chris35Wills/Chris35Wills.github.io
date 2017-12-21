@@ -11,12 +11,12 @@ Sometimes I need to make use of these blockmean/blockmedian functions within R w
 
 The below code:
 
-	1. reads in points
-	2. creates a grid over which the points lie of a given dimension
-	3. assigns unique ID to each cell (in this case, the cell number)
-	4. extracts raster cell value to all points within a cell
-	5. calculates new point positions for all points within a specific cell
-	6. output new point list - blockmean or blockmedian filtered :)
+1. reads in points
+2. creates a grid over which the points lie of a given dimension
+3. assigns unique ID to each cell (in this case, the cell number)
+4. extracts raster cell value to all points within a cell
+5. calculates new point positions for all points within a specific cell
+6. output new point list - blockmean or blockmedian filtered :)
 
 ```R
 library(sp)
@@ -82,4 +82,4 @@ points(mean_xys, pch=4, col='red')
 ```
 
 !["Concave hull" boundary - not ideal]({{ site.baseurl }}/images/blockmean/blockmean_blockmedian.png "Quasi-gridded points. Raster is coloured by cell number, original points are in blue, blockmedian points are in green and blockmean points are in red.")
-
+*Quasi-gridded points. Raster is coloured by cell number, original points are in blue, blockmedian points are in green and blockmean points are in red.*
