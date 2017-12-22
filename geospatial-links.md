@@ -8,8 +8,6 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## R 
 
-[R for Data Science](http://r4ds.had.co.nz/introduction.html)
-
 [R spatial data manipulation](http://rspatial.org/spatial/index.html)
 
 [Raster Data in R - The Basics](http://neondataskills.org/R/Raster-Data-In-R/)
@@ -35,6 +33,12 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [R vs. Python Numpy equivalents](http://mathesaurus.sourceforge.net/r-numpy.html)
 
 [ggplot2-cheatsheet](http://rforpublichealth.blogspot.co.uk/2013/11/ggplot2-cheatsheet-for-scatterplots.html)
+
+### R online books
+
+[R for Data Science](http://r4ds.had.co.nz/introduction.html)
+
+[Geocomputation with R](http://geocompr.robinlovelace.net/)
 
 ## Python 
 
