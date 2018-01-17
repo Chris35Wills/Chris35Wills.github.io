@@ -44,8 +44,6 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [NumPy Basics: Arrays and Vectorized Computation](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html) < Data processing using arrays section is very useful
 
-[Python image analysis tutorial](http://pythonvision.org/basic-tutorial/)
-
 [Bokeh - a wrapper for JavaScript type plotting](http://bokeh.pydata.org/en/latest/docs/gallery.html)
 
 [Advanced plotting with matplotlib](http://www.southampton.ac.uk/~fangohr/training/python/notebooks/Matplotlib.html)
@@ -105,6 +103,14 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [Correctly-resize-raster-gis-images-to-a-given-px-width](http://gis.stackexchange.com/questions/111523/how-to-correctly-resize-raster-gis-images-to-a-given-px-width)
 
 [Mosaic (Hermite) function application in ARC](http://resources.esri.com/help/9.3/ArcGISengine/java/gp_toolref/spatial_analyst_tools/how_mosaic_works.htm)
+
+## Image analysis
+
+[Python image analysis tutorial](http://pythonvision.org/basic-tutorial/)
+
+[Scipy image analysis tutorial](http://www.scipy-lectures.org/advanced/image_processing/
+
+[OpenCV for image analysis (Python)](http://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
 
 ## Cartography
 
