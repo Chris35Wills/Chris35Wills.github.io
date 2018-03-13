@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create random points from a regular grid
+title: Create random points based on a regular grid
 categories: R
 ---
 
@@ -62,7 +62,7 @@ while (random_point_count < random_point_sample_number){
 write.csv(random_points, fout, row.names=FALSE)
 ```
 
-Great. Now let's plot it up - this is based on a couple of stackoverflow posts on the tile plotting [here](https://stackoverflow.com/questions/31629539/r-and-raster-package-lines-around-each-cell) and the coordinate shift [here](https://stackoverflow.com/questions/36092589/raster-and-ggplot-map-not-quite-lining-up-in-r).
+Great. Now let's plot it up - this is based on a couple of stackoverflow posts on the tile plotting [here](https://stackoverflow.com/questions/31629539/r-and-raster-package-lines-around-each-cell) and the coordinate shift [here](https://stackoverflow.com/questions/36092589/raster-and-ggplot-map-not-quite-lining-up-in-r):
 
 ```R
 library(ggplot2)
