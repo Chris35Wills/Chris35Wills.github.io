@@ -112,6 +112,10 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [OpenCV for image analysis (Python)](http://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
 
+[PIL (Python)](http://python-pillow.github.io/)
+
+[SimpleCV](http://tutorial.simplecv.org/en/latest/)
+
 ## Cartography
 
 [Introduction to visualising spatial data](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
