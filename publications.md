@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+## Submitted
+
+- Jordan, T., **Williams, C.**, Schroeder, D., Martos, Y., Cooper, M., Siegert, M., Paden, J., Huybrechts, P., and Bamber, J. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discussions. Submitted 10th March 2018.
+
 ## In preparation
 
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
