@@ -37,10 +37,7 @@ permalink: /publications/
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
 ## Spoken and poster presentations
-
-```diff
-+ ***NEW***
-```
+\*\*\* **NEW** \*\*\*
 - **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING_clean.pdf))
 
 
