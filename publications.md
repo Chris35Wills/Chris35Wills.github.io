@@ -39,7 +39,7 @@ permalink: /publications/
 ## Spoken and poster presentations
 
 \*\*\* **NEW** \*\*\*
-- **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING_clean.pdf))
+- **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING.pdf))
 
 \*\*\* **NEW** \*\*\*
 - **C. N. Williams**, E. Bee, C. Dashwood and B. Marchant. A data driven approach to landslide susceptibility mapping in Great Britain (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_danger_abstract.pdf) or [download poster](../papers/EGU2018_DANGER_poster_A0_PRESENTED.pdf))
