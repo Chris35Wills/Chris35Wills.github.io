@@ -42,7 +42,7 @@ permalink: /publications/
 - **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING_clean.pdf))
 
 \*\*\* **NEW** \*\*\*
-- **C. Williams**, E. Bee, C. Dashwood and B. Marchant. A data driven approach to landslide susceptibility mapping in Great Britain (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_danger_abstract.pdf) or [download poster](../papers/EGU2018_DANGER_poster_A0_PRESENTED.pdf))
+- **C. N. Williams**, E. Bee, C. Dashwood and B. Marchant. A data driven approach to landslide susceptibility mapping in Great Britain (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_danger_abstract.pdf) or [download poster](../papers/EGU2018_DANGER_poster_A0_PRESENTED.pdf))
 
 - M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
 
