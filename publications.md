@@ -6,11 +6,11 @@ permalink: /publications/
 
 ## Submitted
 
-- T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discussions. Submitted 10th March 2018.
+- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Nature. Submitted.
 
 - A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwidth and M. Ellis. Automatic delineation of coastal cliff top and toe. Geoscientific Model Development. Submitted 23rd March 2018.
 
-- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Nature. Submitted.
+- T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discussions. Submitted 10th March 2018.
 
 ## In preparation
 
