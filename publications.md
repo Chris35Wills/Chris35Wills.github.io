@@ -6,7 +6,11 @@ permalink: /publications/
 
 ## Submitted
 
-- Jordan, T., **Williams, C.**, Schroeder, D., Martos, Y., Cooper, M., Siegert, M., Paden, J., Huybrechts, P., and Bamber, J. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discussions. Submitted 10th March 2018.
+- T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discussions. Submitted 10th March 2018.
+
+- A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwidth and M. Ellis. Automatic delineation of coastal cliff top and toe. Geoscientific Model Development. Submitted 23rd March 2018.
+
+- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Nature. Submitted.
 
 ## In preparation
 
@@ -37,6 +41,12 @@ permalink: /publications/
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
 ## Spoken and poster presentations
+
+\*\*\* **NEW** \*\*\*
+- **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING.pdf))
+
+\*\*\* **NEW** \*\*\*
+- **C. N. Williams**, E. Bee, C. Dashwood and B. Marchant. A data driven approach to landslide susceptibility mapping in Great Britain (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_danger_abstract.pdf) or [download poster](../papers/EGU2018_DANGER_poster_A0_PRESENTED.pdf))
 
 - M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. L. Bamber, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, D. M. Holland, D. Holland, I. Howat, A. Hubbard, T.  M. Jordan, R. Millan, J. Mouginot, B. P. Y. Nöel, C. Ó Cofaigh, H. Seroussi, M. J. Siegert, P. Slabon, M. R. van den Broeke, W. Weinrebe and M. Wood. A new bed topography dataset for Greenland out to the continental shelf: BedMachine v3 (EGU, Vienna 2017 ([download abstract (author list has changed)](../papers/EGU2017_abstract.pdf) or [download poster](../images/conferences/EGU2017_poster_CWilliams.pdf)))  
 
