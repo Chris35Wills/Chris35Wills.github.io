@@ -1,4 +1,8 @@
-# Create a presence absence matrix from long data (R)
+---
+layout: post
+title: Create a presence absence matrix from long data (R)
+categories: R
+---
 
 Using R, I needed to convert some [long format data to wide format](https://en.wikipedia.org/wiki/Wide_and_narrow_data) in the form of a presence/absence dataset. The *why* doesn't really matter :)
 
