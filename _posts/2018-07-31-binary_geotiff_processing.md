@@ -73,7 +73,7 @@ import matplotlib.pyplot as plt
 plt.imshow(data)
 ```
 
-![Original data]({{site.baseurl}}/images/bin_data/original_data.png "The data looks as expected :)")
+![Original data]({{ site.baseurl }}/images/bin_data/original_data.png "The data looks as expected :)")
 
 Now we'll process the data we've opened as a numpy array - let's just change the numbers a bit and set anything bigger than 90 to 100:
 
@@ -88,7 +88,7 @@ Let's plot it to see that it looks as expected/is different:
 plt.imshow(data2)
 ```
 
-![Modified data]({{site.baseurl}}/images/bin_data/modified_data.png "The modified EA data looks as expected :)")
+![Modified data]({{ site.baseurl }}/images/bin_data/modified_data.png "The modified EA data looks as expected :)")
 
 Next we need to wrote it out so let's rewrite a new function:
 
