@@ -4,7 +4,7 @@ title: ENVI binary to GeoTiff - opening, processing and output in Python
 categories: Python
 ---
 
-Lets say we have some ENVI format binary data - we'll use a sample of the OGL EA data in the UK converted for the purposes of this work from [here](https://environment.data.gov.uk/ds/survey/#/survey?grid=SK54)). Download the [binary file](/images/bin_data/sk5545_DSM_2M.bin) and the [header file](/images/bin_data/sk5545_DSM_2M.hdr) and make sure they are in the same directory.
+Lets say we have some ENVI format binary data - we'll use a sample of the OGL EA data in the UK converted for the purposes of this work from [here](https://environment.data.gov.uk/ds/survey/#/survey?grid=SK54). Download the [binary file](/images/bin_data/sk5545_DSM_2M.bin) and the [header file](/images/bin_data/sk5545_DSM_2M.hdr) and make sure they are in the same directory.
 
 What we want to do is:
 
