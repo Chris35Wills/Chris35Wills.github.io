@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ENVI binary to GeoTiff: opening, processing and output in Python
+title: ENVI binary to GeoTiff - opening, processing and output in Python
 categories: Python
 ---
 
