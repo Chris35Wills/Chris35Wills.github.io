@@ -166,7 +166,7 @@ new_data=(data*10)/3.3
 plt.imshow(new_data)
 
 # Write it out as a geotiff
-file_out="test.tif"
+file_out="./test.tif"
 array2raster(new_data, geodata, file_out, gdal_driver='GTiff')
 
 # Check your output (have a look in QGIS or something)
