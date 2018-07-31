@@ -1,0 +1,14 @@
+ENVI
+description = {
+sk5545_DSM_2M.bin}
+samples = 500
+lines   = 500
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+byte order = 0
+map info = {Arbitrary, 1, 1, 455000, 346000, 2, 2, 0, North}
+band names = {
+Band 1}
