@@ -4,7 +4,17 @@ title: ENVI binary to GeoTiff - opening, processing and output in Python
 categories: Python
 ---
 
-Lets say we have some ENVI format binary data - we'll use a sample of the OGL EA data in the UK converted for the purposes of this work from [here](https://environment.data.gov.uk/ds/survey/#/survey?grid=SK54). Download the [binary file](/images/bin_data/sk5545_DSM_2M.bin) and the [header file](/images/bin_data/sk5545_DSM_2M.hdr) and make sure they are in the same directory.
+Based on a post from a few years ago, a few people have asked how to handle ENVI format files in python for processing with the end goal being to output them as GeoTiff files. Purely for file format transformation, the easiest way for me is to use [GDAL directly](https://www.gdal.org/gdal_translate.html) e.g. to convert a ENVI binary file (with a header file) to a GeoTIFF:
+
+```
+gdal_translate -of GTiff input_file.bin output_file.tif
+```
+
+For more info, look [here](https://www.gdal.org). Windows users should look at [OSGeo4W](https://trac.osgeo.org/osgeo4w/).
+
+If you want to do the file reading, data manipulation and output all within python, then read on. The below provides some wrapper functions collating a number of gdal-python specific commands. I'm not going into the details as to exactly what is happening - have a look at the comments within the function code below if you're interested.
+
+So, without further ado, lets say we have some ENVI format binary data - we'll use a sample of the OGL EA data in the UK converted for the purposes of this work from [here](https://environment.data.gov.uk/ds/survey/#/survey?grid=SK54). Download the [binary file](/images/bin_data/sk5545_DSM_2M.bin) and the [header file](/images/bin_data/sk5545_DSM_2M.hdr) and make sure they are in the same directory.
 
 What we want to do is:
 
@@ -63,7 +73,7 @@ def load_data(file_name, gdal_driver='GTiff'):
 	return image_array, (geotransform, inDs)
 ```
 
-Let's open and plot the output to see that it looks as expected:
+This returns a numpy array of the data (`data`) as well as a tuple of data relating to the dataset your read in including coordinate info (`geodata`). Let's open and plot the numpy array output to see that it looks as expected:
 
 ```python
 file_name="sk5545_DSM_2M.bin"
@@ -142,7 +152,7 @@ def array2raster(data_array, geodata, file_out, gdal_driver='GTiff'):
 			
 		print("Output saved: %s" %file_out)
 ```
-And then call it:
+Now call it: this takes in the new array (`new_data`) and the original `geodata` tuple. The `gdal_driver` option is important to note as this is specific for the format of the data you want to output - have a look [here](http://www.gdal.org/formats_list.html) for other compatible formats.
 
 ```python
 file_out="./test.tif"
