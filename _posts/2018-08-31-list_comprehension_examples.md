@@ -5,7 +5,7 @@ categories: Python
 ---
 
 I've recently been using list comprehensions more often than not, having never paid them much attention. A decent overview is available [here](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python).
-Perhaps they are a sprinkling of [syntactic sugar](https://stackoverflow.com/questions/30096351/are-list-comprehensions-syntactic-sugar-for-listgenerator-expression-in-pyth] but I think I'm a fan).
+Perhaps they are a sprinkling of [syntactic sugar](https://stackoverflow.com/questions/30096351/are-list-comprehensions-syntactic-sugar-for-listgenerator-expression-in-pyt) but I think I'm a fan.
 
 Here are a few more (increasingly nuanced) examples you might find helpful. The only import we need is `os`:
 
