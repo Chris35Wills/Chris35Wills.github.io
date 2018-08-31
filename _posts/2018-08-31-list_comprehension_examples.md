@@ -4,8 +4,8 @@ title: List comprehensions - some examples (Python 3.x)
 categories: Python
 ---
 
-I've recently bee using list comprehensions a lot having never paid them much attention. A decent overview is available [here]](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python).
-Perhaps they are a sprinkling of (syntactic sugar)[https://stackoverflow.com/questions/30096351/are-list-comprehensions-syntactic-sugar-for-listgenerator-expression-in-pyth] but I think I'm a fan.
+I've recently been using list comprehensions more often than not, having never paid them much attention. A decent overview is available [here](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python).
+Perhaps they are a sprinkling of [syntactic sugar](https://stackoverflow.com/questions/30096351/are-list-comprehensions-syntactic-sugar-for-listgenerator-expression-in-pyth] but I think I'm a fan).
 
 Here are a few more (increasingly nuanced) examples you might find helpful. The only import we need is `os`:
 
@@ -54,7 +54,7 @@ Get elements in list_2 not in list_1:
 [x for x in list_2 if x not in list_1]
 ```
 
-Get unique file regardess of path and keep only unique files WITH their original path (thanks to (this answer)[https://stackoverflow.com/questions/41028547/python-using-list-comprehensions-to-filter-a-list-by-a-list-of-substrings/41028575]:
+Get unique file regardess of path and keep only unique files WITH their original path (thanks to [this answer](https://stackoverflow.com/questions/41028547/python-using-list-comprehensions-to-filter-a-list-by-a-list-of-substrings/41028575)):
 
 ```python
 [r for r in list_1 if not any(os.path.basename(z) in r for z in list_2)] 
