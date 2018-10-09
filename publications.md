@@ -4,11 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-## In open discussion
+## Accepted
 
 - A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwidth and M. Ellis. Development of an automatic delineation of cliff top and toe on very irregular planform coastlines (CliffMetrics v1.0). Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2018-83, in review, 2018. 
-
-- T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere Discuss., https://doi.org/10.5194/tc-2018-53, in review, 2018. 
 
 ## Submitted
 
@@ -19,6 +17,8 @@ permalink: /publications/
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
 
 ## Published
+
+- [T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. (2018) A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere. DOI:10.5194/tc-12-2831-2018](https://www.the-cryosphere.net/12/2831/2018/)
 
 - [M. Morlighem, **C. N. Williams**, E. Rignot, L. An, J. E. Arndt, J. L. Bamber, G. Catania, N. Chauché, J. A. Dowdeswell, B. Dorschel, I. Fenty, K. Hogan, I. Howat, A. Hubbard, M. Jakobsson, T. M. Jordan, K. K. Kjeldsen, R. Millan, L. Mayer, J. Mouginot, B. P. Y. Noël, C. Ó Cofaigh, S. Palmer, S. Rysgaard, H. Seroussi, M. J. Siegert, P. Slabon, F. Straneo , M. R. van den Broeke, W. Weinrebe, M. Wood and K. B. Zinglersen. BedMachine v3: Complete bed topography and ocean bathymetry mapping of Greenland from multi-beam echo sounding combined with mass conservation. Geophysical Research Letters. DOI:10.1002/2017GL074954](http://onlinelibrary.wiley.com/doi/10.1002/2017GL074954/abstract) - [data download](http://nsidc.org/data/IDBMG4)
 
