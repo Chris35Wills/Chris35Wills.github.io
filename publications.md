@@ -4,10 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## Accepted
-
-- A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwidth and M. Ellis. Development of an automatic delineation of cliff top and toe on very irregular planform coastlines (CliffMetrics v1.0). Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2018-83, in review, 2018. 
-
 ## Submitted
 
 - F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Submitted.
@@ -17,6 +13,8 @@ permalink: /publications/
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
 
 ## Published
+
+- [A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwith and M. Ellis (2018). Development of an automatic delineation of cliff top and toe on very irregular planform coastlines (CliffMetrics v1.0). Geosci. Model Dev. DOI:10.5194/gmd-11-4317-2018](https://www.geosci-model-dev.net/11/4317/2018/)
 
 - [T. Jordan, **C. Williams**, D. Schroeder, Y. Martos, M. Cooper, M. Siegert, J. Paden, P. Huybrechts and J. Bamber. (2018) A constraint upon the basal water distribution and basal thermal state of the Greenland Ice Sheet from radar bed-echoes. The Cryosphere. DOI:10.5194/tc-12-2831-2018](https://www.the-cryosphere.net/12/2831/2018/)
 
