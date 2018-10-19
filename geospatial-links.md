@@ -10,6 +10,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 [R spatial data manipulation](http://rspatial.org/spatial/index.html)
 
+[Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
+
 [Raster Data in R - The Basics](http://neondataskills.org/R/Raster-Data-In-R/)
 
 [Raster data in R - another take](http://www.nickeubank.com/wp-content/uploads/2015/10/RGIS1_SpatialDataTypes_part2_rasterData.html)
