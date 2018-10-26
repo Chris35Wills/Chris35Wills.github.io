@@ -36,6 +36,10 @@ permalink: /publications/
 
 - [Rippin, D.M., Carrivick, J.L., **Williams, C.**, (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903. DOI:10.3189/002214311798043672](https://www.cambridge.org/core/journals/journal-of-glaciology/article/evidence-towards-a-thermal-lag-in-the-response-of-karsaglaciaren-northern-sweden-to-climate-change/23B7079B89C44482938B774FFBD44FE0)
 
+## Signatory and supporter
+
+- [W. J. Ripple,  C. Wolf, T. M. Newsome, M. Galetti, M. Alamgir, E. Crist, M. I. Mahmoud, W. F. Laurance and 15,364 scientist signatories from 184 countries, (2017). World Scientists’ Warning to Humanity: A Second Notice. BioScience, DOI:10.1093/biosci/bix125](https://academic.oup.com/bioscience/article/67/12/1026/4605229#supplementary-data)
+
 ## Published code (Open Source)
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
