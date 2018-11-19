@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reseaerch, data and literature (various)
+title: Research, data and literature (various)
 permalink: /links-eclectic/
 ---
 
@@ -25,6 +25,8 @@ Various links to an eclectic collection of geo- related research and datasets. T
 [Assessment of Convolution Neural Networks for Surficial Geology Mapping in the South Rae Geological Region, Northwest Territories, Canada](https://www.mdpi.com/2072-4292/10/2/307)
 
 [Landscape classification with deep neural networks](https://eartharxiv.org/5mx3c/)
+
+[Automatic Coastline Extraction Using Edge Detection and Optimization Procedures](https://www.mdpi.com/2076-3263/8/11/407)
 
 ### Land cover
 
