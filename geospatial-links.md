@@ -4,7 +4,7 @@ title: Open source geospatial & image processing - useful links
 permalink: /links/
 ---
 
-Links as I find them relating to various geospatial coding routines, methods, plotting and data standards. I've also included links to a few threads from Stack Exchange relating to useful Q&A. This page will be continually updated.
+Links as I find them relating to various geospatial coding routines, methods, plotting and data standards. I've also included links to a few threads from Stack Exchange relating to useful Q&A. This page will be continually updated. All links are hosted independent of this site.
 
 ## R 
 
@@ -59,6 +59,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 [Useful pandas technqiues](http://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
 
 ### Geospatial (various languages)
+
+[PyQGIS 101](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
 
 [Gridding with GMT](http://www-udc.ig.utexas.edu/external/becker/teaching/unix/rome/lecture5_gmt_gridding.pdf)
 
