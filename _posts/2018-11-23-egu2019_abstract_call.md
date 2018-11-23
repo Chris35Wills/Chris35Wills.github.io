@@ -15,6 +15,7 @@ We particularly invite contributions which showcase potential cross-disciplinary
 Please note the following EGU 2019 milestones:
 
 **Abstract submission deadline is 10 January 2019, 13:00 (CET)**
+
 **The travel support deadline requires submission by December 1st 2018**
 
 We look forwards to receiving your abstract!
