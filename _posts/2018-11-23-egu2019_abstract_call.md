@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EGU 2019: Making the most of data in geoscience
+title: EGU 2019 - making the most of data in geoscience
 categories: data
 ---
 
