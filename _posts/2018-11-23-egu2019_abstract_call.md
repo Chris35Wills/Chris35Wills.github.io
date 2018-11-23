@@ -1,9 +1,8 @@
 ---
 layout: post
 title: EGU 2019: Making the most of data in geoscience
+categories: data
 ---
-
-# EGU 2019: Making the most of data in geoscience
 
 ![EGU 2019: Call for abstracts!]({{ site.baseurl }}/images/egu2019/EGU_twitter_pic-05.png "EGU 2019: Call for abstracts! (image by Josh McIntyre, BGS)")
 
