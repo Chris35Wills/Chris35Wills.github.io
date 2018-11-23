@@ -3,6 +3,8 @@ layout: post
 title: EGU 2019: Making the most of data in geoscience
 ---
 
+# EGU 2019: Making the most of data in geoscience
+
 ![EGU 2019: Call for abstracts!]({{ site.baseurl }}/images/egu2019/EGU_twitter_pic-05.png "EGU 2019: Call for abstracts! (image by Josh McIntyre, BGS)")
 
 We draw your attention to the multidisciplinary session "Maximising information acquisition in a world of ever increasing data availability" (NP4.4/BG1.23/CR7.5/ESSI3.6/GM2.12/NH11.12/SSS11.8) to be held at the EGU General Assembly 2019 in Vienna (conveners: Chris Williams, Jeremy Ely, Maria J. Santos and Franziska Schrodt): https://meetingorganizer.copernicus.org/EGU2019/session/30960
