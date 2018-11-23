@@ -18,7 +18,7 @@ Various links to an eclectic collection of geo- related research and datasets. T
 
 [Lake bed geomorphology and sedimentary processes in glacial lake Windermere, UK](https://www.tandfonline.com/doi/full/10.1080/17445647.2013.780986)
 
-[The Loch Lomond Advance in the Lake District, northern England]https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/loch-lomond-advance-in-the-lake-district-northern-england/349EAAA9B5949AAB922A2DD0BA7D0293)
+[The Loch Lomond Advance in the Lake District, northern England](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/loch-lomond-advance-in-the-lake-district-northern-england/349EAAA9B5949AAB922A2DD0BA7D0293)
 
 ### Geomorphology and automation (machine learning etc.)
 
@@ -30,10 +30,10 @@ Various links to an eclectic collection of geo- related research and datasets. T
 
 ### Land cover
 
-World (ESA) land cover through time: https://landgis.opengeohub.org/#/?base=Stamen%20(OpenStreetMap)&center=52.9153,-1.1349&zoom=12&opacity=80&layer=lcv_land.cover_esacci.lc.l4_c&time=2015 with info here: https://www.esa-landcover-cci.org/?q=node/193 and more maps here: http://maps.elie.ucl.ac.be/CCI/viewer/ 
+[World (ESA) land cover through time](https://landgis.opengeohub.org/#/?base=Stamen%20(OpenStreetMap)&center=52.9153,-1.1349&zoom=12&opacity=80&layer=lcv_land.cover_esacci.lc.l4_c&time=2015) with info [here](https://www.esa-landcover-cci.org/?q=node/193) and more maps [here](http://maps.elie.ucl.ac.be/CCI/viewer/)
 
-Africa (beta) land cover map: http://2016africalandcover20m.esrin.esa.int/ 
+[Africa (beta) land cover map](http://2016africalandcover20m.esrin.esa.int/)
 
-UK crop map: https://data.gov.uk/dataset/21c91d36-1770-475e-99ce-5c54ea4b3eae/crop-map-of-england-crome-2016-midlands
+[UK crop map](https://data.gov.uk/dataset/21c91d36-1770-475e-99ce-5c54ea4b3eae/crop-map-of-england-crome-2016-midlands)
 
 
