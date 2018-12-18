@@ -4,7 +4,7 @@ title: Tidy line of 2D array plots each with a colorbar
 categories: Python
 ---
 
-This is something I keep coming back to and first posted about [here]({{ site.baseurl }}/_posts/2016-07-26-matplotlib_axis) a while ago.
+This is something I keep coming back to and first posted about a while ago [here]({{ site.baseurl }}/2016-07-26-matplotlib_axis).
 
 Let's say we have three 2D arrays - we want to plot them in a line, each with a colorbar that is the same height as the plot and which doesn't overlap neighbouring the sub plot.
 
@@ -39,6 +39,7 @@ plt.title("Input plus noise\n")
 plt.colorbar()
 plt.show()
 ```
+
 ![Bad plot]({{ site.baseurl }}/images/tidy_array_plots/bad_plot.png "Bad plot")
 
 Hmmm, not ideal. We need to make separate axis for the colorbars and make sure the overlaps are removed. We need a new import for this:
