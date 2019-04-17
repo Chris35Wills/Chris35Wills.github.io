@@ -6,11 +6,13 @@ permalink: /publications/
 
 ## Submitted
 
-- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Submitted.
+- M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology. Submitted.
 
 ## In preparation
 
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
+
+- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Submitted.
 
 ## Published
 
@@ -42,9 +44,15 @@ permalink: /publications/
 
 ## Published code (Open Source)
 
+- [Synthetic channel mesh (for creating synthetic fjords)](https://github.com/Chris35Wills/synthetic_channel_mesh)
+
+- [LFMapper - grid based linear feature characterisation](https://github.com/Chris35Wills/LFMapper)
+
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
 ## Spoken and poster presentations
+
+- **C. N. Williams**, A. Hulbert and R. Lawley. Creation, curation and delivery of high resolution spatial datasetsensuring reliability for product development (EGU, Vienna 2019 - [download abstract](../papers/EGU2019_rasterProcessing_abstract.pdf)) or [download presentation](../papers/EGU2019_rasterProcessing_poster.pdf))
 
 - **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING.pdf))
 
