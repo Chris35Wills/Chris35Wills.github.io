@@ -52,7 +52,7 @@ permalink: /publications/
 
 ## Spoken and poster presentations
 
-- **C. N. Williams**, A. Hulbert and R. Lawley. Creation, curation and delivery of high resolution spatial datasetsensuring reliability for product development (EGU, Vienna 2019 - [download abstract](../papers/EGU2019_rasterProcessing_abstract.pdf)) or [download presentation](../papers/EGU2019_rasterProcessing_poster.pdf))
+- **C. N. Williams**, A. Hulbert and R. Lawley. Creation, curation and delivery of high resolution spatial datasetsensuring reliability for product development (EGU, Vienna 2019 - [download abstract](../papers/EGU2019_rasterProcessing_abstract.pdf) or [download presentation](../papers/EGU2019_rasterProcessing_poster.pdf))
 
 - **C. N. Williams**, M. O’Leary, A. Luckman, T. Jóhannesson T. and Murray. Automated crevasse mapping: assisting with mountain and glacier hazard assessment (EGU, Vienna 2018 - [download abstract](../papers/EGU2018_creavsse_map_abstract.pdf) or [download presentation](../papers/EGU_2018_presentation_CREVASSE_MAPPING.pdf))
 
