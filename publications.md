@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Submitted
 
-- M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology. Submitted.
+- M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology, The Cryosphere Discuss., https://doi.org/10.5194/tc-2019-73, in review, 2019. 
 
 ## In preparation
 
