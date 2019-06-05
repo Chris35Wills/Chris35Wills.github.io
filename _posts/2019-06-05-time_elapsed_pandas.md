@@ -4,9 +4,16 @@ title: Calculating time elapsed using timestamp information in pandas
 categories: Python
 ---
 
-Given a set of dates and times, we want to calculate the time elapsed of each row relative to the first entry. A csv file containing dates and times is available for you to download [here]({{ site.baseurl }}/attachments/time_data.csv).
+Given a set of dates and times, we want to calculate the time elapsed of each row relative to the first entry. A csv file containing dates and times is available for you to download [here]({{ site.baseurl }}/attachments/time_data.csv). It looks like this:
 
-To start with we'll import the library and read in the data. The data has no header row, so we'll add one.
+```
+05/06/2019,14:01:10
+05/06/2019,14:09:30
+05/06/2019,14:17:50
+05/06/2019,14:26:10
+```
+
+To start with we'll import pandas and read in the data. The data has no header row, so we'll add one.
 
 ```python
 import pandas as pd
@@ -54,7 +61,7 @@ print(endTime-startTime)
 # > Timedelta('0 days 00:08:20')
 ```
 
-Given a start time of `2019-06-05 14:01:10` and an end time of `2019-06-05 14:09:30`, the reported difference of `0 days 00:08:20` makes sense. If you have timestamps on consequtive days but are getting differences reporting say `30 days 00:08:20`, then it's likely that your timestamp is formatted with the days and months the otherway around - in this case format it accordingly as when we made the `datetime` column with `pd.datetime` and the `dayfirst` option. This is a common error if switich between say UK and US datetime formats.
+Given a start time of `2019-06-05 14:01:10` and an end time of `2019-06-05 14:09:30`, the reported difference of `0 days 00:08:20` makes sense. If you have timestamps on consecutive days but are getting differences reporting say `30 days 00:08:20`, then it's likely that your timestamp is formatted with the days and months the other way around - in this case format it accordingly as when we made the `datetime` column with `pd.datetime` and the `dayfirst` option. This is a common error if switching between say UK and US datetime formats.
 
 Now we know the elapsed time is working, we can scale this up to the whole dataframe.
 
@@ -86,7 +93,7 @@ print(df.tail())
 # > 299  07/06/2019  07:32:50 2019-06-07 07:32:50 1 days 17:31:40
 ```
 
-Now, `df.elapsed` is of a timedelta type which has various methods. You can get things out of it like seconds, hours days etc. For example, we can get the seconds out of it like this:
+If you look at the column types again using `df.dtypes`, you'll see that `df.elapsed` is of a `timedelta` type. This gives youa ccess to various methods and attributes so you can get things out of it like seconds, hours, days etc. For example, we can get the total seconds out of it like this:
 
 ```python
 seconds=df.elapsed.dt.total_seconds() 
@@ -98,7 +105,10 @@ seconds.head()
 # > 3    1500.0
 # > 4    2000.0
 ```
+
 Careful if you just use `df.elapsed.dt.seconds` as that'll revert to zero if your day changes.
+
+Now you can plot, save or analyse your data further as you wish.
 
 
 
