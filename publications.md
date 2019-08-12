@@ -4,15 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 
+## Accepted
+
+- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Opinion: To advance sustainable stewardship, we must document not only biodiversity but geodiversity. Accepted.
+
 ## Submitted
+
+- Zayad bassam Alzayer, Mark Fellgett, Vyron Christodoulou, **Chris Williams**, Joanna Walsh, Andrew Kingdon and Saswata Hier-Majumder. Digital Rock Physics Analysis of Core Integrity using Deep Neural Networks and Computer Vision, AGU 2019 conference abstract, submitted.
+
+## In review 
 
 - M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology, The Cryosphere Discuss., https://doi.org/10.5194/tc-2019-73, in review, 2019. 
 
 ## In preparation
 
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
-
-- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Geodiversity is essential. Submitted.
 
 ## Published
 
