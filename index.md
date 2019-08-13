@@ -9,7 +9,7 @@ permalink: /
 </div>
 
 <!--Following work as a glaciology researcher over the past few years, I am now working at the British Geological Survey. I’ve a keen interest in geospatial problem solving and environmental spatio-temporal relationships.--> 
-Welcome! I'm a geospatial scientist currently working at the British Geological Survey in geoanalytics. My background is in physical geography, glaciology research and geomorphology, having worked extensively both field and desk based. I spend a lot of my time developing workflows for geospatial analysis and the modelling of surface processes. I'm working predominantly in Python (with some R) with a focus on geo-product development - relating in particular to geohazards. If you want to know more, don;t hesitate to get in touch.
+Welcome! I'm a geospatial scientist currently working at the British Geological Survey in geoanalytics. My background is in physical geography, glaciology research and geomorphology, having worked extensively both field and desk based. I spend a lot of my time developing workflows for geospatial analysis and the modelling of surface processes. I'm working predominantly in Python (with some R) with a focus on geo-product development - relating in particular to geohazards. If you want to know more, don't hesitate to get in touch.
 
 *All views expressed on this website are my own.*
 
