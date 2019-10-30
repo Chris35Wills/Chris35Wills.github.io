@@ -142,3 +142,5 @@ defaults:
       type: "page"
     values:
       layout: "page" 
+
+theme: jekyll-theme-minimal
