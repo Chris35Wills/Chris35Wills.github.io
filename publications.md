@@ -4,23 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-## Accepted
-
-- F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field. Opinion: To advance sustainable stewardship, we must document not only biodiversity but geodiversity. Accepted.
-
-## Submitted
-
-- Zayad bassam Alzayer, Mark Fellgett, Vyron Christodoulou, **Chris Williams**, Joanna Walsh, Andrew Kingdon and Saswata Hier-Majumder. Digital Rock Physics Analysis of Core Integrity using Deep Neural Networks and Computer Vision, AGU 2019 conference abstract, submitted.
-
-## In review 
-
-- M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology, The Cryosphere Discuss., https://doi.org/10.5194/tc-2019-73, in review, 2019. 
-
 ## In preparation
 
 - **Williams**, C., O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
 
 ## Published
+
+- [M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology (2019). The Cryosphere, 13. DOI:https://doi.org/10.5194/tc-2019-73](https://doi.org/10.5194/tc-2019-73)
+
+- [F. Schrodt, J. J. Bailey, W. D. Kissling, K. F. Rijsdijk, A. C. Seijmonsbergen, D. van Ree, J. Hjort, R. S. Lawley, K. R. Royse, **C. N. Williams**, M. Anderson, P. Beier, P. van Beukering, D. S. Boyd, J. Brilha, L. Carcavilla, K. M. Dahlin, J. C. Gill, J. E. Gordon, M. Gray, M. Grundy, M. L. Hunter, J. J. Lawler, M. Monge-Ganuzas, I. Stewart, S. Record, W. Turner, P. L. Zarnetske and R. Field (2019). Opinion: To advance sustainable stewardship, we must document not only biodiversity but geodiversity. PNAS, 116 (33). DOI:https://doi.org/10.1073/pnas.1911799116](https://doi.org/10.1073/pnas.1911799116)
 
 - [A. Payo, B. J. Antelo, M. Hurst, M. Palaseanu-Lovejoy, **C. Williams**, G. Jenkins, K. Lee, D. Favis-Mortlock, A. Barkwith and M. Ellis (2018). Development of an automatic delineation of cliff top and toe on very irregular planform coastlines (CliffMetrics v1.0). Geosci. Model Dev. DOI:10.5194/gmd-11-4317-2018](https://www.geosci-model-dev.net/11/4317/2018/)
 
@@ -57,6 +49,8 @@ permalink: /publications/
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
 ## Spoken and poster presentations
+
+- Zayad bassam Alzayer, Mark Fellgett, Vyron Christodoulou, **Chris Williams**, Joanna Walsh, Andrew Kingdon and Saswata Hier-Majumder. Digital Rock Physics Analysis of Core Integrity using Deep Neural Networks and Computer Vision (AGU, San Francisco, 2019).
 
 - **C. N. Williams**, A. Hulbert and R. Lawley. Creation, curation and delivery of high resolution spatial datasetsensuring reliability for product development (EGU, Vienna 2019 - [download abstract](../papers/EGU2019_rasterProcessing_abstract.pdf) or [download presentation](../papers/EGU2019_rasterProcessing_poster.pdf))
 
