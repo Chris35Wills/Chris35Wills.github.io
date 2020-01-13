@@ -44,6 +44,8 @@ Links as I find them relating to various geospatial coding routines, methods, pl
 
 ## Python 
 
+[Geo-Python course (Uni. Helsinki)](https://geo-python.github.io/site/index.html)
+
 [Python data science - book online](https://github.com/Chris35Wills/PythonDataScienceHandbook)
 
 [NumPy Basics: Arrays and Vectorized Computation](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html) < Data processing using arrays section is very useful
