@@ -22,7 +22,7 @@ With the release of the Greenland bed map (BedMachine v3) in 2017, we had some c
 
 ## In preparation
 
-- **Williams, C.** et al. (in prep.) LFMapper: spatially scalable linear feature characterisation using the FFT (target journal: The Journal of Open Source Software) 
+- **Williams, C.** et al. (in prep.) LFMapper: spatially scalable linear feature characterisation using the FFT (target journal: The Journal of Open Source Software). 
 
 - **Williams, C.** et al. (in prep.) Rock exposure mapping in upland areas: a random forest aproach. 
 
