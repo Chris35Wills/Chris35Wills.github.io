@@ -15,7 +15,7 @@ class Dog:
     """
 
     # Class Attributes << these are common to all new objects made of this class
-    species = 'mammal'
+    species ="mammal"
     Kingdom="Animalia"
     Phylum="Chordata"
     Class="Mammalia"
