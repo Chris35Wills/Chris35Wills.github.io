@@ -81,7 +81,7 @@ class dragon():
     # Class Attributes
     Kingdom="Animalia"
     Phylum="Chordata"
-    Class="Reptilia
+    Class="Reptilia"
     Order="Squamata"
     Suborder="Iguania"
     Family="Agamidae"

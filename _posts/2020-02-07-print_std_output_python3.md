@@ -4,7 +4,7 @@ title: Print to file from standard output using Python 3
 categories: Python, IO, text
 ---
 
-To print standard output to a file in python 3, you can make use of the `redirect_stdout` function from the `contextlib` pacakge. The following example uses this library to write the standard output printed from a function to a text file with some header info. Feel free to adapt it to your use case.
+To print standard output to a file in python 3, you can make use of the `redirect_stdout` function from the `contextlib` package. The following example uses this library to write the standard output printed from a function to a text file with some header info. Feel free to adapt it to your use case.
 
 ```python
 from contextlib import redirect_stdout
