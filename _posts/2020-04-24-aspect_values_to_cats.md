@@ -4,7 +4,7 @@ title:  Aspect values to categories
 categories: python
 ---
 
-When dealing with terrain aspect values, you might find yourself needing to categorize them into sectors e.g. 10 deg N = North, 24 deg North = North-east, 90 deg North = East etc. This is also something to consider when using such data in a machine learning workflow too as you may find you need to [encode the categories](https://www.dataschool.io/encoding-categorical-features-in-python/) rather than use the raw aspect orientations (rescaling aspect orientations between 0 and 1 doesn;t make sense....)
+When dealing with terrain aspect values, you might find yourself needing to categorize them into sectors e.g. 10 deg N = North, 24 deg North = North-east, 90 deg North = East etc. This is also something to consider when using such data in a machine learning workflow too as you may find you need to [encode the categories](https://www.dataschool.io/encoding-categorical-features-in-python/) rather than use the raw aspect orientations (rescaling aspect orientations between 0 and 1 doesn't make sense....)
 
 Below is a helper function that does the aspect category mapping for you. You just need to pass it an input array such as a pandas series.
 
@@ -51,7 +51,7 @@ def categorize_aspect(aspect_array, check_output=True):
     return(aspect_cat)
 ```
 
-Apply it (here with a pandas series)
+Apply it (here with a pandas series):
 
 ```python
 aspect_series=pd.Series([52.93,38.35,194.84,299.53,24.81,259.13,66.14,292.85,195.72,27.85])
