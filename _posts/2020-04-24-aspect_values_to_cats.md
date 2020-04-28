@@ -81,4 +81,4 @@ And you should get this:
     194.84  | S
     66.14  | NE
     
-
+Oh, and if you're after a layer file for quickly colouring up your aspect grids in Arc, feel free to use [this](/attachments/aspect_grid_north.lyr).
