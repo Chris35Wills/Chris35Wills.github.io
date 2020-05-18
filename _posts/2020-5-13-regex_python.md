@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using regex to concatenate elements of a string
+title: Using regex to select elements of a string with python
 categories: python
 ---
 
