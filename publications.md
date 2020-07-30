@@ -30,7 +30,10 @@ With the release of the Greenland bed map (BedMachine v3) in 2017, we had some c
 
 ## Published
 
-- [Schrodt, F., de la Barreda Bautista, B., **Williams, C.**, et al. (2020) Integrating biodiversity, remote sensing and auxiliary information for the study of ecosystem functioning and conservation at large spatial scales. eds. Jeannine Cavender-Bares, Phil Townsend, John Gamon. Remote Sensing of Plant Biodiversity. Springer. ISBN 978-3-030-33156-6](https://www.springer.com/gp/book/9783030331566)
+- [J. R. Lee, R. Haslam, M. A. Woods, J. Rose, R. L. Graham, J. R. Ford, D. I. Schofield, T. I. Kearsey and **C. N. Williams**. Plio‐Pleistocene fault reactivation within the Crag Basin, eastern UK : implications for structural controls of landscape development within an intraplate setting
+(2020). BOREAS. DOI:https://doi.org/10.1111/bor.12462](https://onlinelibrary.wiley.com/doi/full/10.1111/bor.12462)
+
+- [F. Schrodt, B. de la Barreda Bautista, **C. Williams**, et al. (2020) Integrating biodiversity, remote sensing and auxiliary information for the study of ecosystem functioning and conservation at large spatial scales. eds. Jeannine Cavender-Bares, Phil Townsend, John Gamon. Remote Sensing of Plant Biodiversity. Springer. ISBN 978-3-030-33156-6](https://www.springer.com/gp/book/9783030331566)
 
 - [M. Cooper, T. Jordan, D. Schroeder, M. Siegert, **C. Williams** and J. Bamber. Subglacial roughness of the Greenland Ice Sheet: relationship with contemporary ice velocity and geology (2019). The Cryosphere, 13. DOI:https://doi.org/10.5194/tc-2019-73](https://doi.org/10.5194/tc-2019-73)
 
