@@ -36,7 +36,8 @@ This is where you need manipulate the fieldmapping object. First you need to tel
 
 The function is as follows:
 
-```
+
+```python
 def get_fieldmappings_for_join(inVec, joinVec, joinVec__name, specified_fields_dict, DEBUG=False):
 	#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	# Add all attributes to table from the main point file and the file you want to extract from
