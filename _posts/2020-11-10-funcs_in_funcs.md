@@ -36,3 +36,29 @@ performer(partial(func3,2,2,3))
 ```
 
 Where `performer()` represents my master windowing function, `func1()`, `func2()` and `func3()` can then represent whatever it is I want to run inside `performer()`. `functools.partial` let's me pass different numbers of arguments as required.
+
+Below shows an example of where you need to pass something to the function from inside the master function:
+
+```python
+import numpy as np
+
+def master_func(f):
+	arr=np.ones((3,3))	
+	print(f(arr))
+
+def multiplier(v,arr):
+	return(arr*v)
+
+arr_doubler=partial(multiplier,2)
+master_func(arr_doubler)
+```
+
+Below shows an example of where you need to pass something to the function from inside the master function, but also where the function being passed to master has some optional arguments. Therefore, you must pay attention to the order of arguments being passed using `partial`:
+
+```python
+def multiplier_2(v,arr,a=2):
+	return((arr*v)/a)
+
+arr_doubler_2=partial(multiplier_2,2,a=3)
+master_func(arr_doubler_2)
+```
