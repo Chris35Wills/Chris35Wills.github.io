@@ -5,9 +5,9 @@ categories: Python
 ---
 Moving window operations across arrays
 
-Applying functions using moving windows are a common feature of geospatial data analysis and often exist "under the hood" of GIS software. If you've ever calculated a slope or aspect grid from a raster elevation dataset, then the program you've used has made use of a moving window processign oepration. This is particularly relevant for the processing of raster datasets.
+Applying functions using moving windows are a common feature of geospatial data analysis and often exist "under the hood" of GIS software. If you've ever calculated a slope or aspect grid from a raster elevation dataset, then the program you've used has made use of a moving window processing operation. This is particularly relevant for the processing of raster datasets.
 
-Often, an analyst may find that they need to fine tune or create the specific function that will be used by the processing kernel (or across the cells that a moving window covers). Having a quick and effieicent way to do this makes it not only possible to apply any function you want across a dataset, but also to consider impacts of scale etc. The below example shows a simple case of doing this with python's `numpy` and `scipy` modules. For those working in R, you should have a look at the `focal` function in the [raster package](https://cran.r-project.org/web/packages/raster/index.html).
+Often, an analyst may find that they need to fine tune or create the specific function that will be used by the processing kernel (or across the cells that a moving window covers). Having a quick and efficient way to do this makes it not only possible to apply any function you want across a dataset, but also to consider impacts of scale etc. The below example shows a simple case of doing this with python's `numpy` and `scipy` modules. For those working in R, you should have a look at the `focal` function in the [raster package](https://cran.r-project.org/web/packages/raster/index.html).
 
 ## Numpy example 
 
@@ -47,7 +47,7 @@ The same approach then can then be applied across a geosptial raster tile such a
 2. get hold of the array of values
 3. setup your moving window dimensions - this is just the shape of your filter (the values don't matter, just the shape)
 4. define some function to use across the array - something that operates over an array and returns one value
-	- this function will be run at each element of an input array, with the result of the fucntion being used 
+	- this function will be run at each element of an input array, with the result of the function being used 
 		to populate the same element of an output array - an example function:
 5. Use scipy's ndimage.gerenic _filter() to apply the function across the array within the defined moving window / kernel
 6. The output of ndimage.generic_filter will be an array of the same size as your input - write this to a geotiff with the same geospatial information as the input array 
