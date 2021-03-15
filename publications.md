@@ -6,33 +6,9 @@ permalink: /publications/
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1436-6479" href="https://orcid.org/0000-0003-1436-6479" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1436-6479</a></div>
 
-## Project summaries
-
-[Generating synthetic fjord bathymetry for coastal Greenland](/research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
-
-## In the news
-
-With the release of the Greenland bed map (BedMachine v3) in 2017, we had some coverage in the press - have a read:
-
-[Der Spiegel (German)](http://www.spiegel.de/wissenschaft/natur/neue-landkarte-so-sieht-groenland-unter-dem-eis-aus-a-1184163.html)
-
-[BBC article (English)](http://www.bbc.co.uk/news/science-environment-42260580)
-
-[AGU article (English)](https://news.agu.org/press-release/more-greenland-glaciers-threatened-by-climate-change-than-previously-thought/)
-
-## In preparation
-
-- **Williams, C.** et al. (in prep.) LFMapper: spatially scalable linear feature characterisation using the FFT (target journal: The Journal of Open Source Software). 
-
-- **Williams, C.** et al. (in prep.) Rock exposure mapping in upland areas: a random forest aproach. 
-
-- **Williams, C.**, O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
-
 ## Published
 
-- [] 
-
-[A.Payo, **C. Williams**, R. Vernon, A. G. Hulbert, K. A. Lee and J. R. Lee. Geometrical Analysis of the Inland Topography to Assess the Likely Response of Wave-Dominated Coastline to Sea Level: Application to Great Britain (2020).
+- [A.Payo, **C. Williams**, R. Vernon, A. G. Hulbert, K. A. Lee and J. R. Lee. Geometrical Analysis of the Inland Topography to Assess the Likely Response of Wave-Dominated Coastline to Sea Level: Application to Great Britain (2020).
 J. Mar. Sci. Eng., 8(11). DOI:https://doi.org/10.3390/jmse8110866](https://doi.org/10.3390/jmse8110866)
 
 - [J. R. Lee, R. Haslam, M. A. Woods, J. Rose, R. L. Graham, J. R. Ford, D. I. Schofield, T. I. Kearsey and **C. N. Williams**. Plio‐Pleistocene fault reactivation within the Crag Basin, eastern UK : implications for structural controls of landscape development within an intraplate setting
@@ -77,6 +53,28 @@ J. Mar. Sci. Eng., 8(11). DOI:https://doi.org/10.3390/jmse8110866](https://doi.o
 - [LFMapper - grid based linear feature characterisation](https://github.com/Chris35Wills/LFMapper)
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
+
+## Project summaries
+
+[Generating synthetic fjord bathymetry for coastal Greenland](/research_summaries/2017-02-13-synthetic_fjord_geometry_SUMMARY)
+
+## In the news
+
+With the release of the Greenland bed map (BedMachine v3) in 2017, we had some coverage in the press - have a read:
+
+[Der Spiegel (German)](http://www.spiegel.de/wissenschaft/natur/neue-landkarte-so-sieht-groenland-unter-dem-eis-aus-a-1184163.html)
+
+[BBC article (English)](http://www.bbc.co.uk/news/science-environment-42260580)
+
+[AGU article (English)](https://news.agu.org/press-release/more-greenland-glaciers-threatened-by-climate-change-than-previously-thought/)
+
+## In preparation
+
+- **Williams, C.** et al. (in prep.) LFMapper: spatially scalable linear feature characterisation using the FFT (target journal: The Journal of Open Source Software). 
+
+- **Williams, C.** et al. (in prep.) Rock exposure mapping in upland areas: a random forest aproach. 
+
+- **Williams, C.**, O’Leary, M., Luckman, A., Jóhannesson, T., Murray, T., (in prep.) Crevasse mapping - an automated approach (target journal: Earth Surface Processes and Landforms).
 
 ## Spoken and poster presentations
 
