@@ -30,6 +30,11 @@ With the release of the Greenland bed map (BedMachine v3) in 2017, we had some c
 
 ## Published
 
+- [] 
+
+[A.Payo, **C. Williams**, R. Vernon, A. G. Hulbert, K. A. Lee and J. R. Lee. Geometrical Analysis of the Inland Topography to Assess the Likely Response of Wave-Dominated Coastline to Sea Level: Application to Great Britain (2020).
+J. Mar. Sci. Eng., 8(11). DOI:https://doi.org/10.3390/jmse8110866](https://doi.org/10.3390/jmse8110866)
+
 - [J. R. Lee, R. Haslam, M. A. Woods, J. Rose, R. L. Graham, J. R. Ford, D. I. Schofield, T. I. Kearsey and **C. N. Williams**. Plio‐Pleistocene fault reactivation within the Crag Basin, eastern UK : implications for structural controls of landscape development within an intraplate setting
 (2020). BOREAS. DOI:https://doi.org/10.1111/bor.12462](https://onlinelibrary.wiley.com/doi/full/10.1111/bor.12462)
 
